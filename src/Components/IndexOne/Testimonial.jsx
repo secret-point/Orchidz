@@ -60,7 +60,7 @@ const Testimonial = () => {
                 <div className="testimonial--content">
                   <p>“ What even is an NFT? NFT stands for non-fungible token, which basically means that it's one kind digital asset that belongs to you and you only. The most popular NFTs right include artwork and music, include videos and even tweets “</p>
                   <div className="testimonial--avatar--info">
-                    <h5 className="title">Alexandra Pilot</h5>
+                    <h5 className="title">Jeff Hood</h5>
                     <a href="/contact." className="see-all">See All Reviews</a>
                   </div>
                 </div>
@@ -72,7 +72,7 @@ const Testimonial = () => {
                 <div className="testimonial--content">
                   <p>“ What even is an NFT? NFT stands for non-fungible token, which basically means that it's one kind digital asset that belongs to you and you only. The most popular NFTs right include artwork and music, include videos and even tweets “</p>
                   <div className="testimonial--avatar--info">
-                    <h5 className="title">Alexandra Pilot</h5>
+                    <h5 className="title">Jacob Adler</h5>
                     <a href="/contact." className="see-all">See All Reviews</a>
                   </div>
                 </div>
@@ -84,7 +84,7 @@ const Testimonial = () => {
                 <div className="testimonial--content">
                   <p>“ What even is an NFT? NFT stands for non-fungible token, which basically means that it's one kind digital asset that belongs to you and you only. The most popular NFTs right include artwork and music, include videos and even tweets “</p>
                   <div className="testimonial--avatar--info">
-                    <h5 className="title">Alexandra Pilot</h5>
+                    <h5 className="title">Metacurio</h5>
                     <a href="/contact." className="see-all">See All Reviews</a>
                   </div>
                 </div>

@@ -92,7 +92,7 @@ const RankingPage = () => {
                         <td className="price">13,5624</td>
                         <td>+5486%</td>
                         <td>-965%</td>
-                        <td>10,2356 ETH</td>
+                        <td>10,2356 FLO</td>
                         <td>4.3k</td>
                         <td>45k</td>
                       </tr>
@@ -103,7 +103,7 @@ const RankingPage = () => {
                         <td className="price">15,5624</td>
                         <td>+5486%</td>
                         <td>-965%</td>
-                        <td>10,2356 ETH</td>
+                        <td>10,2356 FLO</td>
                         <td>4.3k</td>
                         <td>85k</td>
                       </tr>
@@ -114,7 +114,7 @@ const RankingPage = () => {
                         <td className="price">19,5624</td>
                         <td>+5486%</td>
                         <td>-965%</td>
-                        <td>10,2356 ETH</td>
+                        <td>10,2356 FLO</td>
                         <td>4.3k</td>
                         <td>15k</td>
                       </tr>
@@ -125,7 +125,7 @@ const RankingPage = () => {
                         <td className="price">16,5624</td>
                         <td>+5486%</td>
                         <td>-965%</td>
-                        <td>10,2356 ETH</td>
+                        <td>10,2356 FLO</td>
                         <td>4.3k</td>
                         <td>13k</td>
                       </tr>
@@ -136,7 +136,7 @@ const RankingPage = () => {
                         <td className="price">21,5624</td>
                         <td>+5486%</td>
                         <td>-965%</td>
-                        <td>10,2356 ETH</td>
+                        <td>10,2356 FLO</td>
                         <td>4.3k</td>
                         <td>20k</td>
                       </tr>
@@ -147,7 +147,7 @@ const RankingPage = () => {
                         <td className="price">29,5624</td>
                         <td>+5486%</td>
                         <td>-965%</td>
-                        <td>10,2356 ETH</td>
+                        <td>10,2356 FLO</td>
                         <td>4.3k</td>
                         <td>22k</td>
                       </tr>
@@ -177,7 +177,7 @@ const RankingPage = () => {
                         <td className="price">13,5624</td>
                         <td>+5486%</td>
                         <td>-965%</td>
-                        <td>10,2356 ETH</td>
+                        <td>10,2356 FLO</td>
                         <td>4.3k</td>
                         <td>45k</td>
                       </tr>
@@ -188,7 +188,7 @@ const RankingPage = () => {
                         <td className="price">15,5624</td>
                         <td>+5486%</td>
                         <td>-965%</td>
-                        <td>10,2356 ETH</td>
+                        <td>10,2356 FLO</td>
                         <td>4.3k</td>
                         <td>85k</td>
                       </tr>
@@ -199,7 +199,7 @@ const RankingPage = () => {
                         <td className="price">19,5624</td>
                         <td>+5486%</td>
                         <td>-965%</td>
-                        <td>10,2356 ETH</td>
+                        <td>10,2356 FLO</td>
                         <td>4.3k</td>
                         <td>15k</td>
                       </tr>
@@ -210,7 +210,7 @@ const RankingPage = () => {
                         <td className="price">16,5624</td>
                         <td>+5486%</td>
                         <td>-965%</td>
-                        <td>10,2356 ETH</td>
+                        <td>10,2356 FLO</td>
                         <td>4.3k</td>
                         <td>13k</td>
                       </tr>
@@ -221,7 +221,7 @@ const RankingPage = () => {
                         <td className="price">21,5624</td>
                         <td>+5486%</td>
                         <td>-965%</td>
-                        <td>10,2356 ETH</td>
+                        <td>10,2356 FLO</td>
                         <td>4.3k</td>
                         <td>20k</td>
                       </tr>
@@ -232,7 +232,7 @@ const RankingPage = () => {
                         <td className="price">29,5624</td>
                         <td>+5486%</td>
                         <td>-965%</td>
-                        <td>10,2356 ETH</td>
+                        <td>10,2356 FLO</td>
                         <td>4.3k</td>
                         <td>22k</td>
                       </tr>

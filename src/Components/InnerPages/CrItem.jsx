@@ -29,7 +29,7 @@ const CrItem = () => {
                 <a href="/market-single"><img src="assets/img/others/top_collection06.jpg" alt="" /></a>
               </div>
               <div className="collection-item-content">
-                <h5 className="title"><a href="/market-single">NFT Collection</a> <span className="price">5.4 ETH</span></h5>
+                <h5 className="title"><a href="/market-single">NFT Collection</a> <span className="price">5.4 FLO</span></h5>
               </div>
               <div className="collection-item-bottom">
                 <ul>
@@ -56,11 +56,11 @@ const CrItem = () => {
             </div>
             <div className="form-grp">
               <label htmlFor="price">Price</label>
-              <input id="price" type="text" placeholder="Enter price for one item (ETH)" />
+              <input id="price" type="text" placeholder="Enter price for one item (FLO)" />
             </div>
             <div className="form-grp">
               <label htmlFor="title">Title</label>
-              <input id="title" type="text" placeholder="Enter price for one item (ETH)" />
+              <input id="title" type="text" placeholder="Enter price for one item (FLO)" />
             </div>
             <div className="form-grp">
               <label htmlFor="desc">Description</label>

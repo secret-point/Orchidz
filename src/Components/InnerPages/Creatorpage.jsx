@@ -70,7 +70,7 @@ const Creatorpage = () => {
               </div>
               <div className="creator-content">
                 <h5 className="title"><a href="/author-profile">Franklin Jonas</a></h5>
-                <span>1k Sale 5.47 ETH</span>
+                <span>1k Sale 5.47 FLO</span>
                 <a href="/author-profile" className="btn">follow</a>
               </div>
             </div>
@@ -81,7 +81,7 @@ const Creatorpage = () => {
               </div>
               <div className="creator-content">
                 <h5 className="title"><a href="/author-profile">Franklin Jonas</a></h5>
-                <span>1k Sale 5.47 ETH</span>
+                <span>1k Sale 5.47 FLO</span>
                 <a href="/author-profile" className="btn">follow</a>
               </div>
             </div>
@@ -92,7 +92,7 @@ const Creatorpage = () => {
               </div>
               <div className="creator-content">
                 <h5 className="title"><a href="/author-profile">Franklin Jonas</a></h5>
-                <span>1k Sale 5.47 ETH</span>
+                <span>1k Sale 5.47 FLO</span>
                 <a href="/author-profile" className="btn">follow</a>
               </div>
             </div>
@@ -103,7 +103,7 @@ const Creatorpage = () => {
               </div>
               <div className="creator-content">
                 <h5 className="title"><a href="/author-profile">Franklin Jonas</a></h5>
-                <span>1k Sale 5.47 ETH</span>
+                <span>1k Sale 5.47 FLO</span>
                 <a href="/author-profile" className="btn">follow</a>
               </div>
             </div>
@@ -114,7 +114,7 @@ const Creatorpage = () => {
               </div>
               <div className="creator-content">
                 <h5 className="title"><a href="/author-profile">Franklin Jonas</a></h5>
-                <span>1k Sale 5.47 ETH</span>
+                <span>1k Sale 5.47 FLO</span>
                 <a href="/author-profile" className="btn">follow</a>
               </div>
             </div>
@@ -125,7 +125,7 @@ const Creatorpage = () => {
               </div>
               <div className="creator-content">
                 <h5 className="title"><a href="/author-profile">Franklin Jonas</a></h5>
-                <span>1k Sale 5.47 ETH</span>
+                <span>1k Sale 5.47 FLO</span>
                 <a href="/author-profile" className="btn">follow</a>
               </div>
             </div>
@@ -136,7 +136,7 @@ const Creatorpage = () => {
               </div>
               <div className="creator-content">
                 <h5 className="title"><a href="/author-profile">Franklin Jonas</a></h5>
-                <span>1k Sale 5.47 ETH</span>
+                <span>1k Sale 5.47 FLO</span>
                 <a href="/author-profile" className="btn">follow</a>
               </div>
             </div>

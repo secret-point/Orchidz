@@ -42,7 +42,7 @@ const BrowseCate = () => {
                 <form action="#" className="on-sale">
                   <div className="form-check">
                     <input className="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1" />
-                    <label className="form-check-label" htmlFor="flexRadioDefault1">ETH</label>
+                    <label className="form-check-label" htmlFor="flexRadioDefault1">FLO</label>
                   </div>
                   <div className="form-check">
                     <input className="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" defaultChecked />
@@ -77,7 +77,7 @@ const BrowseCate = () => {
                   <a href="/market-single"><img src="assets/img/others/top_collection01.jpg" alt="" /></a>
                 </div>
                 <div className="collection-item-content">
-                  <h5 className="title"><a href="/market-single">NFT Collection</a> <span className="price">5.4 ETH</span></h5>
+                  <h5 className="title"><a href="/market-single">NFT Collection</a> <span className="price">5.4 FLO</span></h5>
                 </div>
                 <div className="collection-item-bottom">
                   <ul>
@@ -109,7 +109,7 @@ const BrowseCate = () => {
                   <a href="/market-single"><img src="assets/img/others/top_collection05.jpg" alt="" /></a>
                 </div>
                 <div className="collection-item-content">
-                  <h5 className="title"><a href="/market-single">Peo Collection</a> <span className="price">5.4 ETH</span></h5>
+                  <h5 className="title"><a href="/market-single">Peo Collection</a> <span className="price">5.4 FLO</span></h5>
                 </div>
                 <div className="collection-item-bottom">
                   <ul>
@@ -141,7 +141,7 @@ const BrowseCate = () => {
                   <a href="/market-single"><img src="assets/img/others/top_collection06.jpg" alt="" /></a>
                 </div>
                 <div className="collection-item-content">
-                  <h5 className="title"><a href="/market-single">Craft Collection</a> <span className="price">5.4 ETH</span></h5>
+                  <h5 className="title"><a href="/market-single">Craft Collection</a> <span className="price">5.4 FLO</span></h5>
                 </div>
                 <div className="collection-item-bottom">
                   <ul>
@@ -173,7 +173,7 @@ const BrowseCate = () => {
                   <a href="/market-single"><img src="assets/img/others/top_collection07.jpg" alt="" /></a>
                 </div>
                 <div className="collection-item-content">
-                  <h5 className="title"><a href="/market-single">Action Collection</a> <span className="price">5.4 ETH</span></h5>
+                  <h5 className="title"><a href="/market-single">Action Collection</a> <span className="price">5.4 FLO</span></h5>
                 </div>
                 <div className="collection-item-bottom">
                   <ul>
@@ -205,7 +205,7 @@ const BrowseCate = () => {
                   <a href="/market-single"><img src="assets/img/others/top_collection08.jpg" alt="" /></a>
                 </div>
                 <div className="collection-item-content">
-                  <h5 className="title"><a href="/market-single">NFT Collection</a> <span className="price">5.4 ETH</span></h5>
+                  <h5 className="title"><a href="/market-single">NFT Collection</a> <span className="price">5.4 FLO</span></h5>
                 </div>
                 <div className="collection-item-bottom">
                   <ul>
@@ -237,7 +237,7 @@ const BrowseCate = () => {
                   <a href="/market-single"><img src="assets/img/others/top_collection09.jpg" alt="" /></a>
                 </div>
                 <div className="collection-item-content">
-                  <h5 className="title"><a href="/market-single">NFT Collection</a> <span className="price">5.4 ETH</span></h5>
+                  <h5 className="title"><a href="/market-single">NFT Collection</a> <span className="price">5.4 FLO</span></h5>
                 </div>
                 <div className="collection-item-bottom">
                   <ul>
@@ -269,7 +269,7 @@ const BrowseCate = () => {
                   <a href="/market-single"><img src="assets/img/others/top_collection10.jpg" alt="" /></a>
                 </div>
                 <div className="collection-item-content">
-                  <h5 className="title"><a href="/market-single">NFT Collection</a> <span className="price">5.4 ETH</span></h5>
+                  <h5 className="title"><a href="/market-single">NFT Collection</a> <span className="price">5.4 FLO</span></h5>
                 </div>
                 <div className="collection-item-bottom">
                   <ul>
@@ -301,7 +301,7 @@ const BrowseCate = () => {
                   <a href="/market-single"><img src="assets/img/others/top_collection11.jpg" alt="" /></a>
                 </div>
                 <div className="collection-item-content">
-                  <h5 className="title"><a href="/market-single">Dark Collection</a> <span className="price">5.4 ETH</span></h5>
+                  <h5 className="title"><a href="/market-single">Dark Collection</a> <span className="price">5.4 FLO</span></h5>
                 </div>
                 <div className="collection-item-bottom">
                   <ul>
@@ -333,7 +333,7 @@ const BrowseCate = () => {
                   <a href="/market-single"><img src="assets/img/others/top_collection02.jpg" alt="" /></a>
                 </div>
                 <div className="collection-item-content">
-                  <h5 className="title"><a href="/market-single">Artwork Collection</a> <span className="price">5.4 ETH</span></h5>
+                  <h5 className="title"><a href="/market-single">Artwork Collection</a> <span className="price">5.4 FLO</span></h5>
                 </div>
                 <div className="collection-item-bottom">
                   <ul>
