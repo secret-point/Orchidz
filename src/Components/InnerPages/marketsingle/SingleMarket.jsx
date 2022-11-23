@@ -91,7 +91,7 @@ const SingleMarket = () => {
                   </th>
                   <td>+5486%</td>
                   <td>-965%</td>
-                  <td>2,356 ETH</td>
+                  <td>2,356 FLO</td>
                 </tr>
                 <tr>
                   <th scope="row" className="author">
@@ -99,7 +99,7 @@ const SingleMarket = () => {
                   </th>
                   <td>+5486%</td>
                   <td>-965%</td>
-                  <td>2,356 ETH</td>
+                  <td>2,356 FLO</td>
                 </tr>
                 <tr>
                   <th scope="row" className="author">
@@ -107,7 +107,7 @@ const SingleMarket = () => {
                   </th>
                   <td>+5486%</td>
                   <td>-965%</td>
-                  <td>2,356 ETH</td>
+                  <td>2,356 FLO</td>
                 </tr>
               </tbody>
             </table>
@@ -141,7 +141,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -156,7 +156,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -171,7 +171,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -186,7 +186,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -201,7 +201,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -216,7 +216,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -231,7 +231,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -252,7 +252,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -267,7 +267,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -282,7 +282,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -297,7 +297,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -312,7 +312,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -327,7 +327,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -342,7 +342,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -363,7 +363,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -378,7 +378,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -393,7 +393,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -408,7 +408,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -423,7 +423,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -438,7 +438,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
@@ -453,7 +453,7 @@ const SingleMarket = () => {
                         </div>
                         <div className="bid-history-info">
                           <span>8 hours ago</span>
-                          <h6 className="title">25 ETH</h6>
+                          <h6 className="title">25 FLO</h6>
                         </div>
                       </div>
                     </li>
