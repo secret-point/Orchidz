@@ -20,7 +20,7 @@ const TopSeller = () => {
               </div>
               <div className="top-seller-content">
                 <h5 className="title"><a href="/author-profile ">Jeff Hood</a></h5>
-                <p>885.5 <span>Eth</span></p>
+                <p>885.5 <span>FLO</span></p>
                 <ul className="icon">
                   <li><a href="/collections "><i className="fi-sr-pharmacy" /></a></li>
                   <li><a href="/login-register "><i className="fi-sr-share" /></a></li>
@@ -35,7 +35,7 @@ const TopSeller = () => {
               </div>
               <div className="top-seller-content">
                 <h5 className="title"><a href="/author-profile ">Jeff Hood</a></h5>
-                <p>885.5 <span>Eth</span></p>
+                <p>885.5 <span>FLO</span></p>
                 <ul className="icon">
                   <li><a href="/collections "><i className="fi-sr-pharmacy" /></a></li>
                   <li><a href="/login-register "><i className="fi-sr-share" /></a></li>
@@ -50,7 +50,7 @@ const TopSeller = () => {
               </div>
               <div className="top-seller-content">
                 <h5 className="title"><a href="/author-profile ">Jeff Hood</a></h5>
-                <p>885.5 <span>Eth</span></p>
+                <p>885.5 <span>FLO</span></p>
                 <ul className="icon">
                   <li><a href="/collections "><i className="fi-sr-pharmacy" /></a></li>
                   <li><a href="/login-register "><i className="fi-sr-share" /></a></li>
@@ -65,7 +65,7 @@ const TopSeller = () => {
               </div>
               <div className="top-seller-content">
                 <h5 className="title"><a href="/author-profile ">Jeff Hood</a></h5>
-                <p>885.5 <span>Eth</span></p>
+                <p>885.5 <span>FLO</span></p>
                 <ul className="icon">
                   <li><a href="/collections "><i className="fi-sr-pharmacy" /></a></li>
                   <li><a href="/login-register "><i className="fi-sr-share" /></a></li>
