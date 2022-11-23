@@ -17,7 +17,7 @@ const BlogContent = () => {
                     <li><a href="/#"><i className="flaticon-calendar" />Mar 10, 2022</a></li>
                   </ul>
                   <h4 className="title"><a href="/blog-details">Marketplace is the online shop for the video</a></h4>
-                  <p>Wallet that is functional for NFT purcasin You have Coinbase account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes a metadata that distinguish them from each other Unlike cryptocurren.</p>
+                  <p>Wallet that is functional for NFT purcasin You have Flow account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes a metadata that distinguish them from each other Unlike cryptocurren.</p>
                   <div className="blog-line" />
                   <ul className="blog-post-bottom">
                     <li className="read-more"><a href="/blog-details" className="btn">Read more</a></li>
@@ -43,7 +43,7 @@ const BlogContent = () => {
                     <li><a href="/#"><i className="flaticon-calendar" />Mar 10, 2022</a></li>
                   </ul>
                   <h4 className="title"><a href="/blog-details">Marketplace is the online shop for the video</a></h4>
-                  <p>Wallet that is functional for NFT purcasin You have Coinbase account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes a metadata that distinguish them from each other Unlike cryptocurren.</p>
+                  <p>Wallet that is functional for NFT purcasin You have Flow account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes a metadata that distinguish them from each other Unlike cryptocurren.</p>
                   <div className="blog-line" />
                   <ul className="blog-post-bottom">
                     <li className="read-more"><a href="/blog-details" className="btn">Read more</a></li>
@@ -69,7 +69,7 @@ const BlogContent = () => {
                     <li><a href="/#"><i className="flaticon-calendar" />Mar 10, 2022</a></li>
                   </ul>
                   <h4 className="title"><a href="/blog-details">Marketplace is the online shop for the video</a></h4>
-                  <p>Wallet that is functional for NFT purcasin You have Coinbase account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes a metadata that distinguish them from each other Unlike cryptocurren.</p>
+                  <p>Wallet that is functional for NFT purcasin You have Flow account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes a metadata that distinguish them from each other Unlike cryptocurren.</p>
                   <div className="blog-line" />
                   <ul className="blog-post-bottom">
                     <li className="read-more"><a href="/blog-details" className="btn">Read more</a></li>
@@ -102,7 +102,7 @@ const BlogContent = () => {
                     <ul>
                       <li><a href="/#">Domain Names <i className="fas fa-angle-double-right" /></a></li>
                       <li><a href="/#">Photography <i className="fas fa-angle-double-right" /></a></li>
-                      <li><a href="/#">Coinbase <i className="fas fa-angle-double-right" /></a></li>
+                      <li><a href="/#">Flow <i className="fas fa-angle-double-right" /></a></li>
                       <li><a href="/#">Trading Cards <i className="fas fa-angle-double-right" /></a></li>
                     </ul>
                   </div>

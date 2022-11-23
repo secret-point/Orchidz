@@ -17,7 +17,7 @@ const SellNft = () => {
             <img src="assets/img/icons/nfts_01.png" alt="" className="icon" />
             <span className="step-count">go step 1</span>
             <h5 className="title">Create And Sell</h5>
-            <p>Wallet that is functional for NFT purchasing. You have Coinbase account at this point.</p>
+            <p>Wallet that is functional for NFT purchasing. You have Flow account at this point.</p>
           </div>
         </div>
         <div className="col-xl-3 col-lg-4 col-md-6">
@@ -25,7 +25,7 @@ const SellNft = () => {
             <img src="assets/img/icons/nfts_02.png" alt="" className="icon" />
             <span className="step-count">go step 2</span>
             <h5 className="title">Create Collection</h5>
-            <p>Wallet that is functional for NFT purchasing. You have Coinbase account at this point.</p>
+            <p>Wallet that is functional for NFT purchasing. You have Flow account at this point.</p>
           </div>
         </div>
         <div className="col-xl-3 col-lg-4 col-md-6">
@@ -33,7 +33,7 @@ const SellNft = () => {
             <img src="assets/img/icons/nfts_03.png" alt="" className="icon" />
             <span className="step-count">go step 3</span>
             <h5 className="title">Add Your NFTs</h5>
-            <p>Wallet that is functional for NFT purchasing. You have Coinbase account at this point.</p>
+            <p>Wallet that is functional for NFT purchasing. You have Flow account at this point.</p>
           </div>
         </div>
         <div className="col-xl-3 col-lg-4 col-md-6">
@@ -41,7 +41,7 @@ const SellNft = () => {
             <img src="assets/img/icons/nfts_04.png" alt="" className="icon" />
             <span className="step-count">go step 4</span>
             <h5 className="title">List Them For Sale</h5>
-            <p>Wallet that is functional for NFT purchasing. You have Coinbase account at this point.</p>
+            <p>Wallet that is functional for NFT purchasing. You have Flow account at this point.</p>
           </div>
         </div>
       </div>

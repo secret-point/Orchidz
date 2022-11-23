@@ -17,16 +17,16 @@ const BlogDetailsContent = () => {
                     <li><a href="/#"><i className="flaticon-calendar" />Mar 10, 2022</a></li>
                   </ul>
                   <h4 className="title">Marketplace is the online shop for the video</h4>
-                  <p>Wallet that is functional for NFT purcasin You have Coinbase account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes a metadata that distinguish them from each other Unlike cryptocurren.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-                  <p>Dallet that is functional for NFT purcasin You have Coinbase account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes a metadata that distinguish them from each other Unlike cryptocurren.</p>
+                  <p>Wallet that is functional for NFT purcasin You have Flow account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes a metadata that distinguish them from each other Unlike cryptocurren.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                  <p>Dallet that is functional for NFT purcasin You have Flow account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes a metadata that distinguish them from each other Unlike cryptocurren.</p>
                   <blockquote>
-                    “ Wallet that is functional for NFT purcasin You have Coinbase account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes “
+                    “ Wallet that is functional for NFT purcasin You have Flow account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes “
                     <footer>jon Bernthal</footer>
                   </blockquote>
-                  <p>Mallet that is functional for NFT purcasin You have Coinbase account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes a metadata that distinguish them from each other Unlike cryptocurren.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                  <p>Mallet that is functional for NFT purcasin You have Flow account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes a metadata that distinguish them from each other Unlike cryptocurren.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
                   <h4 className="small-title">The online shop for the video</h4>
-                  <p>Gallet that is functional for NFT purcasin You have Coinbase account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes a metadata that distinguish them from each other Unlike cryptocurren.</p>
-                  <p>Wallet that is functional for NFT purcasin You have Coinbase account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes a metadata that distinguish them from each other Unlike cryptocurren.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                  <p>Gallet that is functional for NFT purcasin You have Flow account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes a metadata that distinguish them from each other Unlike cryptocurren.</p>
+                  <p>Wallet that is functional for NFT purcasin You have Flow account at this point.Lorem ipsum nsectetur. Non fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes a metadata that distinguish them from each other Unlike cryptocurren.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
                   <div className="blog-line" />
                   <div className="blog-details-bottom">
                     <div className="blog-details-tags">
@@ -113,7 +113,7 @@ const BlogDetailsContent = () => {
                     <ul>
                       <li><a href="/#">Domain Names <i className="fas fa-angle-double-right" /></a></li>
                       <li><a href="/#">Photography <i className="fas fa-angle-double-right" /></a></li>
-                      <li><a href="/#">Coinbase <i className="fas fa-angle-double-right" /></a></li>
+                      <li><a href="/#">Flow <i className="fas fa-angle-double-right" /></a></li>
                       <li><a href="/#">Trading Cards <i className="fas fa-angle-double-right" /></a></li>
                     </ul>
                   </div>

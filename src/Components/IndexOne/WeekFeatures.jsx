@@ -30,7 +30,7 @@ const WeekFeatures = () => {
           <div className="row">
             <div className="col-lg-12">
               <div className="section-title mb-35">
-                <h2 className="title">Features of the week <img src="assets/img/icons/title_icon02.png" alt="" /></h2>
+                <h2 className="title">Featured  <img src="assets/img/icons/title_icon02.png" alt="" /></h2>
               </div>
             </div>
           </div>
@@ -44,7 +44,7 @@ const WeekFeatures = () => {
                     </div>
                     <div className="features-avatar-info">
                       <h5 className="title"><a href="/nft-marketplace">Deploy Abstract</a></h5>
-                      <span>Created by <a href="/author-profile">Konx</a></span>
+                      <span>Created by <a href="/author-profile">Rishi</a></span>
                     </div>
                   </div>
                   <div className="features-item-wishlist">
@@ -67,7 +67,7 @@ const WeekFeatures = () => {
                     </div>
                     <div className="features-avatar-info">
                       <h5 className="title"><a href="/nft-marketplace">Random Abstract</a></h5>
-                      <span>Created by <a href="/author-profile">Tanuok</a></span>
+                      <span>Created by <a href="/author-profile">Jacob</a></span>
                     </div>
                   </div>
                   <div className="features-item-wishlist">
@@ -89,7 +89,7 @@ const WeekFeatures = () => {
                     </div>
                     <div className="features-avatar-info">
                       <h5 className="title"><a href="/nft-marketplace">Colorful Abstract</a></h5>
-                      <span>Created by <a href="/author-profile">Jonson</a></span>
+                      <span>Created by <a href="/author-profile">Jeff</a></span>
                     </div>
                   </div>
                   <div className="features-item-wishlist">
