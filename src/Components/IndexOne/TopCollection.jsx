@@ -99,7 +99,7 @@ const TopCollection = () => {
               <a href="/market-single"><img src="assets/img/others/top_collection01.jpg" alt="" /></a>
             </div>
             <div className="collection-item-content">
-              <h5 className="title"><a href="/market-single">NFT Collection</a> <span className="price">5.4 ETH</span></h5>
+              <h5 className="title"><a href="/market-single">NFT Collection</a> <span className="price">5.4 FLO</span></h5>
             </div>
             <div className="collection-item-bottom">
               <ul>
@@ -131,7 +131,7 @@ const TopCollection = () => {
               <a href="/market-single"><img src="assets/img/others/top_collection02.jpg" alt="" /></a>
             </div>
             <div className="collection-item-content">
-              <h5 className="title"><a href="/market-single">Colorful Abstract</a> <span className="price">5.4 ETH</span></h5>
+              <h5 className="title"><a href="/market-single">Colorful Abstract</a> <span className="price">5.4 FLO</span></h5>
             </div>
             <div className="collection-item-bottom">
               <ul>
@@ -163,7 +163,7 @@ const TopCollection = () => {
               <a href="/market-single"><img src="assets/img/others/top_collection03.jpg" alt="" /></a>
             </div>
             <div className="collection-item-content">
-              <h5 className="title"><a href="/market-single">The girl firefly</a> <span className="price">5.4 ETH</span></h5>
+              <h5 className="title"><a href="/market-single">The girl firefly</a> <span className="price">5.4 FLO</span></h5>
             </div>
             <div className="collection-item-bottom">
               <ul>
@@ -195,7 +195,7 @@ const TopCollection = () => {
               <a href="/market-single"><img src="assets/img/others/top_collection04.jpg" alt="" /></a>
             </div>
             <div className="collection-item-content">
-              <h5 className="title"><a href="/market-single">Forest Princess</a> <span className="price">5.4 ETH</span></h5>
+              <h5 className="title"><a href="/market-single">Forest Princess</a> <span className="price">5.4 FLO</span></h5>
             </div>
             <div className="collection-item-bottom">
               <ul>
@@ -227,7 +227,7 @@ const TopCollection = () => {
               <a href="/market-single"><img src="assets/img/others/top_collection05.jpg" alt="" /></a>
             </div>
             <div className="collection-item-content">
-              <h5 className="title"><a href="/market-single">NFT Painting</a> <span className="price">5.4 ETH</span></h5>
+              <h5 className="title"><a href="/market-single">NFT Painting</a> <span className="price">5.4 FLO</span></h5>
             </div>
             <div className="collection-item-bottom">
               <ul>
