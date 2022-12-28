@@ -11,9 +11,9 @@ const Banner = () => {
                 <div className="row">
                   <div className="col-lg-6 col-md-8">
                     <div className="banner-content">
-                      <h2 className="title">Welcome <br /> <span>To</span> Orchidz</h2>
+                      <h2 className="title">Welcome <br /> <span>To</span> Orchidz Launchpad</h2>
                       <p>Get Involved</p>
-                      <a href="/login-register" className="banner-btn">Let’s get started <i className="fi-sr-arrow-right" /></a>
+                      <a href="/login-register" className="banner-btn">click Here To Get Started! <i className="fi-sr-arrow-right" /></a>
                     </div>
                   </div>
                 </div>
