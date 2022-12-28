@@ -12,8 +12,8 @@ const Banner = () => {
                   <div className="col-lg-6 col-md-8">
                     <div className="banner-content">
                       <h2 className="title">Welcome <br /> <span>To</span> Orchidz</h2>
-                      <p>Launchpad</p>
-                      <a href="/login-register" className="banner-btn">click Here To Get Started! <i className="fi-sr-arrow-right" /></a>
+                      <p>Orchids is a Truly decentralized marketplace focusing on localized content channels in Greater Asia, easy onboarding & accessible trader tools, and true customer and partner support  powered by an established Web3 creative agency and experienced team</p>
+                      <a href="/login-register" className="banner-btn">Go To Launchpad <i className="fi-sr-arrow-right" /></a>
                     </div>
                   </div>
                 </div>
