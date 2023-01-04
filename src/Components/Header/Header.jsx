@@ -106,7 +106,7 @@ if ($('.scroll-to-target').length) {
           <div className="mobile-nav-toggler"><i className="fas fa-bars" /></div>
             <div className="menu-wrap main-menu">
               <nav className="menu-nav">
-                <div className="logo"><a href="/#"><img src="assets/img/logo/logo.png" alt="" /></a></div>
+                <div className="logo"><a href="/#"><img src="assets/img/logo/Logo.png" alt="" /></a></div>
                 <div className="header-form">
                   <form action="#">
                     <button><i className="flaticon-search" /></button>
