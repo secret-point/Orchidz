@@ -106,7 +106,7 @@ if ($('.scroll-to-target').length) {
           <div className="mobile-nav-toggler"><i className="fas fa-bars" /></div>
             <div className="menu-wrap main-menu">
               <nav className="menu-nav">
-                <div className="logo"><a href="/#"><img src="assets/img/logo/naftmak.svg" alt="" /></a></div>
+                <div className="logo"><a href="/#"><img src="assets/img/logo/logo.png" alt="" /></a></div>
                 <div className="header-form">
                   <form action="#">
                     <button><i className="flaticon-search" /></button>
@@ -152,7 +152,7 @@ if ($('.scroll-to-target').length) {
              <div className="mobile-menu">
                     <nav className="menu-box">
                       <div className="close-btn"><i className="fas fa-times" /></div>
-                      <div className="nav-logo"><a href="/#"><img src="assets/img/logo/logo.png" alt="" title="true" /></a>
+                      <div className="nav-logo"><a href="/#"><img src="assets/img/logo/Logo2.png" alt="" title="true" /></a>
                       </div>
                       <div className="menu-outer">
                        

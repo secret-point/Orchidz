@@ -1,7 +1,7 @@
 /*
-  Theme Name: NFTMAK - NFT Marketplace Template.
+   Name: ORCHIDZ - NFT Marketplace .
   Support: admin@gmail.com
-  Description: NFTMAK - NFT Marketplace Template.
+  Description: Orchidz - NFT Marketplace .
   Version: 1.0
 */
 
@@ -42,11 +42,11 @@
 :root {
 	--font-family-body: 'Poppins', sans-serif;
 	--font-family-heading: 'Poppins', sans-serif;
-	--primary-color: #1D1933;
-	--secondary-color: #131129;
-	--body-text-color: #C9C9C9;
+	--primary-color: #C2B8F5;
+	--secondary-color: #C2CEF7;
+	--body-text-color: rgb(255, 255, 255);
 	--heading-text-color: #fff;
-	--paragraph-text-color: #C9C9C9;
+	--paragraph-text-color: #fff;
 	--nft-gradient-color: linear-gradient(79deg, rgba(99,69,237,1) 0%, rgba(224,57,253,1) 100%);
 	--gradient-btn-hover: linear-gradient(90deg, rgba(224,57,253,1) 0%, rgba(99,69,237,1) 100%);
 	--facebook: #3b5998;
@@ -55,13 +55,13 @@
 	--pinterest: #3b5998;
 	--youtube: #c4302b;
 	--skype: #00aff0;
-    --section-background-color: #070B24;
-	--header-background-color: #1C1832;
+    --section-background-color: #C2CEF7;
+	--header-background-color: #C2B8F5;
 	--sidebar-icon-background: linear-gradient(rgb(41, 38, 73) 0%, rgba(19, 17, 41, 0) 100%);
-	--icon-color: #59606B;
-	--icon-border-color: #2A2547;
+	--icon-color: #fff;
+	--icon-border-color: #fff;
 	--header-border-color: #222121;
-	--menu-color: #D4CDCD;
+	--menu-color: #fff;
 	--header-form-border-color: #322C50;
 	--purple-color: #E039FD;
 	--dark-blue-color: #6345ED;
@@ -769,7 +769,7 @@ label {
     font-size: 16px;
     line-height: 32px;
     color: #ffffff;
-    background: #2a244a;
+    background: #fff;
     cursor: pointer;
     border-radius: 2px;
     -webkit-transition: all 500ms ease;
@@ -1096,7 +1096,7 @@ label {
 .sidebar-logo img,
 .footer-logo img,
 .nav-logo img {
-    width: 30px;
+    width: 25px;
 }
 .sidebar-icon {
     flex-grow: 1;
@@ -1162,7 +1162,7 @@ label {
     margin-bottom: 0;
 }
 .breadcrumb-bg-two {
-    background-image: url(../img/bg/breadcrumb_bg02.jpg);
+    background-image: url(../img/bg/breadcrumb_bg02.png);
 }
 .market-single-breadcrumb-area {
     padding: 30px 0 30px;
@@ -1354,7 +1354,7 @@ label {
 
 /* 7. Banner */
 .banner-bg {
-    background-image: url(../img/banner/banner_bg.jpg);
+    background-image: url(../img/banner/banner_bg.png);
     background-size: cover;
     background-position: top center;
 }
@@ -2103,7 +2103,7 @@ label {
 }
 .features-avatar-info > span {
 	display: block;
-	color: #BCBABA;
+	color: #fff;
 	font-size: 13px;
 	font-weight: 600;
 }
@@ -3106,7 +3106,7 @@ label {
     font-weight: 500;
     font-style: italic;
     line-height: 1.65;
-    color: #D2D1D1;
+    color: #fff;
     margin-bottom: 0;
 }
 .testimonial--avatar--info .title {

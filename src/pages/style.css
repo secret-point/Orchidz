@@ -42,8 +42,8 @@
 :root {
 	--font-family-body: 'Poppins', sans-serif;
 	--font-family-heading: 'Poppins', sans-serif;
-	--primary-color: #1D1933;
-	--secondary-color: #131129;
+	--primary-color: #C9C9C9;
+	--secondary-color: #C9C9C9;
 	--body-text-color: #C9C9C9;
 	--heading-text-color: #fff;
 	--paragraph-text-color: #C9C9C9;
@@ -55,16 +55,16 @@
 	--pinterest: #3b5998;
 	--youtube: #c4302b;
 	--skype: #00aff0;
-    --section-background-color: #070B24;
-	--header-background-color: #1C1832;
-	--sidebar-icon-background: linear-gradient(rgb(41, 38, 73) 0%, rgba(19, 17, 41, 0) 100%);
+    --section-background-color: #C9C9C9;
+	--header-background-color: #C9C9C9;
+	--sidebar-icon-background: linear-gradient(rgb(202, 201, 213) 0%, rgba(247, 247, 248, 0) 100%);
 	--icon-color: #59606B;
 	--icon-border-color: #2A2547;
 	--header-border-color: #222121;
 	--menu-color: #D4CDCD;
 	--header-form-border-color: #322C50;
-	--purple-color: #E039FD;
-	--dark-blue-color: #6345ED;
+	--purple-color: #C9C9C9;
+	--dark-blue-color: #C9C9C9;
 }
 body {
 	font-family: var(--font-family-body);
@@ -1354,7 +1354,7 @@ label {
 
 /* 7. Banner */
 .banner-bg {
-    background-image: url(../img/banner/banner_bg.jpg);
+    background-image: url(../img/banner/banner_bg.png);
     background-size: cover;
     background-position: top center;
 }
@@ -2103,7 +2103,7 @@ label {
 }
 .features-avatar-info > span {
 	display: block;
-	color: #BCBABA;
+	color: #fff;
 	font-size: 13px;
 	font-weight: 600;
 }
