@@ -9,7 +9,7 @@ const SideBar = () => {
     <div className="sidebar-icon">
       <ul>
         <li className="active"><a href="/#"><i className="fi-sr-apps-delete" /></a></li>
-        <li><a href="/nft-live-bidding"><i className="fi-sr-book-alt" /></a></li>
+        <li><a href="https://orchidz-chat-next-app.vercel.app/"><i className="fi-sr-comment" /></a></li>
         <li><a href="/collections"><i className="fi-sr-butterfly" /></a></li>
         <li><a href="/create-item"><i className="fi-sr-camping" /></a></li>
         <li><a href="/category"><i className="fi-sr-crown" /></a></li>
