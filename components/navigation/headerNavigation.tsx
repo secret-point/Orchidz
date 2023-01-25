@@ -1,4 +1,3 @@
-import { OrchidzLogo } from "@/public/orchidzLogo";
 import {
   Navbar,
   Link,
@@ -6,8 +5,12 @@ import {
   Avatar,
   Dropdown,
   Button,
+  Input,
 } from "@nextui-org/react";
 import React from "react";
+import HeaderNavigatonGeneralMenu from "./headerNavigationGeneralMenu";
+import HeaderNavigationLogo from "./headerNavigationLogo";
+import HeaderNavigationSearch from "./headerNavigationSearch";
 
 export default function HeaderNavigation() {
   const [isLoggedIn, setIsLoggedIn] = React.useState(false);
@@ -37,25 +40,10 @@ export default function HeaderNavigation() {
 
   if (isLoggedIn) {
     return (
-      <Navbar isBordered variant="static">
+      <Navbar isBordered variant="static" maxWidth={"xl"}>
         <Navbar.Toggle showIn="xs" />
-        <Navbar.Brand
-          css={{
-            "@xs": {
-              w: "12%",
-            },
-          }}
-        >
-          <OrchidzLogo />
-        </Navbar.Brand>
-        <Navbar.Content activeColor="default" hideIn="xs" variant="highlight">
-          <Navbar.Link href="#">Launchpad</Navbar.Link>
-          <Navbar.Link href="#">Gaming</Navbar.Link>
-          <Navbar.Link href="#">Explore</Navbar.Link>
-          <Navbar.Link href="#">Ranking</Navbar.Link>
-          <Navbar.Link href="#">Chat</Navbar.Link>
-          <Navbar.Link href="#">Analytics</Navbar.Link>
-        </Navbar.Content>
+        <HeaderNavigationLogo></HeaderNavigationLogo>
+
         <Navbar.Content
           css={{
             "@sm": {
@@ -64,6 +52,7 @@ export default function HeaderNavigation() {
             },
           }}
         >
+          <HeaderNavigatonGeneralMenu></HeaderNavigatonGeneralMenu>
           <Dropdown placement="bottom-right">
             <Navbar.Item>
               <Dropdown.Trigger>
@@ -126,25 +115,9 @@ export default function HeaderNavigation() {
     );
   }
   return (
-    <Navbar isBordered variant="static">
+    <Navbar isBordered variant="static" maxWidth={"xl"}>
       <Navbar.Toggle showIn="xs" />
-      <Navbar.Brand
-        css={{
-          "@xs": {
-            w: "12%",
-          },
-        }}
-      >
-        <OrchidzLogo />
-      </Navbar.Brand>
-      <Navbar.Content activeColor="default" hideIn="xs" variant="highlight">
-        <Navbar.Link href="#">Launchpad</Navbar.Link>
-        <Navbar.Link href="#">Gaming</Navbar.Link>
-        <Navbar.Link href="#">Explore</Navbar.Link>
-        <Navbar.Link href="#">Ranking</Navbar.Link>
-        <Navbar.Link href="#">Chat</Navbar.Link>
-        <Navbar.Link href="#">Analytics</Navbar.Link>
-      </Navbar.Content>
+      <HeaderNavigationLogo></HeaderNavigationLogo>
       <Navbar.Content
         css={{
           "@sm": {
@@ -153,9 +126,8 @@ export default function HeaderNavigation() {
           },
         }}
       >
-        <Navbar.Link color="inherit" href="#">
-          Login
-        </Navbar.Link>
+        <HeaderNavigationSearch></HeaderNavigationSearch>
+        <HeaderNavigatonGeneralMenu></HeaderNavigatonGeneralMenu>
         <Navbar.Item>
           <Button
             auto
@@ -164,9 +136,12 @@ export default function HeaderNavigation() {
             href="#"
             onClick={() => setIsLoggedIn(true)}
           >
-            Sign Up
+            Create
           </Button>
         </Navbar.Item>
+        <Navbar.Link color="inherit" href="#">
+          My Account
+        </Navbar.Link>
       </Navbar.Content>
       <Navbar.Collapse disableAnimation>
         {collapseItems.map((item, index) => (
