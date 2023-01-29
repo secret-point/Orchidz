@@ -1,0 +1,24 @@
+{
+  "links": [
+    {
+      "link": "/gaming",
+      "label": "Gaming"
+    },
+    {
+      "link": "/explore",
+      "label": "Explore"
+    },
+    {
+      "link": "/ranking",
+      "label": "Ranking"
+    },
+    {
+      "link": "/chat",
+      "label": "Chat"
+    },
+    {
+      "link": "/analysis",
+      "label": "Analysis"
+    }
+  ]
+}

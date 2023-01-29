@@ -1,10 +1,14 @@
-import { Layout } from "@/components/layout/layout";
-import HeaderNavigation from "@/components/navigation/headerNavigation";
+import { HeaderNavigation } from '../components/HeaderNavigation/HeaderNavigation';
+import HeaderSearchAttributes from '../components/HeaderNavigation/HeaderNavigationAttributes.json';
+import { FeaturedCollection } from '../components/Landing/FeaturedCollection';
+import { FeaturedProjects } from '../components/Landing/ProjectCard';
 
-export default function App() {
+export default function HomePage() {
   return (
-    <Layout>
-      <HeaderNavigation></HeaderNavigation>
-    </Layout>
+    <>
+    <HeaderNavigation links={HeaderSearchAttributes.links} />
+    <FeaturedCollection />
+    <FeaturedProjects />
+    </>
   );
 }
