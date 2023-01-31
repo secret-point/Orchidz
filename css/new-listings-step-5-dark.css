@@ -1,0 +1,363 @@
+/* screen - new-listings-step-5-dark */
+
+.new-listings-step-5-dark {
+  align-items: center;
+  background-color: var(--perfume);
+  border: 0px none;
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  width: 1440px;
+}
+
+.new-listings-step-5-dark .navigation-web-top-b {
+  align-items: flex-start;
+  display: flex;
+  height: 84px;
+  justify-content: center;
+  min-width: 1440px;
+}
+
+.new-listings-step-5-dark .overlap-group3 {
+  align-items: center;
+  background-color: var(--shadowsondark4px);
+  box-shadow: 0px 3px 4px #00000040;
+  height: 86px;
+  min-width: 1442px;
+  padding: 0 1px;
+}
+
+.new-listings-step-5-dark .screenshot-2023-01-04-at-201620 {
+  height: 84px;
+  width: 79px;
+}
+
+.new-listings-step-5-dark .search {
+  align-items: flex-start;
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  margin-bottom: 4.0px;
+  margin-left: 1px;
+  overflow: hidden;
+  width: 519px;
+}
+
+.new-listings-step-5-dark .search-i-container {
+  align-items: center;
+  background-color: var(--gallery);
+  border-radius: 23px;
+  display: flex;
+  gap: 18px;
+  height: 42px;
+  margin-top: -1px;
+  min-width: 521px;
+  padding: 7px 21px;
+}
+
+.new-listings-step-5-dark .search-icon {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 10px;
+  text-align: center;
+}
+
+.new-listings-step-5-dark .search-items-collec {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: 3.0px;
+  min-width: 262px;
+  white-space: nowrap;
+}
+
+.new-listings-step-5-dark .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--x7a52f4primary);
+  border-radius: 23px;
+  height: 42px;
+  justify-content: flex-end;
+  min-width: 100px;
+  padding: 10px 26px;
+}
+
+.new-listings-step-5-dark .lable-1 {
+  min-width: 47px;
+}
+
+.new-listings-step-5-dark .buttons-label-filled-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  margin-bottom: 4.0px;
+  margin-left: 6px;
+  min-width: 98px;
+}
+
+.new-listings-step-5-dark .overlap-group1 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--nebula);
+  border-radius: 23px;
+  height: 42px;
+  min-width: 100px;
+  padding: 9px 8px;
+}
+
+.new-listings-step-5-dark .lable-2 {
+  min-width: 83px;
+}
+
+.new-listings-step-5-dark .title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 31px;
+  min-height: 50px;
+  min-width: 354px;
+  text-align: center;
+}
+
+.new-listings-step-5-dark .they-all-serve-the-s {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 3px;
+  min-height: 43px;
+  min-width: 422px;
+  text-align: center;
+}
+
+.new-listings-step-5-dark .list {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 52px;
+  min-height: 342px;
+  width: 628px;
+}
+
+.new-listings-step-5-dark .list-item {
+  align-items: flex-start;
+  display: flex;
+  height: 106px;
+  justify-content: center;
+  overflow: hidden;
+  width: 628px;
+}
+
+.new-listings-step-5-dark .overlap-group-3 {
+  align-items: center;
+  background-color: var(--white-2);
+  border: 1px dashed;
+  border-color: var(--nebula);
+  border-radius: 12px;
+  gap: 18px;
+  height: 108px;
+  min-width: 630px;
+  padding: 0 12px;
+}
+
+.new-listings-step-5-dark .overlap-group1-1 {
+  align-items: flex-end;
+  border-radius: 10px;
+  height: 84px;
+  min-width: 84px;
+  padding: 22px 35px;
+}
+
+.new-listings-step-5-dark .icon {
+  color: var(--white);
+  font-family: var(--font-family-pp_supply_sans-regular);
+  font-size: 28px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 34px;
+  min-width: 13px;
+  text-align: center;
+}
+
+.new-listings-step-5-dark .create-new-collectio {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  min-width: 185px;
+}
+
+.new-listings-step-5-dark .overlap-group {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--nebula);
+  border-radius: 12px;
+  height: 108px;
+  min-width: 630px;
+  padding: 12px;
+}
+
+.new-listings-step-5-dark .art {
+  align-self: flex-start;
+  height: 82px;
+  object-fit: cover;
+  width: 82px;
+}
+
+.new-listings-step-5-dark .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-left: 19px;
+  margin-top: 1.0px;
+  min-height: 47px;
+  width: 150px;
+}
+
+.new-listings-step-5-dark .surname {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.new-listings-step-5-dark .address {
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.new-listings-step-5-dark .buttons-label-outline-resting-on-light {
+  align-items: flex-start;
+  display: flex;
+  height: 46px;
+  justify-content: center;
+  margin-bottom: 2.0px;
+  margin-left: 239px;
+  min-width: 98px;
+}
+
+.new-listings-step-5-dark .overlap-group-1 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--nebula);
+  border-radius: 23px;
+  height: 48px;
+  min-width: 100px;
+  padding: 12px 27px;
+}
+
+.new-listings-step-5-dark .lable {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-width: 44px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.new-listings-step-5-dark .art-1 {
+  align-self: flex-start;
+  height: 82px;
+  object-fit: cover;
+  width: 82px;
+}
+
+.new-listings-step-5-dark .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-left: 19px;
+  margin-top: 1.0px;
+  min-height: 47px;
+  width: 92px;
+}
+
+.new-listings-step-5-dark .a-rare-path {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.new-listings-step-5-dark .buttons-label-outline-resting-on-light-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 46px;
+  justify-content: center;
+  margin-bottom: 2.0px;
+  margin-left: 297px;
+  min-width: 98px;
+}
+
+.new-listings-step-5-dark .buttons {
+  align-items: flex-start;
+  display: flex;
+  gap: 242px;
+  margin-top: 121px;
+  min-width: 628px;
+}
+
+.new-listings-step-5-dark .buttons-label-filled {
+  align-items: flex-start;
+  display: flex;
+  height: 46px;
+  justify-content: center;
+  min-width: 193px;
+}
+
+.new-listings-step-5-dark .overlap-group1-2 {
+  align-items: flex-start;
+  border-radius: 23px;
+  height: 48px;
+  margin-top: -1px;
+  min-width: 195px;
+  padding: 13px 80px;
+}
+
+.new-listings-step-5-dark .lable-3 {
+  min-width: 34px;
+}
+
+.new-listings-step-5-dark .overlap-group-4 {
+  align-items: flex-start;
+  background-color: var(--x7a52f4primary);
+  border-radius: 23px;
+  height: 48px;
+  justify-content: flex-end;
+  min-width: 195px;
+  padding: 13px 80px;
+}
+
+.new-listings-step-5-dark .lable-4 {
+  min-width: 33px;
+}
+
+.new-listings-step-5-dark .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--gallery);
+  min-width: 1442px;
+}
+
+.new-listings-step-5-dark .status {
+  background-color: var(--x7a52f4primary);
+  border-radius: 0px 15px 15px 0px;
+  height: 8px;
+  width: 1052px;
+}
+
+.new-listings-step-5-dark .lable-5 {
+  letter-spacing: 0;
+  line-height: 21px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.new-listings-step-5-dark .overlap-group-5 {
+  display: flex;
+  margin-top: -1px;
+}
+
+.new-listings-step-5-dark .overlap-group1-3 {
+  background-color: var(--gallery);
+  display: flex;
+  justify-content: flex-end;
+}

@@ -1,0 +1,163 @@
+/* screen - registration-sign-in-crypto-dark */
+
+.registration-sign-in-crypto-dark {
+  align-items: flex-start;
+  background-color: var(--perfume);
+  border: 0px none;
+  display: flex;
+  gap: 146px;
+  height: 900px;
+  width: 1440px;
+}
+
+.registration-sign-in-crypto-dark .overlap-group4 {
+  align-items: flex-end;
+  background-image: url(../img/bg-4.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 297px;
+  min-height: 900px;
+  padding: 91.0px 88.0px;
+  width: 706px;
+}
+
+.registration-sign-in-crypto-dark .icon {
+  align-self: center;
+  height: 114px;
+  margin-right: 0.96px;
+  margin-top: 245px;
+  width: 505px;
+}
+
+.registration-sign-in-crypto-dark .cta {
+  align-items: flex-start;
+  display: flex;
+  height: 62px;
+  justify-content: center;
+  overflow: hidden;
+  width: 501px;
+}
+
+.registration-sign-in-crypto-dark .overlap-group1 {
+  -webkit-backdrop-filter: blur(62.52px) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(62.52px) brightness(100%);
+  background-color: var(--black-2);
+  border-radius: 45px;
+  box-shadow: 0px 20px 90px #0000001d;
+  display: flex;
+  gap: 108px;
+  height: 64px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 503px;
+  padding: 8px 14px;
+}
+
+.registration-sign-in-crypto-dark .buttons-label-filled-active-on-light {
+  align-items: flex-start;
+  display: flex;
+  height: 46px;
+  justify-content: center;
+  min-width: 136px;
+}
+
+.registration-sign-in-crypto-dark .overlap-group {
+  align-items: flex-start;
+  background-color: var(--x7a52f4primary);
+  border-radius: 23px;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 138px;
+  padding: 13px 42px;
+}
+
+.registration-sign-in-crypto-dark .lable {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-width: 53px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.registration-sign-in-crypto-dark .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 158px;
+  margin-top: 64px;
+  min-height: 786px;
+  width: 469px;
+}
+
+.registration-sign-in-crypto-dark .overlap-group3 {
+  height: 228px;
+  position: relative;
+  width: 336px;
+}
+
+.registration-sign-in-crypto-dark .title {
+  align-items: flex-start;
+  display: flex;
+  height: 51px;
+  left: 0;
+  padding: 0 2px;
+  position: absolute;
+  top: 177px;
+  width: 336px;
+}
+
+.registration-sign-in-crypto-dark .title-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 50px;
+  min-width: 332px;
+  text-align: center;
+}
+
+.registration-sign-in-crypto-dark .screenshot-2023-01-04-at-201620 {
+  height: 182px;
+  left: 82px;
+  position: absolute;
+  top: 0;
+  width: 171px;
+}
+
+.registration-sign-in-crypto-dark .qr {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  height: 400px;
+  overflow: hidden;
+  width: 469px;
+}
+
+.registration-sign-in-crypto-dark .scan-qr-code-with-a {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-right: 2.0px;
+  min-width: 296px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.registration-sign-in-crypto-dark .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--gallery);
+  border-radius: 18px;
+  display: flex;
+  height: 358px;
+  justify-content: flex-end;
+  min-width: 471px;
+  padding: 33px 92.0px;
+}
+
+.registration-sign-in-crypto-dark .bitmap {
+  height: 288px;
+  width: 286px;
+}

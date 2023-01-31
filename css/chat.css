@@ -1,0 +1,14 @@
+/* screen - chat */
+
+.chat {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border: 0px none;
+  display: flex;
+  width: 1775px;
+}
+
+.chat .app {
+  height: 1331px;
+  width: 1775px;
+}

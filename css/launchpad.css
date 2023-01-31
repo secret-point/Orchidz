@@ -1,0 +1,571 @@
+/* screen - launchpad */
+
+.launchpad {
+  align-items: flex-start;
+  background-color: var(--perfume);
+  border: 0px none;
+  display: flex;
+  height: 1350px;
+  padding: 104px 0;
+  width: 1440px;
+}
+
+.launchpad .overlap-group9 {
+  height: 1122px;
+  margin-left: 80px;
+  margin-top: 20px;
+  position: relative;
+  width: 1360px;
+}
+
+.launchpad .rectangle-1304-copy {
+  background-color: var(--black-coral-pearl-2);
+  border: 1px solid;
+  border-color: var(--mountain-mist);
+  border-radius: 5px;
+  box-shadow: 0px 12px 14px #080f226b;
+  height: 736px;
+  left: 785px;
+  position: absolute;
+  top: 11px;
+  width: 553px;
+}
+
+.launchpad .sidebar {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 1082px;
+  left: 12px;
+  position: absolute;
+  top: 32px;
+  width: 1282px;
+}
+
+.launchpad .title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 88px;
+  min-height: 50px;
+  min-width: 323px;
+}
+
+.launchpad .price {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  margin-right: 236px;
+  margin-top: 8px;
+  width: 175px;
+}
+
+.launchpad .buttons-social-logo-flow {
+  align-items: center;
+  display: flex;
+  height: 22px;
+  min-width: 22px;
+  padding: 0 1.4px;
+}
+
+.launchpad .shape {
+  height: 19px;
+  width: 19px;
+}
+
+.launchpad .details-copy {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-width: 70px;
+  white-space: nowrap;
+}
+
+.launchpad .title-copy {
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.launchpad .name {
+  width: 411px;
+}
+
+.launchpad .flex-row {
+  gap: 40px;
+  margin-right: 25px;
+  margin-top: 32px;
+  min-width: 386px;
+}
+
+.launchpad .creator {
+  align-items: flex-start;
+  display: flex;
+  gap: 2px;
+  height: 64px;
+  width: 189px;
+}
+
+.launchpad .flex-col {
+  flex-direction: column;
+  gap: 10px;
+  min-height: 64px;
+  width: 44px;
+}
+
+.launchpad .img-1 {
+  height: 36px;
+  object-fit: cover;
+  width: 36px;
+}
+
+.launchpad .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-height: 55px;
+  width: 142px;
+}
+
+.launchpad .subtitle-1 {
+  margin-left: 2px;
+}
+
+.launchpad .collection {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 64px;
+  width: 157px;
+}
+
+.launchpad .flex-row-1 {
+  min-width: 156px;
+}
+
+.launchpad .title-1 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: 3.0px;
+  min-width: 110px;
+  white-space: nowrap;
+}
+
+.launchpad .overlap-group8 {
+  height: 50px;
+  margin-right: 10.5px;
+  margin-top: 26px;
+  position: relative;
+  width: 401px;
+}
+
+.launchpad .overlap-group7 {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 401px;
+}
+
+.launchpad .line-2 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 49px;
+  width: 401px;
+}
+
+.launchpad .element-tags-f5-f5-fa-editable-on-light {
+  align-items: flex-end;
+  display: flex;
+  height: 36px;
+  min-width: 49px;
+  padding: 5px 0.5px;
+}
+
+.launchpad .tab-title {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-width: 48px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.launchpad .line-3 {
+  height: 2px;
+  width: 49px;
+}
+
+.launchpad .element-tags-f5-f5-f {
+  align-items: flex-end;
+  display: flex;
+  height: 36px;
+  left: 90px;
+  min-width: 32px;
+  padding: 5px 0.5px;
+  position: absolute;
+  top: 0;
+}
+
+.launchpad .tab-title-1 {
+  min-width: 30px;
+}
+
+.launchpad .element-tags-f5-f5-f-1 {
+  align-items: flex-end;
+  left: 162px;
+  min-width: 58px;
+  padding: 5px 1.5px;
+  position: absolute;
+  top: 0;
+}
+
+.launchpad .tab-title-2 {
+  min-width: 54px;
+}
+
+.launchpad .owner {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 64px;
+  margin-right: 225px;
+  margin-top: 26px;
+  width: 186px;
+}
+
+.launchpad .flex-row-2 {
+  min-width: 186px;
+}
+
+.launchpad .address-1 {
+  margin-bottom: 3.0px;
+  min-width: 140px;
+}
+
+.launchpad .tags {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-right: 79px;
+  margin-top: 26px;
+  min-height: 120px;
+  width: 332px;
+}
+
+.launchpad .element-tags-ff-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  min-width: 272px;
+}
+
+.launchpad .element-tags-f5-f5-fa-editable-on-light-1 {
+  min-width: 156px;
+}
+
+.launchpad .overlap-group {
+  align-items: center;
+  background-image: url(../img/bg-hover-16.svg);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 10px;
+  height: 37px;
+  justify-content: flex-end;
+  margin-top: -0.5px;
+  min-width: 157px;
+  padding: 7.5px 17.5px;
+}
+
+.launchpad .icon {
+  align-self: flex-end;
+  min-height: 19px;
+  min-width: 8px;
+}
+
+.launchpad .tag {
+  min-width: 103px;
+}
+
+.launchpad .element-tags-f5-f5-fa-editable-on-light-2 {
+  min-width: 110px;
+}
+
+.launchpad .overlap-group1 {
+  align-items: center;
+  background-image: url(../img/bg-hover-17.svg);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 10px;
+  height: 37px;
+  justify-content: flex-end;
+  margin-top: -0.5px;
+  min-width: 111px;
+  padding: 7.5px 15.5px;
+}
+
+.launchpad .tag-1 {
+  min-width: 59px;
+}
+
+.launchpad .element-tags-f5-f5-f-2 {
+  align-items: flex-start;
+  justify-content: center;
+  min-width: 139px;
+}
+
+.launchpad .overlap-group3 {
+  align-items: center;
+  background-image: url(../img/bg-hover-19.svg);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 10px;
+  height: 37px;
+  margin-top: -0.5px;
+  min-width: 140px;
+  padding: 7.5px 18.5px;
+}
+
+.launchpad .tag-2 {
+  min-width: 85px;
+}
+
+.launchpad .element-tags-f5-f5-f-3 {
+  align-items: flex-start;
+  justify-content: center;
+  min-width: 187px;
+}
+
+.launchpad .overlap-group2 {
+  align-items: center;
+  background-image: url(../img/bg-hover-18.svg);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 10px;
+  height: 37px;
+  margin-top: -0.5px;
+  min-width: 188px;
+  padding: 7.5px 18.5px;
+}
+
+.launchpad .tag-3 {
+  min-width: 132px;
+}
+
+.launchpad .element-tags-f5-f5-f-4 {
+  align-items: flex-start;
+  justify-content: center;
+  min-width: 168px;
+}
+
+.launchpad .overlap-group4 {
+  align-items: center;
+  background-image: url(../img/bg-hover-20.svg);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 10px;
+  height: 37px;
+  justify-content: flex-end;
+  margin-top: -0.5px;
+  min-width: 169px;
+  padding: 7.5px 17.5px;
+}
+
+.launchpad .tag-4 {
+  min-width: 115px;
+}
+
+.launchpad .buttons-label-filled {
+  align-items: flex-start;
+  display: flex;
+  height: 46px;
+  justify-content: center;
+  min-width: 193px;
+}
+
+.launchpad .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--x7a52f4primary);
+  border-radius: 23px;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 195px;
+  padding: 13px 59px;
+}
+
+.launchpad .lable {
+  min-width: 75px;
+  text-align: center;
+}
+
+.launchpad .overlap-group6 {
+  align-items: flex-start;
+  background-color: var(--gallery);
+  border-radius: 23px;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 195px;
+  padding: 13px 40px;
+}
+
+.launchpad .lable-1 {
+  min-width: 114px;
+  text-align: center;
+}
+
+.launchpad .text-copy {
+  align-self: flex-start;
+  height: 329px;
+  margin-top: 60px;
+  width: 711px;
+}
+
+.launchpad .name-1 {
+  text-align: center;
+  width: 711px;
+}
+
+.launchpad .span-1 {
+  text-decoration: underline;
+}
+
+.launchpad .image {
+  align-items: flex-start;
+  background-image: url(../img/bg-8.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  gap: 5px;
+  height: 736px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 736px;
+  padding: 24px 24.5px;
+  position: absolute;
+  top: 0;
+}
+
+.launchpad .buttons-icon-label-f {
+  align-items: flex-start;
+  display: flex;
+  height: 46px;
+  justify-content: center;
+  min-width: 88px;
+}
+
+.launchpad .overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--black-3);
+  border: 1px solid;
+  border-color: var(--nebula);
+  border-radius: 23px;
+  display: flex;
+  height: 48px;
+  margin-top: -1px;
+  min-width: 90px;
+  padding: 13px 12px;
+}
+
+.launchpad .link {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  height: 21px;
+  overflow: hidden;
+  padding: 0 5px;
+  width: 64px;
+}
+
+.launchpad .icon-1 {
+  align-self: flex-end;
+  margin-bottom: -1px;
+  min-height: 22px;
+  min-width: 9px;
+}
+
+.launchpad .lable-2 {
+  margin-top: -2px;
+}
+
+.launchpad .buttons-icon-label-f-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 46px;
+  justify-content: center;
+  min-width: 46px;
+}
+
+.launchpad .overlap-group1-1 {
+  align-items: flex-end;
+  background-color: var(--black-3);
+  border: 1px solid;
+  border-color: var(--nebula);
+  border-radius: 23px;
+  display: flex;
+  height: 48px;
+  margin-top: -1px;
+  min-width: 48px;
+  padding: 12px 19px;
+}
+
+.launchpad .icon-2 {
+  min-height: 22px;
+  min-width: 9px;
+}
+
+.launchpad .address-2 {
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.launchpad .element-tags-f5-f5-f-5 {
+  display: flex;
+  height: 36px;
+}
+
+.launchpad .flex-row-3 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+}
+
+.launchpad .icon-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+}
+
+.launchpad .lable-3 {
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.launchpad .name-2 {
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.launchpad .subtitle-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.launchpad .tag-5 {
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.launchpad .text-1 {
+  align-items: flex-start;
+  display: flex;
+}

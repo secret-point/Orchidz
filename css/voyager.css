@@ -1,0 +1,567 @@
+/* screen - voyager */
+
+.voyager {
+  align-items: flex-start;
+  background-color: #2e2751;
+  border: 0px none;
+  display: flex;
+  height: 1350px;
+  padding: 99px 0;
+  width: 1440px;
+}
+
+.voyager .overlap-group9 {
+  height: 1127px;
+  margin-left: 80px;
+  margin-top: 25px;
+  position: relative;
+  width: 1360px;
+}
+
+.voyager .rectangle-1304-copy {
+  background-color: var(--black-coral-pearl-2);
+  border: 1px solid;
+  border-color: var(--mountain-mist);
+  border-radius: 5px;
+  box-shadow: 0px 12px 14px #080f226b;
+  height: 736px;
+  left: 785px;
+  position: absolute;
+  top: 11px;
+  width: 553px;
+}
+
+.voyager .sidebar {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 1095px;
+  left: 12px;
+  position: absolute;
+  top: 32px;
+  width: 1282px;
+}
+
+.voyager .title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 260px;
+  min-height: 50px;
+  min-width: 151px;
+}
+
+.voyager .price {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  margin-right: 236px;
+  margin-top: 8px;
+  width: 175px;
+}
+
+.voyager .buttons-social-logo-flow {
+  align-items: center;
+  display: flex;
+  height: 22px;
+  min-width: 22px;
+  padding: 0 1.4px;
+}
+
+.voyager .shape {
+  height: 19px;
+  width: 19px;
+}
+
+.voyager .details-copy {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-width: 70px;
+  white-space: nowrap;
+}
+
+.voyager .title-copy {
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.voyager .name {
+  width: 411px;
+}
+
+.voyager .flex-row {
+  gap: 40px;
+  margin-right: 65px;
+  margin-top: 32px;
+  min-width: 346px;
+}
+
+.voyager .creator {
+  align-items: flex-start;
+  display: flex;
+  gap: 2px;
+  height: 64px;
+  width: 189px;
+}
+
+.voyager .flex-col {
+  flex-direction: column;
+  gap: 10px;
+  min-height: 64px;
+  width: 44px;
+}
+
+.voyager .img-1 {
+  height: 36px;
+  object-fit: cover;
+  width: 36px;
+}
+
+.voyager .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-height: 55px;
+  width: 142px;
+}
+
+.voyager .subtitle-1 {
+  margin-left: 2px;
+}
+
+.voyager .collection {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 64px;
+  width: 117px;
+}
+
+.voyager .flex-row-1 {
+  min-width: 114px;
+}
+
+.voyager .title-1 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: 3.0px;
+  min-width: 68px;
+  white-space: nowrap;
+}
+
+.voyager .overlap-group8 {
+  height: 50px;
+  margin-right: 10.5px;
+  margin-top: 26px;
+  position: relative;
+  width: 401px;
+}
+
+.voyager .overlap-group7 {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 401px;
+}
+
+.voyager .line-2 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 49px;
+  width: 401px;
+}
+
+.voyager .element-tags-f5-f5-fa-editable-on-light {
+  align-items: flex-end;
+  display: flex;
+  height: 36px;
+  min-width: 49px;
+  padding: 5px 0.5px;
+}
+
+.voyager .tab-title {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-width: 48px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.voyager .line-3 {
+  height: 2px;
+  width: 49px;
+}
+
+.voyager .element-tags-f5-f5-f {
+  align-items: flex-end;
+  display: flex;
+  height: 36px;
+  left: 90px;
+  min-width: 32px;
+  padding: 5px 0.5px;
+  position: absolute;
+  top: 0;
+}
+
+.voyager .tab-title-1 {
+  min-width: 30px;
+}
+
+.voyager .element-tags-f5-f5-f-1 {
+  align-items: flex-end;
+  left: 162px;
+  min-width: 58px;
+  padding: 5px 1.5px;
+  position: absolute;
+  top: 0;
+}
+
+.voyager .tab-title-2 {
+  min-width: 54px;
+}
+
+.voyager .owner {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 64px;
+  margin-right: 225px;
+  margin-top: 26px;
+  width: 186px;
+}
+
+.voyager .flex-row-2 {
+  min-width: 186px;
+}
+
+.voyager .address-1 {
+  margin-bottom: 3.0px;
+  min-width: 140px;
+}
+
+.voyager .tags {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-right: 79px;
+  margin-top: 26px;
+  min-height: 120px;
+  width: 332px;
+}
+
+.voyager .element-tags-ff-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  min-width: 272px;
+}
+
+.voyager .element-tags-f5-f5-fa-editable-on-light-1 {
+  min-width: 156px;
+}
+
+.voyager .overlap-group {
+  align-items: center;
+  background-image: url(../img/bg-hover-16.svg);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 10px;
+  height: 37px;
+  justify-content: flex-end;
+  margin-top: -0.5px;
+  min-width: 157px;
+  padding: 7.5px 17.5px;
+}
+
+.voyager .icon {
+  align-self: flex-end;
+  min-height: 19px;
+  min-width: 8px;
+}
+
+.voyager .tag {
+  min-width: 103px;
+}
+
+.voyager .element-tags-f5-f5-fa-editable-on-light-2 {
+  min-width: 110px;
+}
+
+.voyager .overlap-group1 {
+  align-items: center;
+  background-image: url(../img/bg-hover-17.svg);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 10px;
+  height: 37px;
+  justify-content: flex-end;
+  margin-top: -0.5px;
+  min-width: 111px;
+  padding: 7.5px 15.5px;
+}
+
+.voyager .tag-1 {
+  min-width: 59px;
+}
+
+.voyager .element-tags-f5-f5-f-2 {
+  align-items: flex-start;
+  justify-content: center;
+  min-width: 139px;
+}
+
+.voyager .overlap-group3 {
+  align-items: center;
+  background-image: url(../img/bg-hover-19.svg);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 10px;
+  height: 37px;
+  margin-top: -0.5px;
+  min-width: 140px;
+  padding: 7.5px 18.5px;
+}
+
+.voyager .tag-2 {
+  min-width: 85px;
+}
+
+.voyager .element-tags-f5-f5-f-3 {
+  align-items: flex-start;
+  justify-content: center;
+  min-width: 187px;
+}
+
+.voyager .overlap-group2 {
+  align-items: center;
+  background-image: url(../img/bg-hover-18.svg);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 10px;
+  height: 37px;
+  margin-top: -0.5px;
+  min-width: 188px;
+  padding: 7.5px 18.5px;
+}
+
+.voyager .tag-3 {
+  min-width: 132px;
+}
+
+.voyager .element-tags-f5-f5-f-4 {
+  align-items: flex-start;
+  justify-content: center;
+  min-width: 168px;
+}
+
+.voyager .overlap-group4 {
+  align-items: center;
+  background-image: url(../img/bg-hover-20.svg);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 10px;
+  height: 37px;
+  justify-content: flex-end;
+  margin-top: -0.5px;
+  min-width: 169px;
+  padding: 7.5px 17.5px;
+}
+
+.voyager .tag-4 {
+  min-width: 115px;
+}
+
+.voyager .buttons-label-filled {
+  align-items: flex-start;
+  display: flex;
+  height: 46px;
+  justify-content: center;
+  min-width: 193px;
+}
+
+.voyager .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--x7a52f4primary);
+  border-radius: 23px;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 195px;
+  padding: 13px 59px;
+}
+
+.voyager .lable {
+  min-width: 75px;
+  text-align: center;
+}
+
+.voyager .overlap-group6 {
+  align-items: flex-start;
+  background-color: var(--gallery);
+  border-radius: 23px;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 195px;
+  padding: 13px 40px;
+}
+
+.voyager .lable-1 {
+  min-width: 114px;
+  text-align: center;
+}
+
+.voyager .text-copy {
+  align-self: flex-start;
+  height: 259px;
+  margin-top: 143px;
+  width: 711px;
+}
+
+.voyager .name-1 {
+  text-align: center;
+  width: 711px;
+}
+
+.voyager .image {
+  align-items: flex-start;
+  background-image: url(../img/bg-5.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  gap: 5px;
+  height: 736px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 736px;
+  padding: 24px 24.5px;
+  position: absolute;
+  top: 0;
+}
+
+.voyager .buttons-icon-label-f {
+  align-items: flex-start;
+  display: flex;
+  height: 46px;
+  justify-content: center;
+  min-width: 88px;
+}
+
+.voyager .overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--black-3);
+  border: 1px solid;
+  border-color: var(--nebula);
+  border-radius: 23px;
+  display: flex;
+  height: 48px;
+  margin-top: -1px;
+  min-width: 90px;
+  padding: 13px 12px;
+}
+
+.voyager .link {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  height: 21px;
+  overflow: hidden;
+  padding: 0 5px;
+  width: 64px;
+}
+
+.voyager .icon-1 {
+  align-self: flex-end;
+  margin-bottom: -1px;
+  min-height: 22px;
+  min-width: 9px;
+}
+
+.voyager .lable-2 {
+  margin-top: -2px;
+}
+
+.voyager .buttons-icon-label-f-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 46px;
+  justify-content: center;
+  min-width: 46px;
+}
+
+.voyager .overlap-group1-1 {
+  align-items: flex-end;
+  background-color: var(--black-3);
+  border: 1px solid;
+  border-color: var(--nebula);
+  border-radius: 23px;
+  display: flex;
+  height: 48px;
+  margin-top: -1px;
+  min-width: 48px;
+  padding: 12px 19px;
+}
+
+.voyager .icon-2 {
+  min-height: 22px;
+  min-width: 9px;
+}
+
+.voyager .address-2 {
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.voyager .element-tags-f5-f5-f-5 {
+  display: flex;
+  height: 36px;
+}
+
+.voyager .flex-row-3 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+}
+
+.voyager .icon-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+}
+
+.voyager .lable-3 {
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
+}
+
+.voyager .name-2 {
+  letter-spacing: 0;
+  line-height: 21px;
+}
+
+.voyager .subtitle-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.voyager .tag-5 {
+  letter-spacing: 0;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.voyager .text-1 {
+  align-items: flex-start;
+  display: flex;
+}

@@ -1,0 +1,834 @@
+/* screen - listings-empty-dark */
+
+.listings-empty-dark {
+  align-items: flex-start;
+  background-color: var(--perfume);
+  border: 0px none;
+  display: flex;
+  flex-direction: column;
+  height: 1009px;
+  width: 1440px;
+}
+
+.listings-empty-dark .navigation-web-top-b {
+  align-items: flex-start;
+  display: flex;
+  height: 84px;
+  justify-content: center;
+  min-width: 1440px;
+}
+
+.listings-empty-dark .overlap-group11 {
+  align-items: center;
+  background-color: var(--shadowsondark4px);
+  box-shadow: 0px 3px 4px #00000040;
+  height: 86px;
+  min-width: 1442px;
+  padding: 0 1px;
+}
+
+.listings-empty-dark .screenshot-2023-01-04-at-201620 {
+  height: 84px;
+  width: 79px;
+}
+
+.listings-empty-dark .search {
+  align-items: flex-start;
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  margin-bottom: 4.0px;
+  margin-left: 1px;
+  overflow: hidden;
+  width: 519px;
+}
+
+.listings-empty-dark .search-i-container {
+  align-items: center;
+  background-color: var(--iron);
+  border-radius: 23px;
+  display: flex;
+  gap: 22px;
+  height: 42px;
+  margin-top: -1px;
+  min-width: 521px;
+  padding: 7px 26px;
+}
+
+.listings-empty-dark .search-icon {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  min-width: 1px;
+  text-align: center;
+}
+
+.listings-empty-dark .search-items-collec {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: 3.0px;
+  min-width: 1px;
+  white-space: nowrap;
+}
+
+.listings-empty-dark .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--x7a52f4primary);
+  border-radius: 23px;
+  display: flex;
+  height: 42px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 100px;
+  padding: 10px 26px;
+}
+
+.listings-empty-dark .lable-1 {
+  min-width: 47px;
+}
+
+.listings-empty-dark .buttons-label-filled {
+  align-items: flex-start;
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  margin-bottom: 4.0px;
+  margin-left: 6px;
+  min-width: 98px;
+}
+
+.listings-empty-dark .overlap-group1 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--nebula);
+  border-radius: 23px;
+  height: 42px;
+  min-width: 100px;
+  padding: 9px 8px;
+}
+
+.listings-empty-dark .lable-2 {
+  min-width: 83px;
+}
+
+.listings-empty-dark .flex-row {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1017px;
+}
+
+.listings-empty-dark .overlap-group10 {
+  align-items: center;
+  background-color: var(--shadowsondark4px);
+  flex-direction: column;
+  min-height: 841px;
+  padding: 45px 0;
+  width: 258px;
+}
+
+.listings-empty-dark .item {
+  align-items: flex-start;
+  display: flex;
+  height: 56px;
+  justify-content: center;
+  margin-top: 12px;
+  min-width: 238px;
+}
+
+.listings-empty-dark .overlap-group {
+  align-items: center;
+  background-color: var(--shadowsondark4px);
+  border-radius: 28px;
+  gap: 19px;
+  height: 58px;
+  min-width: 240px;
+  padding: 14px 28px;
+}
+
+.listings-empty-dark .icon {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 26px;
+  min-width: 11px;
+  text-align: center;
+}
+
+.listings-empty-dark .link-3 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: 1.0px;
+  min-width: 75px;
+  white-space: nowrap;
+}
+
+.listings-empty-dark .item-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 56px;
+  justify-content: center;
+  min-width: 238px;
+}
+
+.listings-empty-dark .overlap-group5 {
+  align-items: center;
+  background-color: var(--gallery);
+  border-radius: 28px;
+  gap: 19px;
+  height: 58px;
+  min-width: 240px;
+  padding: 14px 28px;
+}
+
+.listings-empty-dark .link {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: 1.0px;
+  min-width: 109px;
+  white-space: nowrap;
+}
+
+.listings-empty-dark .link-4 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: 1.0px;
+  min-width: 64px;
+  white-space: nowrap;
+}
+
+.listings-empty-dark .link-1 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: 1.0px;
+  min-width: 66px;
+  white-space: nowrap;
+}
+
+.listings-empty-dark .link-5 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: 1.0px;
+  min-width: 56px;
+  white-space: nowrap;
+}
+
+.listings-empty-dark .link-6 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: 1.0px;
+  min-width: 58px;
+  white-space: nowrap;
+}
+
+.listings-empty-dark .link-7 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: 1.0px;
+  min-width: 89px;
+  white-space: nowrap;
+}
+
+.listings-empty-dark .link-8 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: 1.0px;
+  min-width: 82px;
+  white-space: nowrap;
+}
+
+.listings-empty-dark .title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 80px;
+  margin-top: 40px;
+  min-height: 50px;
+  min-width: 261px;
+}
+
+.listings-empty-dark .content {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  height: 435px;
+  margin-left: 82px;
+  margin-top: 54.0px;
+  width: 338px;
+}
+
+.listings-empty-dark .overlap-group1-1 {
+  height: 231px;
+  margin-left: 1.0px;
+  position: relative;
+  width: 233px;
+}
+
+.listings-empty-dark .path {
+  height: 231px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 231px;
+}
+
+.listings-empty-dark .path-1 {
+  height: 158px;
+  left: 72px;
+  position: absolute;
+  top: 0;
+  width: 94px;
+}
+
+.listings-empty-dark .path-2 {
+  height: 82px;
+  left: 59px;
+  position: absolute;
+  top: 68px;
+  width: 104px;
+}
+
+.listings-empty-dark .shape {
+  height: 156px;
+  left: 54px;
+  position: absolute;
+  top: 1px;
+  width: 121px;
+}
+
+.listings-empty-dark .path-3 {
+  height: 8px;
+  left: 6px;
+  position: absolute;
+  top: 154px;
+  width: 218px;
+}
+
+.listings-empty-dark .rectangle {
+  background-color: var(--ffffff);
+  height: 5px;
+  left: 108px;
+  position: absolute;
+  top: 155px;
+  width: 37px;
+}
+
+.listings-empty-dark .shape-1 {
+  height: 51px;
+  left: 42px;
+  position: absolute;
+  top: 171px;
+  width: 31px;
+}
+
+.listings-empty-dark .path-4 {
+  height: 11px;
+  left: 128px;
+  position: absolute;
+  top: 147px;
+  width: 30px;
+}
+
+.listings-empty-dark .path-5 {
+  height: 41px;
+  left: 150px;
+  position: absolute;
+  top: 118px;
+  width: 50px;
+}
+
+.listings-empty-dark .path-6 {
+  height: 16px;
+  left: 115px;
+  position: absolute;
+  top: 215px;
+  width: 13px;
+}
+
+.listings-empty-dark .path-7 {
+  height: 8px;
+  left: 155px;
+  position: absolute;
+  top: 215px;
+  width: 11px;
+}
+
+.listings-empty-dark .path-8 {
+  height: 13px;
+  left: 179px;
+  position: absolute;
+  top: 199px;
+  width: 5px;
+}
+
+.listings-empty-dark .path-9 {
+  height: 14px;
+  left: 160px;
+  position: absolute;
+  top: 193px;
+  width: 41px;
+}
+
+.listings-empty-dark .path-10 {
+  height: 59px;
+  left: 115px;
+  position: absolute;
+  top: 164px;
+  width: 95px;
+}
+
+.listings-empty-dark .path-11 {
+  height: 34px;
+  left: 135px;
+  position: absolute;
+  top: 186px;
+  width: 30px;
+}
+
+.listings-empty-dark .oval {
+  background-color: #ffb6b6;
+  border-radius: 13.5px;
+  height: 27px;
+  left: 175px;
+  position: absolute;
+  top: 77px;
+  width: 27px;
+}
+
+.listings-empty-dark .path-12 {
+  height: 83px;
+  left: 177px;
+  position: absolute;
+  top: 106px;
+  width: 36px;
+}
+
+.listings-empty-dark .path-13 {
+  height: 15px;
+  left: 136px;
+  position: absolute;
+  top: 154px;
+  width: 28px;
+}
+
+.listings-empty-dark .path-14 {
+  height: 49px;
+  left: 160px;
+  position: absolute;
+  top: 116px;
+  width: 37px;
+}
+
+.listings-empty-dark .shape-2 {
+  height: 18px;
+  left: 94px;
+  position: absolute;
+  top: 137px;
+  width: 17px;
+}
+
+.listings-empty-dark .path-15 {
+  height: 2px;
+  left: 95px;
+  position: absolute;
+  top: 137px;
+  width: 12px;
+}
+
+.listings-empty-dark .path-16 {
+  height: 26px;
+  left: 46px;
+  position: absolute;
+  top: 126px;
+  width: 37px;
+}
+
+.listings-empty-dark .path-17 {
+  height: 24px;
+  left: 47px;
+  position: absolute;
+  top: 127px;
+  width: 35px;
+}
+
+.listings-empty-dark .path-18 {
+  height: 4px;
+  left: 45px;
+  position: absolute;
+  top: 152px;
+  width: 39px;
+}
+
+.listings-empty-dark .rectangle-1 {
+  left: 81px;
+  top: 152px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-2 {
+  left: 79px;
+  top: 152px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-3 {
+  left: 77px;
+  top: 152px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-4 {
+  left: 75px;
+  top: 152px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-5 {
+  left: 72px;
+  top: 152px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-6 {
+  left: 70px;
+  top: 152px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-7 {
+  left: 68px;
+  top: 152px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-8 {
+  left: 65px;
+  top: 152px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-9 {
+  left: 63px;
+  top: 152px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-10 {
+  left: 61px;
+  top: 152px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-11 {
+  left: 59px;
+  top: 152px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-12 {
+  left: 56px;
+  top: 152px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-13 {
+  left: 54px;
+  top: 152px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-14 {
+  left: 52px;
+  top: 152px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-15 {
+  left: 49px;
+  top: 152px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-16 {
+  left: 47px;
+  top: 152px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-17 {
+  left: 82px;
+  top: 153px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-18 {
+  left: 79px;
+  top: 153px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-19 {
+  left: 77px;
+  top: 153px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-20 {
+  left: 75px;
+  top: 153px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-21 {
+  left: 72px;
+  top: 153px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-22 {
+  left: 70px;
+  top: 153px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-23 {
+  left: 68px;
+  top: 153px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-24 {
+  left: 65px;
+  top: 153px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-25 {
+  left: 63px;
+  top: 153px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-26 {
+  left: 61px;
+  top: 153px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-27 {
+  left: 59px;
+  top: 153px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-28 {
+  left: 56px;
+  top: 153px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-29 {
+  left: 54px;
+  top: 153px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-30 {
+  left: 52px;
+  top: 153px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-31 {
+  left: 49px;
+  top: 153px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-32 {
+  left: 47px;
+  top: 153px;
+  width: 1px;
+}
+
+.listings-empty-dark .rectangle-33 {
+  left: 62px;
+  top: 155px;
+  width: 9px;
+}
+
+.listings-empty-dark .path-19 {
+  height: 17px;
+  left: 128px;
+  position: absolute;
+  top: 141px;
+  width: 20px;
+}
+
+.listings-empty-dark .path-20 {
+  height: 4px;
+  left: 128px;
+  position: absolute;
+  top: 154px;
+  width: 4px;
+}
+
+.listings-empty-dark .path-21 {
+  height: 1px;
+  left: 128px;
+  position: absolute;
+  top: 157px;
+  width: 1px;
+}
+
+.listings-empty-dark .path-22 {
+  height: 43px;
+  left: 173px;
+  position: absolute;
+  top: 72px;
+  width: 60px;
+}
+
+.listings-empty-dark .no-posted-listings-f {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 39px;
+  min-height: 34px;
+  min-width: 320px;
+  text-align: center;
+}
+
+.listings-empty-dark .try-to-assign-more-t {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 11px;
+  min-height: 43px;
+  min-width: 306px;
+  text-align: center;
+}
+
+.listings-empty-dark .buttons-label-filled-active-on-light {
+  align-items: flex-start;
+  display: flex;
+  height: 46px;
+  justify-content: center;
+  margin-left: 1.0px;
+  margin-top: 31px;
+  min-width: 233px;
+}
+
+.listings-empty-dark .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--x7a52f4primary);
+  border-radius: 23px;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 235px;
+  padding: 13px 53px;
+}
+
+.listings-empty-dark .lable-3 {
+  min-width: 128px;
+}
+
+.listings-empty-dark .navigation-web-foote {
+  align-items: flex-start;
+  display: flex;
+  height: 86px;
+  justify-content: center;
+  min-width: 1440px;
+}
+
+.listings-empty-dark .overlap-group12 {
+  align-items: flex-start;
+  background-color: var(--gallery);
+  height: 88px;
+  justify-content: flex-end;
+  min-width: 1442px;
+  padding: 20px 30px;
+}
+
+.listings-empty-dark .links {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  gap: 22px;
+  height: 18px;
+  width: 367px;
+}
+
+.listings-empty-dark .buttons-label-icon-t {
+  align-items: flex-end;
+  display: flex;
+  height: 46px;
+  margin-left: 797px;
+  min-width: 118px;
+  padding: 11px 28px;
+}
+
+.listings-empty-dark .link-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 21px;
+  overflow: hidden;
+  width: 62px;
+}
+
+.listings-empty-dark .overlap-group-3 {
+  height: 24px;
+  margin-top: -2px;
+  position: relative;
+  width: 107px;
+}
+
+.listings-empty-dark .lable {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.listings-empty-dark .icon-1 {
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+}
+
+.listings-empty-dark .buttons-label-icon-t-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 46px;
+  justify-content: flex-end;
+  margin-left: 24px;
+  min-width: 73px;
+  padding: 11px 5px;
+}
+
+.listings-empty-dark .overlap-group-4 {
+  height: 24px;
+  margin-top: -2px;
+  position: relative;
+  width: 58px;
+}
+
+.listings-empty-dark .lable-4 {
+  letter-spacing: 0;
+  line-height: 21px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.listings-empty-dark .rectangle-34 {
+  background-color: var(--gun-powder);
+  border-radius: 0.49px;
+  height: 1px;
+  position: absolute;
+  transform: rotate(-180deg);
+}

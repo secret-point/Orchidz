@@ -1,0 +1,284 @@
+/* screen - registration-sign-in-basic-details-dark-copy */
+
+.registration-sign-in-basic-details-dark-copy {
+  align-items: flex-start;
+  background-color: var(--perfume);
+  border: 0px none;
+  display: flex;
+  gap: 147px;
+  width: 1440px;
+}
+
+.registration-sign-in-basic-details-dark-copy .overlap-group7 {
+  height: 900px;
+  position: relative;
+  width: 706px;
+}
+
+.registration-sign-in-basic-details-dark-copy .bg {
+  height: 900px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 706px;
+}
+
+.registration-sign-in-basic-details-dark-copy .cta {
+  align-items: flex-start;
+  display: flex;
+  height: 62px;
+  justify-content: center;
+  left: 117px;
+  overflow: hidden;
+  position: absolute;
+  top: 747px;
+  width: 501px;
+}
+
+.registration-sign-in-basic-details-dark-copy .overlap-group6 {
+  -webkit-backdrop-filter: blur(62.52px) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(62.52px) brightness(100%);
+  background-color: var(--black-2);
+  border-radius: 45px;
+  box-shadow: 0px 20px 90px #0000001d;
+  display: flex;
+  gap: 62px;
+  height: 64px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 503px;
+  padding: 8px 14px;
+}
+
+.registration-sign-in-basic-details-dark-copy .buttons-label-filled-active-on-light {
+  align-items: flex-start;
+  display: flex;
+  height: 46px;
+  justify-content: center;
+  min-width: 136px;
+}
+
+.registration-sign-in-basic-details-dark-copy .overlap-group {
+  align-items: flex-start;
+  background-color: var(--x7a52f4primary);
+  border-radius: 23px;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 138px;
+  padding: 13px 45px;
+}
+
+.registration-sign-in-basic-details-dark-copy .lable {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-width: 47px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.registration-sign-in-basic-details-dark-copy .title {
+  align-items: flex-start;
+  display: flex;
+  height: 51px;
+  left: 147px;
+  padding: 0 2px;
+  position: absolute;
+  top: 281px;
+  width: 411px;
+}
+
+.registration-sign-in-basic-details-dark-copy .form {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 102px;
+  min-height: 707px;
+  width: 469px;
+}
+
+.registration-sign-in-basic-details-dark-copy .title-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 79px;
+  margin-right: 2.0px;
+  padding: 0 1px;
+  width: 335px;
+}
+
+.registration-sign-in-basic-details-dark-copy .daftar {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  min-height: 50px;
+  min-width: 129px;
+  text-align: center;
+}
+
+.registration-sign-in-basic-details-dark-copy .ambil-langkah-seteru {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-right: 1.0px;
+  min-width: 332px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.registration-sign-in-basic-details-dark-copy .forms-v1-select-activeon-light {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  margin-top: 111px;
+  min-height: 72px;
+  width: 469px;
+}
+
+.registration-sign-in-basic-details-dark-copy .field-title {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -2px;
+  white-space: nowrap;
+}
+
+.registration-sign-in-basic-details-dark-copy .overlap-group-1 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--nebula);
+  border-radius: 24px;
+  display: flex;
+  gap: 351px;
+  height: 50px;
+  margin-left: -1px;
+  min-width: 471px;
+  padding: 12px 20px;
+}
+
+.registration-sign-in-basic-details-dark-copy .placeholder {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-width: 67px;
+  white-space: nowrap;
+}
+
+.registration-sign-in-basic-details-dark-copy .icon {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 2.0px;
+  min-height: 22px;
+  min-width: 9px;
+  text-align: center;
+}
+
+.registration-sign-in-basic-details-dark-copy .forms-v1-select-restingon-light {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  margin-top: 16px;
+  min-height: 72px;
+  width: 469px;
+}
+
+.registration-sign-in-basic-details-dark-copy .overlap-group1 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--nebula);
+  border-radius: 24px;
+  display: flex;
+  gap: 273px;
+  height: 50px;
+  margin-left: -1px;
+  min-width: 471px;
+  padding: 12px 20px;
+}
+
+.registration-sign-in-basic-details-dark-copy .placeholder-1 {
+  min-width: 145px;
+}
+
+.registration-sign-in-basic-details-dark-copy .overlap-group2 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--nebula);
+  border-radius: 24px;
+  display: flex;
+  gap: 230px;
+  height: 50px;
+  margin-left: -1px;
+  min-width: 471px;
+  padding: 12px 20px;
+}
+
+.registration-sign-in-basic-details-dark-copy .placeholder-2 {
+  min-width: 188px;
+}
+
+.registration-sign-in-basic-details-dark-copy .overlap-group3 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--nebula);
+  border-radius: 24px;
+  display: flex;
+  gap: 232px;
+  height: 50px;
+  margin-left: -1px;
+  min-width: 471px;
+  padding: 12px 20px;
+}
+
+.registration-sign-in-basic-details-dark-copy .placeholder-3 {
+  min-width: 186px;
+}
+
+.registration-sign-in-basic-details-dark-copy .overlap-group4 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--nebula);
+  border-radius: 24px;
+  display: flex;
+  gap: 206px;
+  height: 50px;
+  margin-left: -1px;
+  min-width: 471px;
+  padding: 12px 20px;
+}
+
+.registration-sign-in-basic-details-dark-copy .placeholder-4 {
+  min-width: 212px;
+}
+
+.registration-sign-in-basic-details-dark-copy .buttons-label-filled {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 46px;
+  justify-content: center;
+  margin-top: 47px;
+  min-width: 469px;
+}
+
+.registration-sign-in-basic-details-dark-copy .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--x7a52f4primary);
+  border-radius: 23px;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 471px;
+  padding: 13px 163px;
+}
+
+.registration-sign-in-basic-details-dark-copy .lable-1 {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-width: 144px;
+  text-align: center;
+  white-space: nowrap;
+}

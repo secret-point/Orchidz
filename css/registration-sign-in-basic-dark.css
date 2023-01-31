@@ -1,0 +1,388 @@
+/* screen - registration-sign-in-basic-dark */
+
+.registration-sign-in-basic-dark {
+  align-items: flex-start;
+  background-color: var(--perfume);
+  border: 0px none;
+  cursor: pointer;
+  display: flex;
+  gap: 56px;
+  height: 900px;
+  width: 1440px;
+}
+
+.registration-sign-in-basic-dark .overlap-group4 {
+  align-items: flex-end;
+  background-image: url(../img/bg-1.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 240px;
+  min-height: 900px;
+  padding: 91.0px 88.0px;
+  width: 706px;
+}
+
+.registration-sign-in-basic-dark .icon-copy {
+  align-self: center;
+  height: 114px;
+  margin-left: 0.04px;
+  margin-top: 302px;
+  width: 504px;
+}
+
+.registration-sign-in-basic-dark .cta {
+  align-items: flex-start;
+  display: flex;
+  height: 62px;
+  justify-content: center;
+  overflow: hidden;
+  width: 501px;
+}
+
+.registration-sign-in-basic-dark .overlap-group3 {
+  -webkit-backdrop-filter: blur(62.52px) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(62.52px) brightness(100%);
+  background-color: var(--black-2);
+  border-radius: 45px;
+  box-shadow: 0px 20px 90px #0000001d;
+  display: flex;
+  gap: 108px;
+  height: 64px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 503px;
+  padding: 8px 14px;
+}
+
+.registration-sign-in-basic-dark .buttons-label-filled-active-on-light {
+  align-items: flex-start;
+  display: flex;
+  height: 46px;
+  justify-content: center;
+  min-width: 136px;
+}
+
+.registration-sign-in-basic-dark .overlap-group-1 {
+  background-color: var(--x7a52f4primary);
+  border-radius: 23px;
+  height: 48px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 138px;
+  padding: 13px 42px;
+}
+
+.registration-sign-in-basic-dark .lable-2 {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-width: 53px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.registration-sign-in-basic-dark .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  margin-top: 64px;
+  min-height: 732px;
+  width: 560px;
+}
+
+.registration-sign-in-basic-dark .screenshot-2023-01-04-at-201620-copy {
+  height: 182px;
+  margin-left: 91.05px;
+  width: 171px;
+}
+
+.registration-sign-in-basic-dark .form {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  min-height: 508px;
+  width: 560px;
+}
+
+.registration-sign-in-basic-dark .forms {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 272px;
+  width: 469px;
+}
+
+.registration-sign-in-basic-dark .forms-v1-select-activeon-light {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  min-height: 72px;
+  width: 469px;
+}
+
+.registration-sign-in-basic-dark .field-title {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -2px;
+  white-space: nowrap;
+}
+
+.registration-sign-in-basic-dark .overlap-group-2 {
+  border: 1px solid;
+  border-color: var(--nebula);
+  border-radius: 24px;
+  gap: 265px;
+  height: 50px;
+  margin-left: -1px;
+  min-width: 471px;
+  padding: 12px 20px;
+}
+
+.registration-sign-in-basic-dark .placeholder {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-width: 153px;
+  white-space: nowrap;
+}
+
+.registration-sign-in-basic-dark .icon {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 2.0px;
+  min-height: 22px;
+  min-width: 9px;
+  text-align: center;
+}
+
+.registration-sign-in-basic-dark .forms-v1-select-restingon-light {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  margin-top: 14px;
+  min-height: 72px;
+  width: 469px;
+}
+
+.registration-sign-in-basic-dark .overlap-group1 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--nebula);
+  border-radius: 24px;
+  display: flex;
+  gap: 276px;
+  height: 50px;
+  margin-left: -1px;
+  min-width: 471px;
+  padding: 12px 20px;
+}
+
+.registration-sign-in-basic-dark .placeholder-1 {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-width: 142px;
+  white-space: nowrap;
+}
+
+.registration-sign-in-basic-dark .flex-row {
+  align-items: flex-end;
+  display: flex;
+  gap: 14px;
+  margin-top: 24px;
+  min-width: 467px;
+}
+
+.registration-sign-in-basic-dark .forms-general-radio-restingon-light {
+  align-items: flex-start;
+  display: flex;
+  gap: 9px;
+  height: 20px;
+  min-width: 331px;
+}
+
+.registration-sign-in-basic-dark .bg {
+  background-color: var(--ebf0f0soft-ondark);
+  border-radius: 10px;
+  height: 22px;
+  margin-left: -1px;
+  margin-top: -1px;
+  opacity: 0.1;
+  width: 22px;
+}
+
+.registration-sign-in-basic-dark .title {
+  align-self: center;
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 18px;
+  min-width: 85px;
+  white-space: nowrap;
+}
+
+.registration-sign-in-basic-dark .recover-password {
+  color: var(--perfume);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 18px;
+  text-align: right;
+  white-space: nowrap;
+  width: 123px;
+}
+
+.registration-sign-in-basic-dark .buttons-label-filled-active-on-light-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 46px;
+  justify-content: center;
+  margin-top: 24px;
+  min-width: 469px;
+}
+
+.registration-sign-in-basic-dark .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--x7a52f4primary);
+  border-radius: 23px;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  margin-top: -1px;
+  min-width: 471px;
+  padding: 13px 211px;
+}
+
+.registration-sign-in-basic-dark .lable-3 {
+  letter-spacing: 0;
+  line-height: 21px;
+  min-width: 47px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.registration-sign-in-basic-dark .or {
+  align-items: center;
+  display: flex;
+  height: 21px;
+  margin-right: 2px;
+  margin-top: 34px;
+  width: 466px;
+}
+
+.registration-sign-in-basic-dark .line-2 {
+  height: 1px;
+  margin-top: 4.0px;
+  width: 207px;
+}
+
+.registration-sign-in-basic-dark .or-1 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 20px;
+  text-align: center;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.registration-sign-in-basic-dark .line-2-copy {
+  height: 1px;
+  margin-left: 18px;
+  margin-top: 4.0px;
+  width: 206px;
+}
+
+.registration-sign-in-basic-dark .social-buttons {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 27px;
+  min-height: 154px;
+  width: 407px;
+}
+
+.registration-sign-in-basic-dark .buttons-social-w-lable-on-light {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 46px;
+  justify-content: center;
+  margin-right: 39.0px;
+  min-width: 328px;
+}
+
+.registration-sign-in-basic-dark .overlap-group {
+  align-items: flex-end;
+  border: 1px solid;
+  border-color: var(--nebula);
+  border-radius: 23px;
+  display: flex;
+  height: 48px;
+  margin-top: -1px;
+  min-width: 330px;
+  padding: 13px 133px;
+}
+
+.registration-sign-in-basic-dark .lable {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  height: 21px;
+  overflow: hidden;
+  width: 62px;
+}
+
+.registration-sign-in-basic-dark .buttons-social-logo {
+  height: 16px;
+  margin-top: 1px;
+  width: 16px;
+}
+
+.registration-sign-in-basic-dark .lable-1 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -2px;
+  white-space: nowrap;
+}
+
+.registration-sign-in-basic-dark .buttons-social-w-lable-on-light-2 {
+  align-self: flex-end;
+}
+
+.registration-sign-in-basic-dark .lable-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 21px;
+  overflow: hidden;
+  width: 62px;
+}
+
+.registration-sign-in-basic-dark .lable-5 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-left: 24px;
+  margin-top: -2px;
+  white-space: nowrap;
+}
+
+.registration-sign-in-basic-dark .buttons-social-w-lable-on-light-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 46px;
+  justify-content: center;
+  min-width: 328px;
+}
+
+.registration-sign-in-basic-dark .overlap-group-3 {
+  align-items: flex-start;
+  display: flex;
+}
