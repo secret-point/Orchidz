@@ -1,0 +1,192 @@
+/* screen - using-flow */
+
+.using-flow {
+  align-items: flex-start;
+  background-color: var(--shadowsondark4px);
+  border: 1px none;
+  display: flex;
+  height: 1024px;
+  width: 1440px;
+}
+
+.using-flow .overlap-group3 {
+  background-image: url(../img/rectangle-2-1.svg);
+  background-size: 100% 100%;
+  height: 984px;
+  margin-left: 20px;
+  margin-top: 20px;
+  position: relative;
+  width: 665px;
+}
+
+.using-flow .union {
+  height: 36px;
+  left: 66px;
+  position: absolute;
+  top: 46px;
+  width: 150px;
+}
+
+.using-flow .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 43px;
+  min-height: 951px;
+  width: 755px;
+}
+
+.using-flow .overlap-group-container {
+  align-items: center;
+  display: flex;
+  gap: 249px;
+  margin-left: 33.0px;
+  min-width: 644px;
+}
+
+.using-flow .overlap-group {
+  height: 41px;
+  position: relative;
+  width: 103px;
+}
+
+.using-flow .rectangle-4480 {
+  border: 1px solid;
+  border-radius: 100px;
+  height: 40px;
+  top: 1px;
+  width: 100px;
+}
+
+.using-flow .place {
+  height: 39px;
+  left: 44px;
+  letter-spacing: -0.32px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 59px;
+}
+
+.using-flow .text-45 {
+  height: 39px;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 39px;
+}
+
+.using-flow .overlap-group1 {
+  height: 47px;
+  position: relative;
+  width: 290px;
+}
+
+.using-flow .sign-up {
+  height: 39px;
+  left: 195px;
+  letter-spacing: -0.32px;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 4px;
+  width: 95px;
+}
+
+.using-flow .overlap-group2 {
+  height: 653px;
+  margin-left: 7.0px;
+  margin-top: 89px;
+  position: relative;
+  width: 618px;
+}
+
+.using-flow .rectangle-4483 {
+  background-color: #151515;
+  border: 0.5px solid;
+  border-radius: 10px;
+  height: 653px;
+  top: 0;
+  width: 612px;
+}
+
+.using-flow .title {
+  left: 27px;
+  letter-spacing: -2.75px;
+  line-height: 84px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+  width: 591px;
+}
+
+.using-flow .with-flow {
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 96px;
+  width: 489px;
+}
+
+.using-flow .line-30 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 159px;
+  width: 612px;
+}
+
+.using-flow .vector {
+  height: 50px;
+  left: 185px;
+  position: absolute;
+  top: 33px;
+  width: 50px;
+}
+
+.using-flow .qr-code-svgrepo-com-1 {
+  height: 295px;
+  left: 158px;
+  position: absolute;
+  top: 254px;
+  width: 295px;
+}
+
+.using-flow .scan-qr-code-with-a {
+  color: var(--white);
+  font-family: var(--font-family-pp_supply_sans-ultralight);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 170px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 602px;
+  white-space: nowrap;
+}
+
+.using-flow .overlap-group4 {
+  height: 41px;
+  margin-top: 121px;
+  position: relative;
+  width: 755px;
+}
+
+.using-flow .union-1 {
+  height: 33px;
+  left: 659px;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.using-flow .rectangle {
+  border-color: var(--ffffff);
+  left: 0;
+  position: absolute;
+}

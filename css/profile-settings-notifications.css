@@ -1,0 +1,1057 @@
+/* screen - profile-settings-notifications */
+
+.profile-settings-notifications {
+  align-items: flex-start;
+  background-color: var(--shadowsondark4px);
+  border: 1px none;
+  display: flex;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.profile-settings-notifications .overlap-group10 {
+  height: 1601px;
+  position: relative;
+  width: 1492px;
+}
+
+.profile-settings-notifications .overlap-group {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.profile-settings-notifications .overlap-group6 {
+  height: 339px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 260px;
+}
+
+.profile-settings-notifications .rectangle-454 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 260px;
+}
+
+.profile-settings-notifications .rectangle-454-1 {
+  height: 40px;
+  top: 0;
+}
+
+.profile-settings-notifications .rectangle-454-2 {
+  height: 60px;
+  top: 100px;
+}
+
+.profile-settings-notifications .rectangle-454-3 {
+  height: 60px;
+  top: 219px;
+}
+
+.profile-settings-notifications .rectangle-45 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 160px;
+  width: 260px;
+}
+
+.profile-settings-notifications .rectangle-45-1 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 279px;
+  width: 260px;
+}
+
+.profile-settings-notifications .dashboard-your-listi {
+  left: 29px;
+  letter-spacing: -0.85px;
+  line-height: 60px;
+  position: absolute;
+  top: 39px;
+  width: 152px;
+}
+
+.profile-settings-notifications .place {
+  height: 38px;
+  left: 29px;
+  letter-spacing: -0.60px;
+  line-height: 60px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 152px;
+}
+
+.profile-settings-notifications .overlap-group5 {
+  height: 629px;
+  left: 291px;
+  position: absolute;
+  top: 158px;
+  width: 1119px;
+}
+
+.profile-settings-notifications .rectangle-4552 {
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1119px;
+}
+
+.profile-settings-notifications .rectangle-4600 {
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 269px;
+  width: 1119px;
+}
+
+.profile-settings-notifications .rectangle-4594 {
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 90px;
+  width: 1119px;
+}
+
+.profile-settings-notifications .rectangle-4601 {
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 359px;
+  width: 1119px;
+}
+
+.profile-settings-notifications .rectangle-4597 {
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 180px;
+  width: 1119px;
+}
+
+.profile-settings-notifications .rectangle-4602 {
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 449px;
+  width: 1119px;
+}
+
+.profile-settings-notifications .rectangle-4516 {
+  height: 629px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1119px;
+}
+
+.profile-settings-notifications .product-updates {
+  height: 18px;
+  left: 29px;
+  letter-spacing: -0.85px;
+  line-height: 50px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+  width: 220px;
+}
+
+.profile-settings-notifications .policy-and-community {
+  height: 18px;
+  left: 29px;
+  letter-spacing: -0.85px;
+  line-height: 50px;
+  position: absolute;
+  top: 294px;
+  white-space: nowrap;
+  width: 220px;
+}
+
+.profile-settings-notifications .reminders {
+  height: 18px;
+  left: 29px;
+  letter-spacing: -0.85px;
+  line-height: 50px;
+  position: absolute;
+  top: 115px;
+  white-space: nowrap;
+  width: 220px;
+}
+
+.profile-settings-notifications .account-support {
+  height: 18px;
+  left: 29px;
+  letter-spacing: -0.85px;
+  line-height: 50px;
+  position: absolute;
+  top: 384px;
+  white-space: nowrap;
+  width: 220px;
+}
+
+.profile-settings-notifications .promotions-and-tips {
+  height: 18px;
+  left: 29px;
+  letter-spacing: -0.85px;
+  line-height: 50px;
+  position: absolute;
+  top: 205px;
+  white-space: nowrap;
+  width: 220px;
+}
+
+.profile-settings-notifications .reminders-1 {
+  height: 18px;
+  left: 29px;
+  letter-spacing: -0.85px;
+  line-height: 50px;
+  position: absolute;
+  top: 474px;
+  white-space: nowrap;
+  width: 220px;
+}
+
+.profile-settings-notifications .policy-and-community-1 {
+  height: 18px;
+  left: 29px;
+  letter-spacing: -0.85px;
+  line-height: 50px;
+  position: absolute;
+  top: 564px;
+  white-space: nowrap;
+  width: 220px;
+}
+
+.profile-settings-notifications .receive-messages-from-our-platform {
+  left: 29px;
+  letter-spacing: 0.45px;
+  line-height: normal;
+  opacity: 0.7;
+  position: absolute;
+  top: 50px;
+}
+
+.profile-settings-notifications .receive-updates-on-job-regulations {
+  left: 29px;
+  letter-spacing: 0.45px;
+  line-height: normal;
+  opacity: 0.7;
+  position: absolute;
+  top: 319px;
+}
+
+.profile-settings-notifications .receive-messages-from-our-platform-1 {
+  left: 29px;
+  letter-spacing: 0.45px;
+  line-height: normal;
+  opacity: 0.7;
+  position: absolute;
+  top: 140px;
+}
+
+.profile-settings-notifications .receive-messages-abo {
+  left: 29px;
+  letter-spacing: 0.45px;
+  line-height: normal;
+  opacity: 0.7;
+  position: absolute;
+  top: 409px;
+}
+
+.profile-settings-notifications .receive-coupons-promotions-surveys {
+  left: 29px;
+  letter-spacing: 0.45px;
+  line-height: normal;
+  opacity: 0.7;
+  position: absolute;
+  top: 230px;
+}
+
+.profile-settings-notifications .upcoming-payments-and-balance-changes {
+  left: 29px;
+  letter-spacing: 0.45px;
+  line-height: normal;
+  opacity: 0.7;
+  position: absolute;
+  top: 499px;
+}
+
+.profile-settings-notifications .receive-updates-on-g {
+  left: 29px;
+  letter-spacing: 0.45px;
+  line-height: normal;
+  opacity: 0.7;
+  position: absolute;
+  top: 589px;
+}
+
+.profile-settings-notifications .rectangle-4592 {
+  height: 34px;
+  left: 1020px;
+  position: absolute;
+  top: 28px;
+  width: 68px;
+}
+
+.profile-settings-notifications .rectangle-4603 {
+  height: 34px;
+  left: 1020px;
+  position: absolute;
+  top: 297px;
+  width: 68px;
+}
+
+.profile-settings-notifications .rectangle-4595 {
+  height: 36px;
+  left: 1019px;
+  position: absolute;
+  top: 117px;
+  width: 70px;
+}
+
+.profile-settings-notifications .rectangle-4604 {
+  height: 36px;
+  left: 1019px;
+  position: absolute;
+  top: 386px;
+  width: 70px;
+}
+
+.profile-settings-notifications .rectangle-4598 {
+  height: 34px;
+  left: 1020px;
+  position: absolute;
+  top: 208px;
+  width: 68px;
+}
+
+.profile-settings-notifications .rectangle-4605 {
+  height: 34px;
+  left: 1020px;
+  position: absolute;
+  top: 477px;
+  width: 68px;
+}
+
+.profile-settings-notifications .rectangle-4610 {
+  height: 34px;
+  left: 1020px;
+  position: absolute;
+  top: 567px;
+  width: 68px;
+}
+
+.profile-settings-notifications .rectangle-4593 {
+  background-color: var(--shadowsondark4px);
+  border-radius: 40px;
+  height: 28px;
+  left: 1056px;
+  position: absolute;
+  top: 31px;
+  width: 28px;
+}
+
+.profile-settings-notifications .rectangle-4606 {
+  background-color: var(--shadowsondark4px);
+  border-radius: 40px;
+  height: 28px;
+  left: 1056px;
+  position: absolute;
+  top: 300px;
+  width: 28px;
+}
+
+.profile-settings-notifications .rectangle-4596 {
+  background-color: var(--shadowsondark4px);
+  border-radius: 40px;
+  height: 28px;
+  left: 1023px;
+  position: absolute;
+  top: 121px;
+  width: 28px;
+}
+
+.profile-settings-notifications .rectangle-4607 {
+  background-color: var(--shadowsondark4px);
+  border-radius: 40px;
+  height: 28px;
+  left: 1023px;
+  position: absolute;
+  top: 390px;
+  width: 28px;
+}
+
+.profile-settings-notifications .rectangle-4599 {
+  background-color: var(--shadowsondark4px);
+  border-radius: 40px;
+  height: 28px;
+  left: 1056px;
+  position: absolute;
+  top: 211px;
+  width: 28px;
+}
+
+.profile-settings-notifications .rectangle-4608 {
+  background-color: var(--shadowsondark4px);
+  border-radius: 40px;
+  height: 28px;
+  left: 1056px;
+  position: absolute;
+  top: 480px;
+  width: 28px;
+}
+
+.profile-settings-notifications .rectangle-4611 {
+  background-color: var(--shadowsondark4px);
+  border-radius: 40px;
+  height: 28px;
+  left: 1056px;
+  position: absolute;
+  top: 570px;
+  width: 28px;
+}
+
+.profile-settings-notifications .overlap-group7 {
+  height: 339px;
+  left: 0;
+  position: absolute;
+  top: 410px;
+  width: 260px;
+}
+
+.profile-settings-notifications .profile {
+  height: 38px;
+  left: 29px;
+  letter-spacing: -0.60px;
+  line-height: 60px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 152px;
+}
+
+.profile-settings-notifications .text-12 {
+  height: 24px;
+  left: 218px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 238px;
+  transform: rotate(-180.00deg);
+}
+
+.profile-settings-notifications .rectangle-4495 {
+  background-color: var(--shadowsondark4px);
+  box-shadow: inset 0px -1px 0px #555555;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.profile-settings-notifications .union {
+  height: 29px;
+  left: 660px;
+  position: absolute;
+  top: 16px;
+  width: 120px;
+}
+
+.profile-settings-notifications .overlap-group-1 {
+  border-radius: 50px;
+  height: 44px;
+  left: 29px;
+  position: absolute;
+  top: 13px;
+  width: 44px;
+}
+
+.profile-settings-notifications .line-22 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 42px;
+}
+
+.profile-settings-notifications .line-23 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 42px;
+}
+
+.profile-settings-notifications .rectangle-8 {
+  border: 1px solid;
+  border-color: var(--ffffff);
+  border-radius: 50px;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.profile-settings-notifications .ellipse-41 {
+  height: 44px;
+  left: 1366px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 44px;
+}
+
+.profile-settings-notifications .rectangle-4509 {
+  background-color: var(--fuscous-gray);
+  height: 1554px;
+  left: 260px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.profile-settings-notifications .n {
+  left: 1401px;
+  letter-spacing: -2.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 69px;
+  white-space: nowrap;
+  width: 27px;
+}
+
+.profile-settings-notifications .notifications {
+  left: 856px;
+  letter-spacing: -2.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 69px;
+  white-space: nowrap;
+  width: 298px;
+}
+
+.profile-settings-notifications .text-13 {
+  color: var(--pink-lace);
+  font-family: var(--font-family-pp_eiko-medium);
+  font-size: 40px;
+  font-weight: 500;
+  height: 66px;
+  left: 821px;
+  letter-spacing: -2.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 80px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.profile-settings-notifications .text-14 {
+  color: var(--pink-lace);
+  font-family: var(--font-family-pp_supply_mono-regular);
+  font-size: 60px;
+  font-weight: 400;
+  height: 66px;
+  left: 1362px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 73px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.profile-settings-notifications .group-3631 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 710px;
+  position: absolute;
+  top: 891px;
+  width: 1440px;
+}
+
+.profile-settings-notifications .rectangle-4580 {
+  background-color: var(--fuscous-gray);
+  height: 1px;
+  width: 1440px;
+}
+
+.profile-settings-notifications .overlap-group2 {
+  align-items: center;
+  background-color: var(--shadowsondark4px);
+  display: flex;
+  flex-direction: column;
+  min-height: 709px;
+  width: 1440px;
+}
+
+.profile-settings-notifications .flex-row {
+  gap: 115px;
+  height: 491px;
+  margin-left: 6.0px;
+  margin-top: 39px;
+  min-width: 1374px;
+}
+
+.profile-settings-notifications .flex-col {
+  flex-direction: column;
+  gap: 26px;
+  margin-top: 1px;
+  min-height: 238px;
+  width: 296px;
+}
+
+.profile-settings-notifications .union-1 {
+  height: 39px;
+  margin-left: 4px;
+  width: 30px;
+}
+
+.profile-settings-notifications .orchidz-is-a-central {
+  letter-spacing: -0.26px;
+  line-height: 20px;
+  margin-left: 2px;
+  min-height: 97px;
+  opacity: 0.9;
+  width: 294px;
+}
+
+.profile-settings-notifications .overlap-group1 {
+  align-items: center;
+  background-image: url(../img/rectangle-4451.svg);
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 200px;
+}
+
+.profile-settings-notifications .text-16 {
+  height: 50px;
+  letter-spacing: -1.05px;
+  line-height: 104px;
+  text-align: center;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.profile-settings-notifications .line-27 {
+  height: 50px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.profile-settings-notifications .shape {
+  height: 19px;
+  margin-bottom: 0.97px;
+  margin-left: 11px;
+  width: 25px;
+}
+
+.profile-settings-notifications .vector {
+  height: 16px;
+  margin-bottom: 1.75px;
+  margin-left: 14px;
+  width: 20px;
+}
+
+.profile-settings-notifications .overlap-group-2 {
+  height: 50px;
+  margin-left: 15px;
+  position: relative;
+  width: 50px;
+}
+
+.profile-settings-notifications .text-17 {
+  height: 50px;
+  left: 0;
+  letter-spacing: -1.05px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.profile-settings-notifications .flex-col-1 {
+  align-items: flex-start;
+  gap: 20px;
+  min-height: 491px;
+  width: 963px;
+}
+
+.profile-settings-notifications .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 101px;
+  min-width: 963px;
+}
+
+.profile-settings-notifications .marketplace {
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  white-space: nowrap;
+  width: 131px;
+}
+
+.profile-settings-notifications .my-account {
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  margin-left: 110px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.profile-settings-notifications .resources {
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  margin-left: 115px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.profile-settings-notifications .flex-col-2 {
+  align-items: flex-end;
+  gap: 22px;
+  margin-left: 119px;
+  min-height: 101px;
+  width: 271px;
+}
+
+.profile-settings-notifications .overlap-group-3 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--ffffff);
+  border-radius: 40px;
+  display: flex;
+  height: 42px;
+  margin-right: 9px;
+  min-width: 42px;
+  padding: 8.0px;
+}
+
+.profile-settings-notifications .text-15 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  min-width: 24px;
+  text-align: center;
+  transform: rotate(90.00deg);
+}
+
+.profile-settings-notifications .company {
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  white-space: nowrap;
+  width: 271px;
+}
+
+.profile-settings-notifications .all-nf-ts-art-collect {
+  left: 0;
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  opacity: 0.6;
+  position: absolute;
+  text-decoration: underline;
+  top: 0;
+  width: 271px;
+}
+
+.profile-settings-notifications .all-nf-ts-art-collect-1 {
+  left: 241px;
+}
+
+.profile-settings-notifications .all-nf-ts-art-collect-2 {
+  left: 454px;
+}
+
+.profile-settings-notifications .all-nf-ts-art-collectibles-domain-names {
+  left: 692px;
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  opacity: 0.6;
+  position: absolute;
+  text-decoration: underline;
+  top: 0;
+  width: 271px;
+}
+
+.profile-settings-notifications .rectangle-4450 {
+  background-color: var(--fuscous-gray);
+  height: 1px;
+  margin-top: 53px;
+  width: 1440px;
+}
+
+.profile-settings-notifications .overlap-group3 {
+  height: 116px;
+  margin-top: 9px;
+  position: relative;
+  width: 1440px;
+}
+
+.profile-settings-notifications .rectangle-4451 {
+  background-color: var(--fuscous-gray);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 30px;
+  width: 1440px;
+}
+
+.profile-settings-notifications .address {
+  left: 38px;
+  letter-spacing: -0.20px;
+  line-height: 20px;
+  opacity: 0.9;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}
+
+.profile-settings-notifications .privacy-policy {
+  left: 996px;
+  letter-spacing: -0.20px;
+  line-height: 20px;
+  opacity: 0.9;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 0;
+  width: 294px;
+}
+
+.profile-settings-notifications .terms-of-service {
+  left: 1116px;
+  letter-spacing: -0.20px;
+  line-height: 20px;
+  opacity: 0.9;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 0;
+  width: 294px;
+}
+
+.profile-settings-notifications .rectangle-4448 {
+  background-color: var(--shadowsondark4px);
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 31px;
+  width: 1440px;
+}
+
+.profile-settings-notifications .vector-1 {
+  height: 50px;
+  left: 693px;
+  position: absolute;
+  top: 47px;
+  width: 50px;
+}
+
+.profile-settings-notifications .explore {
+  left: 68px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+  width: 731px;
+}
+
+.profile-settings-notifications .explore-1 {
+  left: 989px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+  width: 264px;
+}
+
+.profile-settings-notifications .sell {
+  left: 764px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.profile-settings-notifications .collect {
+  left: 393px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+  width: 731px;
+}
+
+.profile-settings-notifications .text-18 {
+  height: 66px;
+  left: 22px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.profile-settings-notifications .text-19 {
+  height: 66px;
+  left: 336px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.profile-settings-notifications .text-20 {
+  height: 66px;
+  left: 1253px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.profile-settings-notifications .ellipse-16 {
+  border: 1px solid;
+  border-color: var(--ffffff);
+  border-radius: 25px;
+  height: 50px;
+  left: 918px;
+  position: absolute;
+  top: 46px;
+  width: 50px;
+}
+
+.profile-settings-notifications .vector-2 {
+  height: 38px;
+  left: 589px;
+  position: absolute;
+  top: 95px;
+  width: 38px;
+}
+
+.profile-settings-notifications .notifications-1 {
+  left: 291px;
+  letter-spacing: -2.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 70px;
+  white-space: nowrap;
+  width: 298px;
+}
+
+.profile-settings-notifications .profile-1 {
+  left: 644px;
+  width: 177px;
+}
+
+.profile-settings-notifications .profile-2 {
+  left: 1195px;
+  width: 167px;
+}
+
+.profile-settings-notifications .ellipse-17 {
+  border: 1px solid;
+  border-color: var(--pink-lace);
+  border-radius: 15px;
+  height: 30px;
+  left: 1154px;
+  position: absolute;
+  top: 97px;
+  width: 30px;
+}
+
+.profile-settings-notifications .rectangle-4581 {
+  height: 40px;
+  left: 1269px;
+  position: absolute;
+  top: 810px;
+  width: 139px;
+}
+
+.profile-settings-notifications .rectangle-4582 {
+  height: 40px;
+  left: 1116px;
+  position: absolute;
+  top: 810px;
+  width: 139px;
+}
+
+.profile-settings-notifications .save {
+  height: 40px;
+  left: 1269px;
+  letter-spacing: -0.85px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 809px;
+  white-space: nowrap;
+  width: 139px;
+}
+
+.profile-settings-notifications .cancel {
+  height: 40px;
+  left: 1116px;
+  letter-spacing: -0.85px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 809px;
+  white-space: nowrap;
+  width: 139px;
+}
+
+.profile-settings-notifications .all-nf-ts-art-collect-3 {
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  opacity: 0.6;
+  position: absolute;
+  text-decoration: underline;
+  top: 0;
+  width: 271px;
+}
+
+.profile-settings-notifications .flex-col-3 {
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-settings-notifications .profile-3 {
+  letter-spacing: -2.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 70px;
+  white-space: nowrap;
+}
+
+.profile-settings-notifications .rectangle-454-4 {
+  left: 0;
+  position: absolute;
+  width: 260px;
+}

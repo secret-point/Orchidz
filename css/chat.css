@@ -2,13 +2,1164 @@
 
 .chat {
   align-items: flex-start;
-  background-color: var(--ffffff);
-  border: 0px none;
+  background-color: var(--shadowsondark4px);
+  border: 1px none;
   display: flex;
-  width: 1775px;
+  width: 1440px;
 }
 
-.chat .app {
-  height: 1331px;
-  width: 1775px;
+.chat .overlap-group19 {
+  height: 1094px;
+  position: relative;
+  width: 1440px;
+}
+
+.chat .rectangle-4494 {
+  background-color: var(--shadowsondark4px);
+  height: 1024px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 400px;
+}
+
+.chat .rectangle-4495 {
+  background-color: var(--shadowsondark4px);
+  box-shadow: inset 0px -1px 0px #555555;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 1440px;
+}
+
+.chat .rectangle-4517 {
+  background-color: var(--dull-lavender);
+  border-radius: 5px;
+  box-shadow: inset 0px -1px 0px #555555;
+  height: 45px;
+  left: 16px;
+  position: absolute;
+  top: 77px;
+  width: 60px;
+}
+
+.chat .bored-ape-yacht-club {
+  left: 481px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 77px;
+}
+
+.chat .address {
+  left: 481px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 103px;
+}
+
+.chat .ellipse-25 {
+  height: 44px;
+  left: 425px;
+  object-fit: cover;
+  position: absolute;
+  top: 78px;
+  width: 44px;
+}
+
+.chat .text-76 {
+  height: 42px;
+  left: 15px;
+  line-height: 32px;
+  text-align: center;
+  top: 77px;
+  width: 60px;
+}
+
+.chat .text-77 {
+  height: 44px;
+  left: 330px;
+  line-height: 32px;
+  opacity: 0.9;
+  text-align: center;
+  top: 75px;
+  width: 42px;
+}
+
+.chat .text-78 {
+  height: 60px;
+  left: 93px;
+  line-height: 32px;
+  opacity: 0.9;
+  text-align: center;
+  top: 69px;
+  width: 60px;
+}
+
+.chat .text-79 {
+  height: 60px;
+  left: 175px;
+  line-height: 32px;
+  opacity: 0.9;
+  text-align: center;
+  top: 69px;
+  width: 60px;
+}
+
+.chat .text-80 {
+  height: 44px;
+  left: 260px;
+  line-height: 32px;
+  opacity: 0.9;
+  text-align: center;
+  top: 77px;
+  width: 42px;
+}
+
+.chat .text-81 {
+  color: var(--ffffff);
+  font-family: var(--font-family-sf_pro-light);
+  font-size: 22px;
+  font-weight: 300;
+  height: 44px;
+  left: 1383px;
+  line-height: 32px;
+  opacity: 0.9;
+  text-align: center;
+  top: 75px;
+  width: 42px;
+}
+
+.chat .rectangle-4516 {
+  height: 904px;
+  left: 402px;
+  position: absolute;
+  top: 130px;
+  width: 1038px;
+}
+
+.chat .rectangle-4424 {
+  border: 1px solid;
+  border-color: var(--shadowsondark4px);
+  border-radius: 40px;
+  height: 42px;
+  left: 1368px;
+  position: absolute;
+  top: 955px;
+  width: 42px;
+}
+
+.chat .text-82 {
+  height: 24px;
+  left: 1377px;
+  line-height: normal;
+  text-align: center;
+  top: 963px;
+  transform: rotate(90.00deg);
+}
+
+.chat .rectangle-4511 {
+  background-color: var(--ffffff);
+  border: 1px solid;
+  border-color: #cbcef5;
+  border-radius: 15px;
+  height: 31px;
+  left: 868px;
+  position: absolute;
+  top: 150px;
+  width: 106px;
+}
+
+.chat .rectangle-4512 {
+  background-color: var(--ffffff);
+  border: 1px solid;
+  border-color: #cbcef5;
+  border-radius: 15px;
+  height: 31px;
+  left: 868px;
+  position: absolute;
+  top: 960px;
+  width: 106px;
+}
+
+.chat .yesterday {
+  left: 881px;
+  letter-spacing: -0.60px;
+  line-height: 14px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: center;
+  top: 157px;
+  white-space: nowrap;
+  width: 80px;
+}
+
+.chat .today {
+  left: 881px;
+  letter-spacing: -0.60px;
+  line-height: 14px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: center;
+  top: 967px;
+  white-space: nowrap;
+  width: 80px;
+}
+
+.chat .rectangle-4508 {
+  background-color: var(--shadowsondark4px);
+  box-shadow: inset 0px -1px 0px #555555;
+  height: 60px;
+  left: 401px;
+  position: absolute;
+  top: 1034px;
+  width: 1039px;
+}
+
+.chat .text-83 {
+  height: 44px;
+  left: 1383px;
+  line-height: 32px;
+  opacity: 0.89;
+  text-align: center;
+  top: 1040px;
+  width: 42px;
+}
+
+.chat .text-84 {
+  height: 44px;
+  left: 1317px;
+  line-height: 32px;
+  opacity: 0.89;
+  text-align: center;
+  top: 1040px;
+  width: 42px;
+}
+
+.chat .write-a-message {
+  color: var(--ffffff);
+  font-family: var(--font-family-pp_supply_sans-ultralight);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  left: 463px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.7;
+  position: absolute;
+  top: 1051px;
+}
+
+.chat .text-85 {
+  height: 44px;
+  left: 411px;
+  line-height: 32px;
+  opacity: 0.9;
+  text-align: center;
+  top: 1041px;
+  width: 42px;
+}
+
+.chat .rectangle-4498 {
+  background-color: var(--fuscous-gray);
+  height: 1024px;
+  left: 401px;
+  position: absolute;
+  top: 70px;
+  width: 1px;
+}
+
+.chat .group-3635 {
+  flex-direction: column;
+  left: 0;
+  min-height: 880px;
+  top: 130px;
+  width: 472px;
+}
+
+.chat .overlap-group4 {
+  align-items: center;
+  background-image: url(../img/rectangle-4442-1.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  justify-content: flex-end;
+  min-width: 400px;
+  padding: 0 19px;
+}
+
+.chat .overlap-group12 {
+  align-items: flex-start;
+  background-image: url(../img/ellipse-21-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 50px;
+}
+
+.chat .ellipse-2 {
+  background-color: var(--green);
+  border: 1px solid;
+  border-color: var(--ffffff);
+  border-radius: 6px;
+  height: 12px;
+  width: 12px;
+}
+
+.chat .flex-col-4 {
+  align-items: flex-start;
+  gap: 7px;
+  margin-bottom: 3.0px;
+  margin-left: 14px;
+  min-height: 43px;
+  width: 86px;
+}
+
+.chat .criw-khuga {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+}
+
+.chat .you-got-this {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  opacity: 0.7;
+}
+
+.chat .flex-col-5 {
+  align-items: flex-start;
+  gap: 9px;
+  margin-bottom: 1.0px;
+  margin-left: 191px;
+  min-height: 43px;
+  width: 20px;
+}
+
+.chat .mon {
+  opacity: 0.7;
+}
+
+.chat .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--dull-lavender);
+  border-radius: 10px;
+  display: flex;
+  height: 20px;
+  justify-content: flex-end;
+  min-width: 20px;
+  padding: 1px 5px;
+}
+
+.chat .number {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
+.chat .overlap-group7 {
+  align-items: center;
+  background-image: url(../img/rectangle-4497.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  justify-content: flex-end;
+  min-width: 400px;
+  padding: 0 19px;
+}
+
+.chat .overlap-group16 {
+  align-items: flex-start;
+  background-image: url(../img/ellipse-23-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 50px;
+}
+
+.chat .flex-col-6 {
+  align-items: flex-start;
+  gap: 7px;
+  margin-bottom: 3.0px;
+  margin-left: 14px;
+  min-height: 43px;
+  width: 81px;
+}
+
+.chat .stu {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+}
+
+.chat .you-got-this-1 {
+  opacity: 0.7;
+}
+
+.chat .tue {
+  margin-left: 196px;
+}
+
+.chat .overlap-group9 {
+  align-items: center;
+  background-image: url(../img/rectangle-4501.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  justify-content: flex-end;
+  min-width: 400px;
+  padding: 0 19px;
+}
+
+.chat .overlap-group13 {
+  align-items: flex-start;
+  background-image: url(../img/ellipse-27@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  min-width: 50px;
+}
+
+.chat .flex-col-7 {
+  align-items: flex-start;
+  gap: 7px;
+  margin-bottom: 3.0px;
+  margin-left: 14px;
+  min-height: 43px;
+  width: 161px;
+}
+
+.chat .bored-ape-yacht-club-1 {
+  min-height: 20px;
+}
+
+.chat .mon-1 {
+  margin-bottom: 30.0px;
+  margin-left: 116px;
+  min-width: 20px;
+}
+
+.chat .overlap-group8 {
+  align-items: center;
+  background-image: url(../img/rectangle-4502.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  justify-content: flex-end;
+  min-width: 400px;
+  padding: 0 19px;
+}
+
+.chat .ellipse {
+  height: 50px;
+  object-fit: cover;
+  width: 50px;
+}
+
+.chat .flex-col-8 {
+  align-items: flex-start;
+  gap: 7px;
+  margin-bottom: 3.0px;
+  margin-left: 14px;
+  min-height: 43px;
+  width: 100px;
+}
+
+.chat .name {
+  min-height: 20px;
+}
+
+.chat .you-got-this-3 {
+  opacity: 0.7;
+}
+
+.chat .tue-1 {
+  margin-left: 177px;
+}
+
+.chat .overlap-group {
+  align-items: center;
+  background-image: url(../img/rectangle-4503.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  justify-content: flex-end;
+  min-width: 400px;
+  padding: 0 19px;
+}
+
+.chat .flex-col-9 {
+  align-items: flex-start;
+  gap: 7px;
+  margin-bottom: 3.0px;
+  margin-left: 14px;
+  min-height: 43px;
+  width: 213px;
+}
+
+.chat .deez-nuts {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+}
+
+.chat .to-a-general-advertiser-outdo {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  opacity: 0.7;
+}
+
+.chat .mon-2 {
+  margin-bottom: 30.0px;
+  margin-left: 64px;
+  min-width: 20px;
+  opacity: 0.7;
+}
+
+.chat .overlap-group6 {
+  align-items: center;
+  background-image: url(../img/rectangle-4505.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  justify-content: flex-end;
+  min-width: 400px;
+  padding: 0 19px;
+}
+
+.chat .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  margin-bottom: 3.0px;
+  margin-left: 14px;
+  min-height: 43px;
+  width: 203px;
+}
+
+.chat .dead-fellaz {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+}
+
+.chat .he-vast-majority-of-startups {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  opacity: 0.7;
+}
+
+.chat .date {
+  margin-bottom: 24.0px;
+  margin-left: 41px;
+}
+
+.chat .overlap-group3 {
+  align-items: center;
+  background-image: url(../img/rectangle-4504.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  justify-content: flex-end;
+  min-width: 400px;
+  padding: 0 19px;
+}
+
+.chat .flex-col-1 {
+  align-items: flex-start;
+  gap: 7px;
+  margin-bottom: 3.0px;
+  margin-left: 14px;
+  min-height: 43px;
+  width: 218px;
+}
+
+.chat .juicys {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+}
+
+.chat .facebook-have-strong-ergono {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  opacity: 0.7;
+}
+
+.chat .flex-col-2 {
+  align-items: flex-end;
+  gap: 10px;
+  margin-left: 26px;
+  min-height: 44px;
+  width: 53px;
+}
+
+.chat .overlap-group1-1 {
+  align-items: center;
+  background-image: url(../img/rectangle-4506.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  justify-content: flex-end;
+  min-width: 400px;
+  padding: 0 19px;
+}
+
+.chat .flex-col-3 {
+  align-items: flex-start;
+  gap: 7px;
+  margin-bottom: 3.0px;
+  margin-left: 14px;
+  min-height: 43px;
+  width: 244px;
+}
+
+.chat .name-1 {
+  min-height: 20px;
+}
+
+.chat .in-this-respect-your-platform-shou {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  opacity: 0.7;
+}
+
+.chat .date-2 {
+  margin-bottom: 24.0px;
+}
+
+.chat .overlap-group5 {
+  align-items: center;
+  background-image: url(../img/rectangle-4514.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  justify-content: flex-end;
+  min-width: 400px;
+  padding: 0 19px;
+}
+
+.chat .name-2 {
+  min-height: 20px;
+}
+
+.chat .he-vast-majority-of-startups-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  opacity: 0.7;
+}
+
+.chat .overlap-group2 {
+  align-items: center;
+  background-image: url(../img/rectangle-4513.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  justify-content: flex-end;
+  min-width: 400px;
+  padding: 0 19px;
+}
+
+.chat .beasts {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+}
+
+.chat .facebook-have-strong-ergono-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  opacity: 0.7;
+}
+
+.chat .overlap-group10 {
+  align-items: center;
+  background-image: url(../img/rectangle-4515.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 80px;
+  justify-content: flex-end;
+  min-width: 400px;
+  padding: 0 19px;
+}
+
+.chat .name-3 {
+  min-height: 20px;
+}
+
+.chat .in-this-respect-your-platform-shou-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
+  opacity: 0.7;
+}
+
+.chat .group-3620 {
+  gap: 4px;
+  height: 158px;
+  left: 461px;
+  min-width: 312px;
+  top: 255px;
+}
+
+.chat .ellipse-37 {
+  height: 40px;
+  object-fit: cover;
+  width: 40px;
+}
+
+.chat .overlap-group-1 {
+  align-self: flex-end;
+  height: 156px;
+  position: relative;
+  width: 268px;
+}
+
+.chat .rectangle-4509 {
+  height: 136px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 268px;
+}
+
+.chat .rectangle-4510 {
+  background-color: var(--ffffff);
+  border: 1px solid;
+  border-color: #cecece;
+  border-radius: 50px;
+  box-shadow: 0px 1px 0px #0000001a;
+  height: 27px;
+  left: 16px;
+  position: absolute;
+  top: 129px;
+  width: 37px;
+}
+
+.chat .thumbs_-up_-sign_-emoji_-icon_ios10-1 {
+  height: 17px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 133px;
+  width: 16px;
+}
+
+.chat .thats-an-online-pla {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 27px;
+  width: 242px;
+}
+
+.chat .bored-ape-yacht-club-2 {
+  color: #5038cc;
+  font-family: var(--font-family-pp_supply_sans-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 16px;
+  position: absolute;
+  top: 7px;
+  width: 244px;
+}
+
+.chat .text-86 {
+  color: #8272d5;
+  font-family: var(--font-family-pp_supply_sans-regular);
+  font-size: 11px;
+  font-weight: 400;
+  left: 214px;
+  line-height: normal;
+  text-align: right;
+  top: 114px;
+  width: 45px;
+}
+
+.chat .group-3623 {
+  gap: 4px;
+  height: 229px;
+  left: 461px;
+  min-width: 312px;
+  top: 475px;
+}
+
+.chat .overlap-group-2 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-4509-1.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 229px;
+  padding: 6px 5.0px;
+  width: 268px;
+}
+
+.chat .bored-ape-yacht-club-3 {
+  color: #5038cc;
+  font-family: var(--font-family-pp_supply_sans-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  margin-right: 3.0px;
+  width: 244px;
+}
+
+.chat .rectangle-4512-1 {
+  height: 160px;
+  margin-top: 7px;
+  object-fit: cover;
+  width: 252px;
+}
+
+.chat .overlap-group1-2 {
+  height: 22px;
+  margin-right: 4.0px;
+  margin-top: 9px;
+  position: relative;
+  width: 243px;
+}
+
+.chat .check-this-out-looks-super-cool {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 242px;
+}
+
+.chat .text-87 {
+  color: #8272d5;
+  font-family: var(--font-family-pp_supply_sans-regular);
+  font-size: 11px;
+  font-weight: 400;
+  left: 198px;
+  line-height: normal;
+  text-align: right;
+  top: 9px;
+  width: 45px;
+}
+
+.chat .group-3624 {
+  gap: 4px;
+  height: 109px;
+  left: 461px;
+  min-width: 304px;
+  top: 714px;
+}
+
+.chat .overlap-group-3 {
+  height: 109px;
+  position: relative;
+  width: 260px;
+}
+
+.chat .rectangle-4509-1 {
+  height: 109px;
+  left: 0;
+  width: 176px;
+}
+
+.chat .imojipngparspng-1 {
+  height: 58px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 58px;
+}
+
+.chat .name-4 {
+  color: #1b45e4;
+  font-family: var(--font-family-pp_supply_sans-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 16px;
+  position: absolute;
+  top: 6px;
+  width: 244px;
+}
+
+.chat .text-88 {
+  color: #7a8ac7;
+  font-family: var(--font-family-pp_supply_sans-regular);
+  font-size: 11px;
+  font-weight: 400;
+  left: 122px;
+  line-height: normal;
+  text-align: right;
+  top: 88px;
+  width: 45px;
+}
+
+.chat .overlap-group-4 {
+  background-image: url(../img/rectangle-4509-3.svg);
+  background-size: 100% 100%;
+  height: 36px;
+  left: 1228px;
+  position: absolute;
+  top: 370px;
+  width: 152px;
+}
+
+.chat .text-89 {
+  height: 8px;
+  left: 118px;
+  line-height: 32px;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+  width: 23px;
+}
+
+.chat .ah-ok-i-see {
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 78px;
+}
+
+.chat .text-90 {
+  left: 74px;
+  line-height: normal;
+  text-align: right;
+  top: 17px;
+  width: 45px;
+}
+
+.chat .overlap-group-5 {
+  background-image: url(../img/rectangle-4509-4.svg);
+  background-size: 100% 100%;
+  height: 36px;
+  left: 1112px;
+  position: absolute;
+  top: 413px;
+  width: 262px;
+}
+
+.chat .text-9 {
+  height: 8px;
+  left: 234px;
+  line-height: 32px;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+  width: 23px;
+}
+
+.chat .ok-thanks-for-clearing-that-up {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 242px;
+}
+
+.chat .text-9-1 {
+  left: 190px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 17px;
+  width: 45px;
+}
+
+.chat .overlap-group-6 {
+  background-image: url(../img/rectangle-4509-4.svg);
+  background-size: 100% 100%;
+  height: 36px;
+  left: 1112px;
+  position: absolute;
+  top: 905px;
+  width: 262px;
+}
+
+.chat .overlap-group17 {
+  height: 36px;
+  left: 802px;
+  position: absolute;
+  top: 859px;
+  width: 578px;
+}
+
+.chat .rectangle-4509-2 {
+  height: 36px;
+  left: 6px;
+  width: 572px;
+}
+
+.chat .text-95 {
+  height: 8px;
+  left: 544px;
+  line-height: 32px;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+  width: 23px;
+}
+
+.chat .they-are-simply-ador {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: right;
+  top: 8px;
+  white-space: nowrap;
+  width: 508px;
+}
+
+.chat .text-96 {
+  left: 500px;
+  line-height: normal;
+  text-align: right;
+  top: 17px;
+  width: 45px;
+}
+
+.chat .rectangle-4495-1 {
+  background-color: var(--shadowsondark4px);
+  box-shadow: inset 0px -1px 0px #555555;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.chat .union {
+  height: 29px;
+  left: 660px;
+  position: absolute;
+  top: 16px;
+  width: 120px;
+}
+
+.chat .overlap-group18 {
+  border-radius: 50px;
+  height: 44px;
+  left: 20px;
+  position: absolute;
+  top: 13px;
+  width: 44px;
+}
+
+.chat .line-22 {
+  top: 17px;
+}
+
+.chat .line-23 {
+  top: 26px;
+}
+
+.chat .rectangle-8 {
+  border: 1px solid;
+  border-color: var(--ffffff);
+  border-radius: 50px;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.chat .ellipse-41 {
+  height: 44px;
+  left: 1376px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 44px;
+}
+
+.chat .bored-ape-yacht-club-4 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chat .date-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 14px;
+  min-width: 53px;
+  opacity: 0.7;
+  text-align: right;
+}
+
+.chat .flex-col-10 {
+  display: flex;
+  flex-direction: column;
+}
+
+.chat .group {
+  align-items: flex-start;
+  display: flex;
+  position: absolute;
+}
+
+.chat .line {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 42px;
+}
+
+.chat .mon-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 14px;
+}
+
+.chat .name-5 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chat .rectangle-4509-3 {
+  position: absolute;
+  top: 0;
+}
+
+.chat .text {
+  letter-spacing: 0;
+  position: absolute;
+}
+
+.chat .tue-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 24.0px;
+  min-height: 14px;
+  min-width: 20px;
+  opacity: 0.7;
+}
+
+.chat .you-got-this-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 16px;
 }

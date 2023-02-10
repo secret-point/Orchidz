@@ -1,0 +1,1023 @@
+/* screen - profile-settings-notifications-1 */
+
+.profile-settings-notifications-1 {
+  align-items: flex-start;
+  background-color: var(--shadowsondark4px);
+  border: 1px none;
+  display: flex;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.profile-settings-notifications-1 .overlap-group10 {
+  height: 1601px;
+  position: relative;
+  width: 1450px;
+}
+
+.profile-settings-notifications-1 .overlap-group6 {
+  height: 1601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1450px;
+}
+
+.profile-settings-notifications-1 .rectangle-4540 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 110px;
+  width: 260px;
+}
+
+.profile-settings-notifications-1 .rectangle-4543 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 260px;
+}
+
+.profile-settings-notifications-1 .rectangle-4541 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 170px;
+  width: 260px;
+}
+
+.profile-settings-notifications-1 .rectangle-4544 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 289px;
+  width: 260px;
+}
+
+.profile-settings-notifications-1 .rectangle-4542 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 230px;
+  width: 260px;
+}
+
+.profile-settings-notifications-1 .rectangle-4545 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 349px;
+  width: 260px;
+}
+
+.profile-settings-notifications-1 .dashboard-your-listi {
+  left: 29px;
+  letter-spacing: -0.85px;
+  line-height: 60px;
+  position: absolute;
+  top: 108px;
+  width: 152px;
+}
+
+.profile-settings-notifications-1 .place {
+  height: 38px;
+  left: 29px;
+  letter-spacing: -0.60px;
+  line-height: 60px;
+  position: absolute;
+  top: 69px;
+  white-space: nowrap;
+  width: 152px;
+}
+
+.profile-settings-notifications-1 .rectangle-4495 {
+  background-color: var(--shadowsondark4px);
+  box-shadow: inset 0px -1px 0px #555555;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.profile-settings-notifications-1 .union {
+  height: 29px;
+  left: 660px;
+  position: absolute;
+  top: 16px;
+  width: 120px;
+}
+
+.profile-settings-notifications-1 .overlap-group {
+  border-radius: 50px;
+  height: 44px;
+  left: 29px;
+  position: absolute;
+  top: 13px;
+  width: 44px;
+}
+
+.profile-settings-notifications-1 .line-22 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 42px;
+}
+
+.profile-settings-notifications-1 .line-23 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 42px;
+}
+
+.profile-settings-notifications-1 .rectangle-8 {
+  border: 1px solid;
+  border-color: var(--ffffff);
+  border-radius: 50px;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.profile-settings-notifications-1 .ellipse-41 {
+  height: 44px;
+  left: 1366px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 44px;
+}
+
+.profile-settings-notifications-1 .rectangle-4509 {
+  background-color: var(--fuscous-gray);
+  height: 1554px;
+  left: 260px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.profile-settings-notifications-1 .vector {
+  height: 38px;
+  left: 459px;
+  position: absolute;
+  top: 95px;
+  width: 38px;
+}
+
+.profile-settings-notifications-1 .vector-1 {
+  height: 38px;
+  left: 1320px;
+  position: absolute;
+  top: 95px;
+  width: 38px;
+}
+
+.profile-settings-notifications-1 .account {
+  left: 291px;
+  letter-spacing: -2.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 69px;
+  white-space: nowrap;
+  width: 298px;
+}
+
+.profile-settings-notifications-1 .account-1 {
+  left: 1152px;
+  letter-spacing: -2.00px;
+  line-height: 84px;
+  top: 69px;
+  width: 298px;
+}
+
+.profile-settings-notifications-1 .account-2 {
+  left: 726px;
+  letter-spacing: -2.00px;
+  line-height: 84px;
+  top: 68px;
+  width: 298px;
+}
+
+.profile-settings-notifications-1 .profile {
+  left: 514px;
+  letter-spacing: -2.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 69px;
+  white-space: nowrap;
+  width: 177px;
+}
+
+.profile-settings-notifications-1 .pr {
+  left: 1375px;
+  letter-spacing: -2.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 69px;
+  white-space: nowrap;
+  width: 59px;
+}
+
+.profile-settings-notifications-1 .profile-1 {
+  left: 937px;
+  letter-spacing: -2.00px;
+  line-height: 84px;
+  top: 69px;
+  width: 167px;
+}
+
+.profile-settings-notifications-1 .text-2 {
+  color: var(--pink-lace);
+  font-family: var(--font-family-pp_eiko-medium);
+  font-size: 40px;
+  font-weight: 500;
+  height: 66px;
+  left: 691px;
+  letter-spacing: -2.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 79px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.profile-settings-notifications-1 .ellipse-17 {
+  border: 1px solid;
+  border-color: var(--pink-lace);
+  border-radius: 15px;
+  height: 30px;
+  left: 896px;
+  position: absolute;
+  top: 97px;
+  width: 30px;
+}
+
+.profile-settings-notifications-1 .group-3631 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 710px;
+  position: absolute;
+  top: 891px;
+  width: 1440px;
+}
+
+.profile-settings-notifications-1 .rectangle-4580 {
+  background-color: var(--fuscous-gray);
+  height: 1px;
+  width: 1440px;
+}
+
+.profile-settings-notifications-1 .overlap-group2 {
+  align-items: center;
+  background-color: var(--shadowsondark4px);
+  display: flex;
+  flex-direction: column;
+  min-height: 709px;
+  width: 1440px;
+}
+
+.profile-settings-notifications-1 .flex-row {
+  gap: 115px;
+  height: 491px;
+  margin-left: 6.0px;
+  margin-top: 39px;
+  min-width: 1374px;
+}
+
+.profile-settings-notifications-1 .flex-col {
+  flex-direction: column;
+  gap: 26px;
+  margin-top: 1px;
+  min-height: 238px;
+  width: 296px;
+}
+
+.profile-settings-notifications-1 .union-1 {
+  height: 39px;
+  margin-left: 4px;
+  width: 30px;
+}
+
+.profile-settings-notifications-1 .orchidz-is-a-central {
+  letter-spacing: -0.26px;
+  line-height: 20px;
+  margin-left: 2px;
+  min-height: 97px;
+  opacity: 0.9;
+  width: 294px;
+}
+
+.profile-settings-notifications-1 .overlap-group1 {
+  align-items: center;
+  background-image: url(../img/rectangle-4451.svg);
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 200px;
+}
+
+.profile-settings-notifications-1 .text-5 {
+  height: 50px;
+  letter-spacing: -1.05px;
+  line-height: 104px;
+  text-align: center;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.profile-settings-notifications-1 .line-27 {
+  height: 50px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.profile-settings-notifications-1 .shape {
+  height: 19px;
+  margin-bottom: 0.97px;
+  margin-left: 11px;
+  width: 25px;
+}
+
+.profile-settings-notifications-1 .vector-2 {
+  height: 16px;
+  margin-bottom: 1.75px;
+  margin-left: 14px;
+  width: 20px;
+}
+
+.profile-settings-notifications-1 .overlap-group-1 {
+  height: 50px;
+  margin-left: 15px;
+  position: relative;
+  width: 50px;
+}
+
+.profile-settings-notifications-1 .text-6 {
+  height: 50px;
+  left: 0;
+  letter-spacing: -1.05px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.profile-settings-notifications-1 .flex-col-1 {
+  align-items: flex-start;
+  gap: 20px;
+  min-height: 491px;
+  width: 963px;
+}
+
+.profile-settings-notifications-1 .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 101px;
+  min-width: 963px;
+}
+
+.profile-settings-notifications-1 .marketplace {
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  white-space: nowrap;
+  width: 131px;
+}
+
+.profile-settings-notifications-1 .my-account {
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  margin-left: 110px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.profile-settings-notifications-1 .resources {
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  margin-left: 115px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.profile-settings-notifications-1 .flex-col-2 {
+  align-items: flex-end;
+  gap: 22px;
+  margin-left: 119px;
+  min-height: 101px;
+  width: 271px;
+}
+
+.profile-settings-notifications-1 .overlap-group-2 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--ffffff);
+  border-radius: 40px;
+  display: flex;
+  height: 42px;
+  margin-right: 9px;
+  min-width: 42px;
+  padding: 8.0px;
+}
+
+.profile-settings-notifications-1 .text-4 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  min-width: 24px;
+  text-align: center;
+  transform: rotate(90.00deg);
+}
+
+.profile-settings-notifications-1 .company {
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  white-space: nowrap;
+  width: 271px;
+}
+
+.profile-settings-notifications-1 .all-nf-ts-art-collect {
+  left: 0;
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  opacity: 0.6;
+  position: absolute;
+  text-decoration: underline;
+  top: 0;
+  width: 271px;
+}
+
+.profile-settings-notifications-1 .all-nf-ts-art-collect-1 {
+  left: 241px;
+}
+
+.profile-settings-notifications-1 .all-nf-ts-art-collect-2 {
+  left: 454px;
+}
+
+.profile-settings-notifications-1 .all-nf-ts-art-collectibles-domain-names {
+  left: 692px;
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  opacity: 0.6;
+  position: absolute;
+  text-decoration: underline;
+  top: 0;
+  width: 271px;
+}
+
+.profile-settings-notifications-1 .rectangle-4450 {
+  background-color: var(--fuscous-gray);
+  height: 1px;
+  margin-top: 53px;
+  width: 1440px;
+}
+
+.profile-settings-notifications-1 .overlap-group3 {
+  height: 116px;
+  margin-top: 9px;
+  position: relative;
+  width: 1440px;
+}
+
+.profile-settings-notifications-1 .rectangle-4451 {
+  background-color: var(--fuscous-gray);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 30px;
+  width: 1440px;
+}
+
+.profile-settings-notifications-1 .address {
+  left: 38px;
+  letter-spacing: -0.20px;
+  line-height: 20px;
+  opacity: 0.9;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}
+
+.profile-settings-notifications-1 .privacy-policy {
+  left: 996px;
+  letter-spacing: -0.20px;
+  line-height: 20px;
+  opacity: 0.9;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 0;
+  width: 294px;
+}
+
+.profile-settings-notifications-1 .terms-of-service {
+  left: 1116px;
+  letter-spacing: -0.20px;
+  line-height: 20px;
+  opacity: 0.9;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 0;
+  width: 294px;
+}
+
+.profile-settings-notifications-1 .rectangle-4448 {
+  background-color: var(--shadowsondark4px);
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 31px;
+  width: 1440px;
+}
+
+.profile-settings-notifications-1 .vector-3 {
+  height: 50px;
+  left: 693px;
+  position: absolute;
+  top: 47px;
+  width: 50px;
+}
+
+.profile-settings-notifications-1 .explore {
+  left: 68px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+  width: 731px;
+}
+
+.profile-settings-notifications-1 .explore-1 {
+  left: 989px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+  width: 264px;
+}
+
+.profile-settings-notifications-1 .sell {
+  left: 764px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.profile-settings-notifications-1 .collect {
+  left: 393px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 27px;
+  white-space: nowrap;
+  width: 731px;
+}
+
+.profile-settings-notifications-1 .text-7 {
+  height: 66px;
+  left: 22px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.profile-settings-notifications-1 .text-8 {
+  height: 66px;
+  left: 336px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.profile-settings-notifications-1 .text-9 {
+  height: 66px;
+  left: 1253px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.profile-settings-notifications-1 .ellipse-16 {
+  border: 1px solid;
+  border-color: var(--ffffff);
+  border-radius: 25px;
+  height: 50px;
+  left: 918px;
+  position: absolute;
+  top: 46px;
+  width: 50px;
+}
+
+.profile-settings-notifications-1 .overlap-group5 {
+  height: 563px;
+  left: 291px;
+  position: absolute;
+  top: 158px;
+  width: 1119px;
+}
+
+.profile-settings-notifications-1 .rectangle-4613 {
+  height: 60px;
+  left: 31px;
+  position: absolute;
+  top: 61px;
+  width: 1058px;
+}
+
+.profile-settings-notifications-1 .rectangle-4619 {
+  height: 60px;
+  left: 31px;
+  position: absolute;
+  top: 342px;
+  width: 1058px;
+}
+
+.profile-settings-notifications-1 .rectangle-4615 {
+  height: 60px;
+  left: 31px;
+  position: absolute;
+  top: 182px;
+  width: 1058px;
+}
+
+.profile-settings-notifications-1 .rectangle-4620 {
+  height: 60px;
+  left: 31px;
+  position: absolute;
+  top: 463px;
+  width: 1058px;
+}
+
+.profile-settings-notifications-1 .rectangle-4614 {
+  height: 60px;
+  left: 31px;
+  position: absolute;
+  top: 122px;
+  width: 1058px;
+}
+
+.profile-settings-notifications-1 .rectangle-4621 {
+  height: 60px;
+  left: 31px;
+  position: absolute;
+  top: 403px;
+  width: 1058px;
+}
+
+.profile-settings-notifications-1 .rectangle-4617 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1119px;
+}
+
+.profile-settings-notifications-1 .rectangle-4618 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 272px;
+  width: 1119px;
+}
+
+.profile-settings-notifications-1 .account-information {
+  height: 38px;
+  left: 32px;
+  letter-spacing: -0.60px;
+  line-height: 60px;
+  top: 0;
+  width: 152px;
+}
+
+.profile-settings-notifications-1 .contact-details {
+  height: 38px;
+  left: 32px;
+  letter-spacing: -0.60px;
+  line-height: 60px;
+  position: absolute;
+  top: 271px;
+  white-space: nowrap;
+  width: 152px;
+}
+
+.profile-settings-notifications-1 .rectangle-4516 {
+  height: 563px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1119px;
+}
+
+.profile-settings-notifications-1 .place-1 {
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 68px;
+}
+
+.profile-settings-notifications-1 .email-address {
+  color: var(--pink-lace);
+  font-family: var(--font-family-pp_supply_mono-regular);
+  font-size: 10px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 349px;
+}
+
+.profile-settings-notifications-1 .date-of-birth {
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 192px;
+}
+
+.profile-settings-notifications-1 .address-1 {
+  left: 32px;
+  top: 472px;
+}
+
+.profile-settings-notifications-1 .gender {
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 131px;
+}
+
+.profile-settings-notifications-1 .phone-number {
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 412px;
+}
+
+.profile-settings-notifications-1 .name {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 84px;
+}
+
+.profile-settings-notifications-1 .jeff_hoodorchidzcom {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 365px;
+}
+
+.profile-settings-notifications-1 .date {
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 208px;
+}
+
+.profile-settings-notifications-1 .address-2 {
+  left: 30px;
+  top: 488px;
+}
+
+.profile-settings-notifications-1 .male {
+  left: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 147px;
+}
+
+.profile-settings-notifications-1 .text-10 {
+  left: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 428px;
+}
+
+.profile-settings-notifications-1 .text-11 {
+  color: var(--ffffff);
+  font-family: var(--font-family-sf_pro-light);
+  font-size: var(--font-size-l);
+  font-weight: 300;
+  height: 18px;
+  left: 79px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 151px;
+}
+
+.profile-settings-notifications-1 .line-47 {
+  height: 23px;
+  left: 229px;
+  object-fit: cover;
+  position: absolute;
+  top: 366px;
+  width: 1px;
+}
+
+.profile-settings-notifications-1 .overlap-group7 {
+  height: 341px;
+  left: 0;
+  position: absolute;
+  top: 409px;
+  width: 260px;
+}
+
+.profile-settings-notifications-1 .rectangle-454 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 41px;
+  width: 260px;
+}
+
+.profile-settings-notifications-1 .rectangle-4547 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 260px;
+}
+
+.profile-settings-notifications-1 .rectangle-4548 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 101px;
+  width: 260px;
+}
+
+.profile-settings-notifications-1 .rectangle-4550 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 161px;
+  width: 260px;
+}
+
+.profile-settings-notifications-1 .rectangle-4612 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 221px;
+  width: 260px;
+}
+
+.profile-settings-notifications-1 .rectangle-4551 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 281px;
+  width: 260px;
+}
+
+.profile-settings-notifications-1 .profile-2 {
+  height: 38px;
+  left: 29px;
+  letter-spacing: -0.60px;
+  line-height: 60px;
+  top: 0;
+  width: 152px;
+}
+
+.profile-settings-notifications-1 .text-1 {
+  height: 24px;
+  left: 218px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 58px;
+  transform: rotate(-180.00deg);
+}
+
+.profile-settings-notifications-1 .overlap-group9 {
+  height: 41px;
+  left: 1271px;
+  position: absolute;
+  top: 750px;
+  width: 139px;
+}
+
+.profile-settings-notifications-1 .rectangle-458 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 139px;
+}
+
+.profile-settings-notifications-1 .save {
+  height: 40px;
+  left: 0;
+  letter-spacing: -0.85px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 139px;
+}
+
+.profile-settings-notifications-1 .overlap-group8 {
+  height: 41px;
+  left: 1118px;
+  position: absolute;
+  top: 750px;
+  width: 139px;
+}
+
+.profile-settings-notifications-1 .cancel {
+  height: 40px;
+  left: 0;
+  letter-spacing: -0.85px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 139px;
+}
+
+.profile-settings-notifications-1 .text-3 {
+  color: var(--pink-lace);
+  font-family: var(--font-family-pp_supply_mono-regular);
+  font-size: 60px;
+  font-weight: 400;
+  height: 66px;
+  left: 1106px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 72px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.profile-settings-notifications-1 .account-3 {
+  position: absolute;
+  white-space: nowrap;
+}
+
+.profile-settings-notifications-1 .address-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.profile-settings-notifications-1 .all-nf-ts-art-collect-3 {
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  opacity: 0.6;
+  position: absolute;
+  text-decoration: underline;
+  top: 0;
+  width: 271px;
+}
+
+.profile-settings-notifications-1 .flex-col-3 {
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-settings-notifications-1 .profile-3 {
+  position: absolute;
+  white-space: nowrap;
+}

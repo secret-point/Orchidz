@@ -738,7 +738,7 @@
 .analytics .least-valuable {
   color: var(--ffffff);
   font-family: var(--font-family-helvetica-regular);
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-xl);
   font-weight: 400;
   letter-spacing: 5.60px;
   line-height: normal;
@@ -1573,6 +1573,13 @@
   height: 18px;
   overflow: hidden;
   width: 367px;
+}
+
+.analytics .privacy-policy {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-width: 83px;
+  white-space: nowrap;
 }
 
 .analytics .buttons-label-icon-t-4 {

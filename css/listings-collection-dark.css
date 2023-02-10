@@ -494,6 +494,13 @@
   width: 367px;
 }
 
+.listings-collection-dark .privacy-policy {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-width: 83px;
+  white-space: nowrap;
+}
+
 .listings-collection-dark .buttons-label-icon-t {
   align-items: flex-end;
   display: flex;
@@ -582,5 +589,12 @@
 .listings-collection-dark .lable-4 {
   letter-spacing: 0;
   line-height: 21px;
+  white-space: nowrap;
+}
+
+.listings-collection-dark .number-4 {
+  letter-spacing: 0;
+  line-height: 18px;
+  text-align: center;
   white-space: nowrap;
 }

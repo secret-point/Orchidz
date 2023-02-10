@@ -418,6 +418,13 @@
   width: 367px;
 }
 
+.profile-settings-notifications-dark .privacy-policy {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-width: 83px;
+  white-space: nowrap;
+}
+
 .profile-settings-notifications-dark .buttons-label-icon-t {
   align-items: flex-end;
   display: flex;

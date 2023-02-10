@@ -1,0 +1,1270 @@
+/* screen - launchpad-1 */
+
+.launchpad-1 {
+  align-items: flex-start;
+  background-color: var(--ffffff);
+  border: 1px none;
+  display: flex;
+  gap: 9195px;
+  height: 3096px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.launchpad-1 .union-1 {
+  height: 1px;
+  margin-left: -9196px;
+  margin-top: 225px;
+  width: 1px;
+}
+
+.launchpad-1 .overlap-group14 {
+  height: 2868px;
+  position: relative;
+  width: 2063px;
+}
+
+.launchpad-1 .rectangle-1 {
+  background: linear-gradient(180deg, rgb(212.5, 215.48, 255) 0%, rgb(247.56, 219.94, 255) 100%);
+  height: 2248px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.launchpad-1 .guoqtzgcgzfhtlbo2-nmgl2-slay-1 {
+  height: 660px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 125px;
+  width: 660px;
+}
+
+.launchpad-1 .creator {
+  height: 18px;
+  left: 775px;
+  letter-spacing: -0.60px;
+  line-height: 104px;
+  position: absolute;
+  top: 131px;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.launchpad-1 .address-1 {
+  height: 18px;
+  left: 760px;
+  letter-spacing: -0.60px;
+  line-height: 104px;
+  position: absolute;
+  top: 293px;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.launchpad-1 .address-2 {
+  height: 18px;
+  left: 860px;
+  letter-spacing: -0.60px;
+  line-height: 104px;
+  position: absolute;
+  top: 293px;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.launchpad-1 .title {
+  color: var(--shadowsondark4px);
+  font-family: var(--font-family-pp_supply_mono-regular);
+  font-size: 80px;
+  font-weight: 400;
+  left: 724px;
+  letter-spacing: -4.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 163px;
+  white-space: nowrap;
+  width: 862px;
+}
+
+.launchpad-1 .rectangle-4 {
+  border: 1px solid;
+  border-color: var(--shadowsondark4px);
+  border-radius: 50px;
+  height: 34px;
+  left: 1362px;
+  position: absolute;
+  top: 120px;
+  width: 34px;
+}
+
+.launchpad-1 .text-46 {
+  height: 44px;
+  left: 1357px;
+  letter-spacing: -0.75px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 114px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.launchpad-1 .text-47 {
+  height: 44px;
+  left: 721px;
+  letter-spacing: -0.75px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 280px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.launchpad-1 .text-48 {
+  height: 44px;
+  left: 737px;
+  letter-spacing: -0.75px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 345px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.launchpad-1 .text-49 {
+  height: 44px;
+  left: 729px;
+  letter-spacing: -0.85px;
+  line-height: 104px;
+  position: absolute;
+  top: 563px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.launchpad-1 .text-50 {
+  height: 44px;
+  left: 40px;
+  letter-spacing: -0.85px;
+  line-height: 104px;
+  position: absolute;
+  top: 1465px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.launchpad-1 .text-51 {
+  height: 44px;
+  left: 824px;
+  letter-spacing: -0.75px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 280px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.launchpad-1 .place {
+  height: 18px;
+  left: 752px;
+  letter-spacing: -0.60px;
+  line-height: 18px;
+  position: absolute;
+  top: 627px;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.launchpad-1 .surname {
+  height: 18px;
+  left: 905px;
+  letter-spacing: -0.60px;
+  line-height: 18px;
+  position: absolute;
+  top: 627px;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.launchpad-1 .x074-flow {
+  color: var(--shadowsondark4px);
+  font-family: var(--font-family-pp_supply_mono-regular);
+  font-size: 27px;
+  font-weight: 400;
+  height: 20px;
+  left: 747px;
+  letter-spacing: -1.35px;
+  line-height: 84px;
+  position: absolute;
+  top: 423px;
+  white-space: nowrap;
+  width: 181px;
+}
+
+.launchpad-1 .text-52 {
+  color: var(--shadowsondark4px);
+  font-family: var(--font-family-pp_supply_mono-ultralight);
+  font-size: 27px;
+  font-weight: 400;
+  height: 20px;
+  left: 899px;
+  letter-spacing: -1.35px;
+  line-height: 84px;
+  position: absolute;
+  top: 422px;
+  white-space: nowrap;
+  width: 181px;
+}
+
+.launchpad-1 .bids {
+  height: 44px;
+  left: 762px;
+  letter-spacing: -1.10px;
+  line-height: 104px;
+  position: absolute;
+  top: 561px;
+  white-space: nowrap;
+  width: 351px;
+}
+
+.launchpad-1 .a-kid-called-beast {
+  color: var(--shadowsondark4px);
+  font-family: var(--font-family-pp_eiko_italic-light);
+  font-size: var(--font-size-l);
+  font-weight: 300;
+  left: 827px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 128px;
+}
+
+.launchpad-1 .marcotics-1 {
+  color: var(--shadowsondark4px);
+  font-family: var(--font-family-pp_eiko_italic-light);
+  font-size: var(--font-size-l);
+  font-weight: 300;
+  left: 788px;
+  letter-spacing: 0;
+  top: 254px;
+}
+
+.launchpad-1 .overlap-group-1 {
+  height: 40px;
+  left: 730px;
+  position: absolute;
+  top: 657px;
+  width: 689px;
+}
+
+.launchpad-1 .rectangle-4430 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 677px;
+}
+
+.launchpad-1 .marcotics {
+  height: 18px;
+  left: 52px;
+  letter-spacing: -0.65px;
+  line-height: 20px;
+  position: absolute;
+  text-decoration: underline;
+  top: 9px;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.launchpad-1 .price {
+  height: 18px;
+  left: 297px;
+  letter-spacing: -0.65px;
+  line-height: 20px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.launchpad-1 .address {
+  height: 18px;
+  left: 554px;
+  letter-spacing: -0.65px;
+  line-height: 20px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.launchpad-1 .overlap-group1-1 {
+  height: 40px;
+  left: 730px;
+  position: absolute;
+  top: 737px;
+  width: 689px;
+}
+
+.launchpad-1 .overlap-group2 {
+  height: 40px;
+  left: 730px;
+  position: absolute;
+  top: 697px;
+  width: 689px;
+}
+
+.launchpad-1 .overlap-group3 {
+  height: 40px;
+  left: 730px;
+  position: absolute;
+  top: 777px;
+  width: 689px;
+}
+
+.launchpad-1 .overlap-group4 {
+  height: 19px;
+  margin-left: 9px;
+  margin-top: 1px;
+  position: relative;
+  width: 491px;
+}
+
+.launchpad-1 .price-1 {
+  height: 18px;
+  left: 245px;
+  letter-spacing: -0.65px;
+  line-height: 20px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.launchpad-1 .address-3 {
+  align-self: center;
+  height: 18px;
+  letter-spacing: -0.65px;
+  line-height: 20px;
+  margin-bottom: 2.0px;
+  margin-left: 11px;
+  white-space: nowrap;
+  width: 135px;
+}
+
+.launchpad-1 .rectangle-4425 {
+  border: 1px solid;
+  border-color: var(--shadowsondark4px);
+  height: 2248px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.launchpad-1 .text-53 {
+  color: var(--shadowsondark4px);
+  font-family: var(--font-family-sf_pro_display-ultralight);
+  font-size: 36px;
+  font-weight: 400;
+  height: 50px;
+  left: 1305px;
+  letter-spacing: -1.80px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 111px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.launchpad-1 .overlap-group5 {
+  align-items: center;
+  background-image: url(../img/rectangle-4431-1.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  left: 41px;
+  min-height: 634px;
+  padding: 1px 0;
+  position: absolute;
+  top: 814px;
+  width: 659px;
+}
+
+.launchpad-1 .overlap-group1-2 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-4432.svg);
+  background-size: 100% 100%;
+  display: flex;
+  gap: 191px;
+  height: 70px;
+  justify-content: flex-end;
+  min-width: 659px;
+  padding: 11px 19.0px;
+}
+
+.launchpad-1 .overlap-group3-1 {
+  height: 46px;
+  position: relative;
+  width: 385px;
+}
+
+.launchpad-1 .text-57 {
+  height: 44px;
+  left: 0;
+  letter-spacing: -0.85px;
+  line-height: 104px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.launchpad-1 .text-54 {
+  align-self: center;
+  height: 44px;
+  letter-spacing: -1.50px;
+  line-height: 104px;
+  margin-bottom: 0;
+  text-align: center;
+  transform: rotate(-180.00deg);
+  white-space: nowrap;
+  width: 44px;
+}
+
+.launchpad-1 .overlap-group2-1 {
+  height: 139px;
+  margin-top: 42px;
+  position: relative;
+  width: 659px;
+}
+
+.launchpad-1 .rectangle-4433 {
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 659px;
+}
+
+.launchpad-1 .text-55 {
+  height: 44px;
+  left: 596px;
+  letter-spacing: -1.50px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 81px;
+  transform: rotate(-180.00deg);
+  white-space: nowrap;
+  width: 44px;
+}
+
+.launchpad-1 .text-56 {
+  height: 44px;
+  left: 596px;
+  letter-spacing: -1.50px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.launchpad-1 .text-58 {
+  height: 44px;
+  left: 20px;
+  letter-spacing: -1.05px;
+  line-height: 104px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.launchpad-1 .text-59 {
+  height: 44px;
+  left: 20px;
+  letter-spacing: -1.05px;
+  line-height: 104px;
+  position: absolute;
+  top: 83px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.launchpad-1 .properties {
+  height: 44px;
+  left: 54px;
+  letter-spacing: -1.10px;
+  line-height: 104px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+  width: 351px;
+}
+
+.launchpad-1 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 21px;
+  height: 100px;
+  margin-right: 9.0px;
+  margin-top: 15px;
+  min-width: 610px;
+}
+
+.launchpad-1 .overlap-group-2 {
+  height: 100px;
+  margin-left: 56.0px;
+  margin-top: 27px;
+  position: relative;
+  width: 545px;
+}
+
+.launchpad-1 .rectangle-4435 {
+  height: 50px;
+  left: 3px;
+  position: absolute;
+  top: 48px;
+  width: 200px;
+}
+
+.launchpad-1 .text-60 {
+  height: 50px;
+  left: 3px;
+  letter-spacing: -1.05px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.launchpad-1 .text-61 {
+  height: 50px;
+  left: 153px;
+  letter-spacing: -1.05px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.launchpad-1 .shape {
+  height: 19px;
+  left: 65px;
+  position: absolute;
+  top: 63px;
+  width: 25px;
+}
+
+.launchpad-1 .vector {
+  height: 16px;
+  left: 118px;
+  position: absolute;
+  top: 64px;
+  width: 20px;
+}
+
+.launchpad-1 .overlap-group6 {
+  align-items: center;
+  background-image: url(../img/guoqtzgcgzfhtlbo2nmgl2slay-6-1.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  left: 40px;
+  min-height: 463px;
+  position: absolute;
+  top: 1527px;
+  width: 308px;
+}
+
+.launchpad-1 .beast-1927 {
+  letter-spacing: 0.60px;
+  line-height: 37px;
+  margin-left: 3.0px;
+  margin-top: 10px;
+  white-space: nowrap;
+  width: 271px;
+}
+
+.launchpad-1 .by-damien-rogers {
+  align-self: flex-start;
+  height: 19px;
+  letter-spacing: -0.51px;
+  line-height: 20px;
+  margin-bottom: -1px;
+  margin-left: 21px;
+  margin-top: 10px;
+  white-space: nowrap;
+}
+
+.launchpad-1 .overlap-group1 {
+  height: 46px;
+  margin-top: 55px;
+  position: relative;
+  width: 308px;
+}
+
+.launchpad-1 .overlap-group {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 308px;
+}
+
+.launchpad-1 .view {
+  height: 44px;
+  left: 177px;
+  letter-spacing: -0.75px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: 131px;
+}
+
+.launchpad-1 .union {
+  height: 26px;
+  left: 144px;
+  position: absolute;
+  top: 9px;
+  width: 20px;
+}
+
+.launchpad-1 .text-6 {
+  height: 44px;
+  letter-spacing: -0.75px;
+  line-height: 104px;
+  text-align: center;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.launchpad-1 .overlap-group7 {
+  align-items: center;
+  background-image: url(../img/guoqtzgcgzfhtlbo2nmgl2slay-6.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  left: 373px;
+  min-height: 463px;
+  position: absolute;
+  top: 1529px;
+  width: 308px;
+}
+
+.launchpad-1 .overlap-group8 {
+  align-items: center;
+  background-image: url(../img/guoqtzgcgzfhtlbo2nmgl2slay-6.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  left: 1039px;
+  min-height: 463px;
+  position: absolute;
+  top: 1529px;
+  width: 308px;
+}
+
+.launchpad-1 .overlap-group9 {
+  align-items: center;
+  background-image: url(../img/guoqtzgcgzfhtlbo2nmgl2slay-6-1.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  left: 706px;
+  min-height: 463px;
+  position: absolute;
+  top: 1529px;
+  width: 308px;
+}
+
+.launchpad-1 .group-2949 {
+  align-items: flex-end;
+  display: flex;
+  height: 463px;
+  left: 1372px;
+  min-width: 314px;
+  position: absolute;
+  top: 1529px;
+}
+
+.launchpad-1 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: -214.14px;
+  margin-left: -9065px;
+  min-height: 35px;
+  width: 46px;
+}
+
+.launchpad-1 .union-2 {
+  height: 26px;
+  width: 20px;
+}
+
+.launchpad-1 .line-19-1 {
+  height: 1px;
+  margin-bottom: -180px;
+  object-fit: cover;
+  width: 46px;
+}
+
+.launchpad-1 .overlap-group11 {
+  height: 463px;
+  margin-left: 8973px;
+  position: relative;
+  width: 308px;
+}
+
+.launchpad-1 .overlap-group10 {
+  height: 463px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 291px;
+}
+
+.launchpad-1 .guoqtzgcgzfhtlbo2-nmgl2-slay-6 {
+  height: 463px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 68px;
+}
+
+.launchpad-1 .guoqtzgcgzfhtlbo2-nmgl2-slay-18-1 {
+  height: 266px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 48px;
+}
+
+.launchpad-1 .by-damien-rogers-1 {
+  height: 19px;
+  left: 21px;
+  letter-spacing: -0.51px;
+  line-height: 20px;
+  position: absolute;
+  top: 343px;
+  white-space: nowrap;
+  width: 199px;
+}
+
+.launchpad-1 .group-2931-1 {
+  align-items: flex-end;
+  display: flex;
+  gap: 9134px;
+  height: 44px;
+  left: 36px;
+  min-width: 64px;
+  position: absolute;
+  top: 419px;
+}
+
+.launchpad-1 .group-6-1 {
+  height: 15px;
+  margin-bottom: -211.14px;
+  margin-left: -9149px;
+  width: 15px;
+}
+
+.launchpad-1 .line-20-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 417px;
+  width: 68px;
+}
+
+.launchpad-1 .view-1 {
+  height: 44px;
+  left: 177px;
+  letter-spacing: -0.75px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 419px;
+  white-space: nowrap;
+  width: 131px;
+}
+
+.launchpad-1 .group-2965 {
+  align-items: flex-start;
+  background-color: var(--shadowsondark4px);
+  display: flex;
+  height: 85px;
+  left: 0;
+  min-width: 1440px;
+  padding: 20px 40px;
+  position: absolute;
+  top: 0;
+}
+
+.launchpad-1 .overlap-group12 {
+  border-radius: 50px;
+  height: 44px;
+  position: relative;
+  width: 44px;
+}
+
+.launchpad-1 .line-22 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 42px;
+}
+
+.launchpad-1 .line-23 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 42px;
+}
+
+.launchpad-1 .rectangle-8 {
+  border: 1px solid;
+  border-color: var(--ffffff);
+  border-radius: 50px;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.launchpad-1 .union-3 {
+  align-self: center;
+  height: 36px;
+  margin-bottom: 0.51px;
+  margin-left: 561px;
+  width: 150px;
+}
+
+.launchpad-1 .group-container {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--ffffff);
+  border-radius: 50px;
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+  margin-left: 513px;
+  min-width: 88px;
+}
+
+.launchpad-1 .overlap-group1-3 {
+  height: 44px;
+  position: relative;
+  width: 44px;
+}
+
+.launchpad-1 .text-67 {
+  color: #00ef8b;
+  font-family: var(--font-family-sf_pro_display-regular);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  height: 44px;
+  left: 0;
+  letter-spacing: -0.90px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.launchpad-1 .line-27 {
+  height: 43px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.launchpad-1 .overlap-group13 {
+  height: 709px;
+  left: 0;
+  position: absolute;
+  top: 2159px;
+  width: 2039px;
+}
+
+.launchpad-1 .rectangle-4447 {
+  background-color: var(--shadowsondark4px);
+  height: 709px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.launchpad-1 .overlap-group-3 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--ffffff);
+  border-radius: 40px;
+  display: flex;
+  height: 42px;
+  left: 1359px;
+  min-width: 42px;
+  padding: 8.0px;
+  position: absolute;
+  top: 39px;
+}
+
+.launchpad-1 .text-68 {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  min-width: 24px;
+  text-align: center;
+  transform: rotate(90.00deg);
+}
+
+.launchpad-1 .overlap-group1-4 {
+  align-items: center;
+  background-image: url(../img/rectangle-4451.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 50px;
+  left: 36px;
+  min-width: 200px;
+  position: absolute;
+  top: 228px;
+}
+
+.launchpad-1 .text-69 {
+  height: 50px;
+  letter-spacing: -1.05px;
+  line-height: 104px;
+  text-align: center;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.launchpad-1 .line-27-1 {
+  height: 50px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.launchpad-1 .shape-1 {
+  height: 19px;
+  margin-bottom: 0.97px;
+  margin-left: 11px;
+  width: 25px;
+}
+
+.launchpad-1 .vector-1 {
+  height: 16px;
+  margin-bottom: 1.75px;
+  margin-left: 14px;
+  width: 20px;
+}
+
+.launchpad-1 .overlap-group-4 {
+  height: 50px;
+  margin-left: 15px;
+  position: relative;
+  width: 50px;
+}
+
+.launchpad-1 .text-70 {
+  height: 50px;
+  left: 0;
+  letter-spacing: -1.05px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.launchpad-1 .rectangle-4450 {
+  background-color: var(--ffffff);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 583px;
+  width: 1440px;
+}
+
+.launchpad-1 .rectangle-4451 {
+  background-color: var(--ffffff);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 623px;
+  width: 1440px;
+}
+
+.launchpad-1 .marketplace {
+  left: 447px;
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  position: absolute;
+  top: 103px;
+  white-space: nowrap;
+  width: 131px;
+}
+
+.launchpad-1 .all-nf-ts-art-collect {
+  left: 447px;
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  opacity: 0.6;
+  position: absolute;
+  text-decoration: underline;
+  top: 160px;
+  width: 271px;
+}
+
+.launchpad-1 .all-nf-ts-art-collect-1 {
+  left: 688px;
+}
+
+.launchpad-1 .all-nf-ts-art-collect-2 {
+  left: 901px;
+}
+
+.launchpad-1 .all-nf-ts-art-collectibles-domain-names {
+  left: 1139px;
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  opacity: 0.6;
+  position: absolute;
+  text-decoration: underline;
+  top: 160px;
+  width: 271px;
+}
+
+.launchpad-1 .my-account {
+  left: 688px;
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  position: absolute;
+  top: 103px;
+  white-space: nowrap;
+  width: 98px;
+}
+
+.launchpad-1 .resources {
+  left: 901px;
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  position: absolute;
+  top: 103px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.launchpad-1 .company {
+  left: 1139px;
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  position: absolute;
+  top: 103px;
+  white-space: nowrap;
+  width: 271px;
+}
+
+.launchpad-1 .orchidz-is-a-central {
+  left: 38px;
+  letter-spacing: -0.26px;
+  line-height: 20px;
+  opacity: 0.9;
+  position: absolute;
+  top: 105px;
+  width: 294px;
+}
+
+.launchpad-1 .privacy-policy {
+  left: 996px;
+  letter-spacing: -0.20px;
+  line-height: 20px;
+  opacity: 0.9;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 593px;
+  width: 294px;
+}
+
+.launchpad-1 .terms-of-service {
+  left: 1116px;
+  letter-spacing: -0.20px;
+  line-height: 20px;
+  opacity: 0.9;
+  position: absolute;
+  text-align: right;
+  text-decoration: underline;
+  top: 593px;
+  width: 294px;
+}
+
+.launchpad-1 .union-4 {
+  height: 39px;
+  left: 40px;
+  position: absolute;
+  top: 40px;
+  width: 30px;
+}
+
+.launchpad-1 .overlap-group2-2 {
+  height: 89px;
+  left: 0;
+  position: absolute;
+  top: 620px;
+  width: 2039px;
+}
+
+.launchpad-1 .rectangle-4448 {
+  background-color: var(--shadowsondark4px);
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 1440px;
+}
+
+.launchpad-1 .vector-2 {
+  height: 50px;
+  left: 693px;
+  position: absolute;
+  top: 20px;
+  width: 50px;
+}
+
+.launchpad-1 .explore {
+  left: 68px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 731px;
+}
+
+.launchpad-1 .explore-1 {
+  left: 989px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 731px;
+}
+
+.launchpad-1 .sell {
+  left: 764px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 731px;
+}
+
+.launchpad-1 .collect {
+  left: 393px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 731px;
+}
+
+.launchpad-1 .collect-1 {
+  left: 1308px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 731px;
+}
+
+.launchpad-1 .text-71 {
+  height: 66px;
+  left: 22px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.launchpad-1 .text-72 {
+  height: 66px;
+  left: 336px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.launchpad-1 .text-73 {
+  height: 66px;
+  left: 1253px;
+  letter-spacing: -3.00px;
+  line-height: 84px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.launchpad-1 .ellipse-16 {
+  border: 1px solid;
+  border-color: var(--ffffff);
+  border-radius: 25px;
+  height: 50px;
+  left: 918px;
+  position: absolute;
+  top: 19px;
+  width: 50px;
+}
+
+.launchpad-1 .all-nf-ts-art-collect-3 {
+  letter-spacing: 0.34px;
+  line-height: 37px;
+  opacity: 0.6;
+  position: absolute;
+  text-decoration: underline;
+  top: 160px;
+  width: 271px;
+}

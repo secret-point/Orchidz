@@ -31,6 +31,16 @@
   width: 553px;
 }
 
+.voyager .rectangle-1304-copy-2 {
+  left: 0;
+  width: 736px;
+}
+
+.voyager .rectangle-1304-copy-3 {
+  left: 785px;
+  width: 553px;
+}
+
 .voyager .sidebar {
   align-items: flex-end;
   display: flex;
@@ -85,8 +95,26 @@
   white-space: nowrap;
 }
 
+.voyager .text {
+  flex-direction: column;
+  gap: 4px;
+  height: 88px;
+  margin-top: 22px;
+  width: 411px;
+}
+
 .voyager .name {
   width: 411px;
+}
+
+.voyager .read-more {
+  color: var(--x7a52f4primary);
+  font-family: var(--font-family-inter-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 21px;
+  white-space: nowrap;
 }
 
 .voyager .flex-row {
@@ -173,6 +201,18 @@
   position: absolute;
   top: 49px;
   width: 401px;
+}
+
+.voyager .active {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  min-height: 50px;
+  position: absolute;
+  top: 0;
+  width: 49px;
 }
 
 .voyager .element-tags-f5-f5-fa-editable-on-light {
@@ -310,6 +350,13 @@
   min-width: 59px;
 }
 
+.voyager .element-tags-ff-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  min-width: 332px;
+}
+
 .voyager .element-tags-f5-f5-f-2 {
   align-items: flex-start;
   justify-content: center;
@@ -375,6 +422,14 @@
 
 .voyager .tag-4 {
   min-width: 115px;
+}
+
+.voyager .buttons-label-fil-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 25px;
+  margin-top: 49px;
+  min-width: 411px;
 }
 
 .voyager .buttons-label-filled {
@@ -457,7 +512,7 @@
 
 .voyager .overlap-group-1 {
   align-items: flex-end;
-  background-color: var(--black-3);
+  background-color: #00000026;
   border: 1px solid;
   border-color: var(--nebula);
   border-radius: 23px;
@@ -499,7 +554,7 @@
 
 .voyager .overlap-group1-1 {
   align-items: flex-end;
-  background-color: var(--black-3);
+  background-color: #00000026;
   border: 1px solid;
   border-color: var(--nebula);
   border-radius: 23px;
@@ -513,6 +568,22 @@
 .voyager .icon-2 {
   min-height: 22px;
   min-width: 9px;
+}
+
+.voyager .screenshot-2023-01-10-at-184630 {
+  height: 131px;
+  left: 795px;
+  position: absolute;
+  top: 852px;
+  width: 540px;
+}
+
+.voyager .screenshot-2023-01-10-at-184915 {
+  height: 112px;
+  left: 775px;
+  position: absolute;
+  top: 983px;
+  width: 585px;
 }
 
 .voyager .address-2 {
@@ -545,8 +616,23 @@
 }
 
 .voyager .name-2 {
+  color: var(--ffffff);
+  font-family: var(--font-family-pp_supply_sans-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
   letter-spacing: 0;
   line-height: 21px;
+}
+
+.voyager .rectangle-1304-copy-1 {
+  background-color: var(--black-coral-pearl-2);
+  border: 1px solid;
+  border-color: var(--mountain-mist);
+  border-radius: 5px;
+  box-shadow: 0px 12px 14px #080f226b;
+  height: 297px;
+  position: absolute;
+  top: 825px;
 }
 
 .voyager .subtitle-2 {

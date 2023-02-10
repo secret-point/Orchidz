@@ -2113,6 +2113,13 @@
   width: 367px;
 }
 
+.nft-details-v-5-dark .privacy-policy {
+  letter-spacing: 0;
+  line-height: 18px;
+  min-width: 83px;
+  white-space: nowrap;
+}
+
 .nft-details-v-5-dark .buttons-label-icon-t-1 {
   align-items: flex-end;
   display: flex;

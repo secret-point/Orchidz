@@ -1,0 +1,399 @@
+/* screen - sign-up */
+
+.sign-up {
+  align-items: flex-start;
+  background-color: var(--shadowsondark4px);
+  border: 1px none;
+  display: flex;
+  height: 1024px;
+  width: 1440px;
+}
+
+.sign-up .group-container {
+  height: 984px;
+  margin-left: 20px;
+  margin-top: 20px;
+  position: relative;
+  width: 1420px;
+}
+
+.sign-up .overlap-group3 {
+  height: 41px;
+  left: 665px;
+  position: absolute;
+  top: 933px;
+  width: 755px;
+}
+
+.sign-up .union {
+  height: 33px;
+  left: 659px;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.sign-up .overlap-group2 {
+  height: 984px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1349px;
+}
+
+.sign-up .rectangle-2 {
+  height: 984px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 665px;
+}
+
+.sign-up .an-nft-non-fungible {
+  height: 140px;
+  left: 86px;
+  line-height: 28px;
+  position: absolute;
+  top: 555px;
+  width: 412px;
+}
+
+.sign-up .span-2 {
+  letter-spacing: -0.95px;
+}
+
+.sign-up .span-3 {
+  color: var(--shadowsondark4px);
+  font-family: var(--font-family-pp_eiko_italic-light);
+  font-size: 19px;
+  font-weight: 300;
+  letter-spacing: 0;
+}
+
+.sign-up .overlap-group {
+  height: 209px;
+  left: 66px;
+  position: absolute;
+  top: 308px;
+  width: 797px;
+}
+
+.sign-up .rectangle-4489 {
+  height: 208px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 388px;
+}
+
+.sign-up .starts {
+  left: 20px;
+  letter-spacing: 1.18px;
+  line-height: 84px;
+  position: absolute;
+  top: 121px;
+  white-space: nowrap;
+  width: 358px;
+}
+
+.sign-up .your-nft {
+  left: 15px;
+  letter-spacing: 1.18px;
+  line-height: 84px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 591px;
+}
+
+.sign-up .here {
+  left: 206px;
+  letter-spacing: 1.18px;
+  line-height: 84px;
+  position: absolute;
+  top: 123px;
+  white-space: nowrap;
+  width: 591px;
+}
+
+.sign-up .union-1 {
+  height: 36px;
+  left: 66px;
+  position: absolute;
+  top: 46px;
+  width: 150px;
+}
+
+.sign-up .rectangle-4483 {
+  height: 700px;
+  left: 737px;
+  position: absolute;
+  top: 159px;
+  width: 612px;
+}
+
+.sign-up .text-75 {
+  color: var(--dull-lavender);
+  font-family: var(--font-family-sf_pro-light);
+  font-size: 19px;
+  font-weight: 300;
+  left: 1291px;
+  top: 365px;
+}
+
+.sign-up .place {
+  left: 756px;
+  letter-spacing: -2.75px;
+  line-height: 84px;
+  position: absolute;
+  top: 172px;
+  white-space: nowrap;
+  width: 591px;
+}
+
+.sign-up .sign-up-using-email {
+  left: 763px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 255px;
+  width: 489px;
+}
+
+.sign-up .rectangle-18 {
+  height: 50px;
+  left: 767px;
+  position: absolute;
+  top: 769px;
+  width: 259px;
+}
+
+.sign-up .rectangle-19 {
+  height: 1px;
+  left: 767px;
+  position: absolute;
+  top: 408px;
+  width: 552px;
+}
+
+.sign-up .rectangle-4490 {
+  height: 1px;
+  left: 767px;
+  position: absolute;
+  top: 488px;
+  width: 552px;
+}
+
+.sign-up .rectangle-4492 {
+  height: 1px;
+  left: 767px;
+  position: absolute;
+  top: 648px;
+  width: 552px;
+}
+
+.sign-up .rectangle-4491 {
+  height: 1px;
+  left: 767px;
+  position: absolute;
+  top: 568px;
+  width: 552px;
+}
+
+.sign-up .rectangle-4493 {
+  height: 1px;
+  left: 767px;
+  position: absolute;
+  top: 728px;
+  width: 552px;
+}
+
+.sign-up .place-1 {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-pp_supply_mono-regular);
+  font-size: 10px;
+  font-weight: 400;
+  left: 768px;
+  letter-spacing: 0;
+  top: 355px;
+}
+
+.sign-up .email {
+  color: var(--dull-lavender);
+  font-family: var(--font-family-pp_supply_mono-regular);
+  font-size: 10px;
+  font-weight: 400;
+  left: 768px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 435px;
+}
+
+.sign-up .name {
+  left: 766px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 371px;
+}
+
+.sign-up .jeffhoodgmailcom {
+  left: 766px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 451px;
+}
+
+.sign-up .password {
+  left: 766px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.3;
+  position: absolute;
+  top: 611px;
+}
+
+.sign-up .username {
+  left: 766px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.3;
+  position: absolute;
+  top: 531px;
+}
+
+.sign-up .confirm-password {
+  left: 766px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.3;
+  position: absolute;
+  top: 691px;
+}
+
+.sign-up .sign-up-1 {
+  color: #8e8e8e;
+  font-family: var(--font-family-pp_supply_mono-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  height: 50px;
+  left: 767px;
+  letter-spacing: -0.85px;
+  line-height: 104px;
+  position: absolute;
+  text-align: center;
+  top: 768px;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.sign-up .line-30 {
+  height: 1px;
+  left: 737px;
+  position: absolute;
+  top: 318px;
+  width: 612px;
+}
+
+.sign-up .vector {
+  height: 50px;
+  left: 967px;
+  position: absolute;
+  top: 192px;
+  width: 50px;
+}
+
+.sign-up .line-33 {
+  height: 24px;
+  left: 967px;
+  object-fit: cover;
+  position: absolute;
+  top: 454px;
+  width: 1px;
+}
+
+.sign-up .title {
+  left: 85px;
+  letter-spacing: 1.18px;
+  line-height: 84px;
+  position: absolute;
+  top: 367px;
+  white-space: nowrap;
+  width: 358px;
+}
+
+.sign-up .overlap-group1 {
+  height: 41px;
+  left: 737px;
+  position: absolute;
+  top: 26px;
+  width: 103px;
+}
+
+.sign-up .rectangle-4480 {
+  border: 1px solid;
+  border-color: var(--ffffff);
+  border-radius: 100px;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 100px;
+}
+
+.sign-up .place-2 {
+  height: 39px;
+  left: 44px;
+  letter-spacing: -0.32px;
+  top: 0;
+  width: 59px;
+}
+
+.sign-up .text-74 {
+  left: 5px;
+  top: 2px;
+}
+
+.sign-up .group-3617 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 39px;
+  left: 1010px;
+  min-width: 371px;
+  position: absolute;
+  top: 27px;
+}
+
+.sign-up .have-an-account-or-flow-wallet {
+  height: 28px;
+  letter-spacing: -0.85px;
+  line-height: 28px;
+  margin-bottom: 1.0px;
+  min-width: 264px;
+  white-space: nowrap;
+}
+
+.sign-up .sign-in {
+  height: 39px;
+  letter-spacing: -0.32px;
+  line-height: normal;
+  text-decoration: underline;
+  width: 95px;
+}
+
+.sign-up .place-3 {
+  line-height: normal;
+  position: absolute;
+}
+
+.sign-up .text {
+  height: 39px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  width: 39px;
+}
