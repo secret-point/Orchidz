@@ -39,6 +39,9 @@
   src: url("../fonts/SF-Pro.ttf") format("truetype");
 }
 
+body {
+  background: linear-gradient(249.87deg, #d5d7ff 35.44%, #f8dcff 95.68%);
+}
 
 .screen a {
   display: contents;
@@ -92,7 +95,7 @@
 
 .col {
   left: 1308px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 27px;
@@ -116,7 +119,7 @@
 
 .guoqtzgcgzfhtlbo2-nmgl2-slay-18 {
   height: 266px;
-  margin-right: 2.0px;
+  margin-right: 2px;
   margin-top: 20px;
   object-fit: cover;
   width: 266px;
@@ -291,7 +294,7 @@
 .owned-by {
   height: 18px;
   left: 730px;
-  letter-spacing: -0.60px;
+  letter-spacing: -0.6px;
   line-height: 104px;
   position: absolute;
   top: 255px;
@@ -302,7 +305,7 @@
 .current-price {
   height: 18px;
   left: 749px;
-  letter-spacing: -0.60px;
+  letter-spacing: -0.6px;
   line-height: 104px;
   position: absolute;
   top: 398px;
@@ -313,7 +316,7 @@
 .usd-price {
   height: 18px;
   left: 1029px;
-  letter-spacing: -0.60px;
+  letter-spacing: -0.6px;
   line-height: 18px;
   position: absolute;
   top: 627px;
@@ -324,7 +327,7 @@
 .floor-difference {
   height: 18px;
   left: 1138px;
-  letter-spacing: -0.60px;
+  letter-spacing: -0.6px;
   line-height: 18px;
   position: absolute;
   top: 627px;
@@ -335,7 +338,7 @@
 .expires {
   height: 18px;
   left: 1284px;
-  letter-spacing: -0.60px;
+  letter-spacing: -0.6px;
   line-height: 18px;
   position: absolute;
   top: 627px;
@@ -357,7 +360,7 @@
 .more-from-collection {
   height: 44px;
   left: 73px;
-  letter-spacing: -1.10px;
+  letter-spacing: -1.1px;
   line-height: 104px;
   position: absolute;
   top: 1463px;
@@ -454,7 +457,7 @@
 .description {
   height: 44px;
   left: 34px;
-  letter-spacing: -1.10px;
+  letter-spacing: -1.1px;
   line-height: 104px;
   position: absolute;
   top: 0;
@@ -465,7 +468,7 @@
 .a-kid-called-beast-i {
   letter-spacing: -1.53px;
   line-height: 27px;
-  margin-right: 11.0px;
+  margin-right: 11px;
   margin-top: 11px;
   min-height: 100px;
   width: 608px;
@@ -482,7 +485,7 @@
 .about-a-kid-called-beast {
   height: 44px;
   left: 54px;
-  letter-spacing: -1.10px;
+  letter-spacing: -1.1px;
   line-height: 104px;
   position: absolute;
   top: 81px;
@@ -548,7 +551,7 @@
 
 .beast-1927-1 {
   left: 20px;
-  letter-spacing: 0.60px;
+  letter-spacing: 0.6px;
   line-height: 37px;
   position: absolute;
   top: 296px;
@@ -558,7 +561,7 @@
 
 .address-4 {
   left: 38px;
-  letter-spacing: -0.20px;
+  letter-spacing: -0.2px;
   line-height: 20px;
   opacity: 0.9;
   position: absolute;
@@ -574,12 +577,12 @@
 }
 
 .navbar {
-  align-items: flex-start;
   display: flex;
+  align-items: center;
   height: 24px;
-  margin-bottom: 4.0px;
-  margin-left: 193px;
-  width: 382px;
+  margin-bottom: 4px;
+  /* margin-left: 193px; */
+  /* width: 382px; */
 }
 
 .navbar-link-place {
@@ -610,7 +613,7 @@
   display: flex;
   height: 40px;
   justify-content: center;
-  margin-bottom: 4.0px;
+  margin-bottom: 4px;
   margin-left: 32px;
   min-width: 98px;
 }
@@ -1003,7 +1006,7 @@
 
 .copy-container {
   height: 624px;
-  margin-left: 28.0px;
+  margin-left: 28px;
   margin-top: 93px;
   position: relative;
   width: 1272px;

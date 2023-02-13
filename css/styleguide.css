@@ -1,4 +1,4 @@
-:root { 
+:root {
   --black: #0000001a;
   --black-2: #00000033;
   --black-coral-pearl: #576287;
@@ -39,7 +39,7 @@
   --x000000primary: #000000;
   --x000000soft: #000000;
   --x7a52f4primary: #7a52f4;
- 
+
   --font-size-l: 15px;
   --font-size-m: 14px;
   --font-size-s: 13px;
@@ -47,7 +47,7 @@
   --font-size-xs: 12px;
   --font-size-xxl: 17px;
   --font-size-xxxl: 18px;
- 
+
   --font-family-helvetica-regular: "Helvetica-Regular", Helvetica;
   --font-family-inter-bold: "Inter-Bold", Helvetica;
   --font-family-inter-light: "Inter-Light", Helvetica;
@@ -57,15 +57,18 @@
   --font-family-pp_eiko_italic-light: "PP Eiko Italic-Light", Helvetica;
   --font-family-pp_mori-book: "PP Mori-Book", Helvetica;
   --font-family-pp_supply_mono-regular: "PP Supply Mono-Regular", Helvetica;
-  --font-family-pp_supply_mono-ultralight: "PP Supply Mono-Ultralight", Helvetica;
+  --font-family-pp_supply_mono-ultralight: "PP Supply Mono-Ultralight",
+    Helvetica;
   --font-family-pp_supply_sans-regular: "PP Supply Sans-Regular", Helvetica;
-  --font-family-pp_supply_sans-ultralight: "PP Supply Sans-Ultralight", Helvetica;
+  --font-family-pp_supply_sans-ultralight: "PP Supply Sans-Ultralight",
+    Helvetica;
   --font-family-sf_pro-light: "SF Pro-Light", Helvetica;
   --font-family-sf_pro-medium: "SF Pro-Medium", Helvetica;
   --font-family-sf_pro-regular: "SF Pro-Regular", Helvetica;
   --font-family-sf_pro_display-regular: "SF Pro Display-Regular", Helvetica;
   --font-family-sf_pro_display-thin: "SF Pro Display-Thin", Helvetica;
-  --font-family-sf_pro_display-ultralight: "SF Pro Display-Ultralight", Helvetica;
+  --font-family-sf_pro_display-ultralight: "SF Pro Display-Ultralight",
+    Helvetica;
 }
 .inter-bold-white-14px {
   color: var(--ffffff);
@@ -254,7 +257,7 @@
 .ppsupplysans-regular-normal-black-30px {
   color: var(--shadowsondark4px);
   font-family: var(--font-family-pp_supply_sans-regular);
-  font-size: 30px;
+  font-size: 25px;
   font-style: normal;
   font-weight: 400;
 }

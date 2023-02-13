@@ -45,7 +45,7 @@
 .launchpad .creator {
   height: 18px;
   left: 775px;
-  letter-spacing: -0.60px;
+  letter-spacing: -0.6px;
   line-height: 104px;
   position: absolute;
   top: 131px;
@@ -56,7 +56,7 @@
 .launchpad .address-1 {
   height: 18px;
   left: 760px;
-  letter-spacing: -0.60px;
+  letter-spacing: -0.6px;
   line-height: 104px;
   position: absolute;
   top: 293px;
@@ -67,7 +67,7 @@
 .launchpad .address-2 {
   height: 18px;
   left: 860px;
-  letter-spacing: -0.60px;
+  letter-spacing: -0.6px;
   line-height: 104px;
   position: absolute;
   top: 293px;
@@ -81,7 +81,7 @@
   font-size: 80px;
   font-weight: 400;
   left: 724px;
-  letter-spacing: -4.00px;
+  letter-spacing: -4px;
   line-height: 84px;
   position: absolute;
   top: 163px;
@@ -173,7 +173,7 @@
 .launchpad .place {
   height: 18px;
   left: 752px;
-  letter-spacing: -0.60px;
+  letter-spacing: -0.6px;
   line-height: 18px;
   position: absolute;
   top: 627px;
@@ -184,7 +184,7 @@
 .launchpad .surname {
   height: 18px;
   left: 905px;
-  letter-spacing: -0.60px;
+  letter-spacing: -0.6px;
   line-height: 18px;
   position: absolute;
   top: 627px;
@@ -225,7 +225,7 @@
 .launchpad .bids {
   height: 44px;
   left: 762px;
-  letter-spacing: -1.10px;
+  letter-spacing: -1.1px;
   line-height: 104px;
   position: absolute;
   top: 561px;
@@ -242,7 +242,7 @@
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  text-decoration: underline;
+
   top: 128px;
 }
 
@@ -338,7 +338,7 @@
   height: 18px;
   letter-spacing: -0.65px;
   line-height: 20px;
-  margin-bottom: 2.0px;
+  margin-bottom: 2px;
   margin-left: 11px;
   white-space: nowrap;
   width: 135px;
@@ -361,7 +361,7 @@
   font-weight: 400;
   height: 50px;
   left: 1305px;
-  letter-spacing: -1.80px;
+  letter-spacing: -1.8px;
   line-height: 104px;
   position: absolute;
   text-align: center;
@@ -393,7 +393,7 @@
   height: 70px;
   justify-content: flex-end;
   min-width: 659px;
-  padding: 11px 19.0px;
+  padding: 11px 19px;
 }
 
 .launchpad .overlap-group3-1 {
@@ -416,11 +416,11 @@
 .launchpad .text-175 {
   align-self: center;
   height: 44px;
-  letter-spacing: -1.50px;
+  letter-spacing: -1.5px;
   line-height: 104px;
   margin-bottom: 0;
   text-align: center;
-  transform: rotate(-180.00deg);
+  transform: rotate(-180deg);
   white-space: nowrap;
   width: 44px;
 }
@@ -443,12 +443,12 @@
 .launchpad .text-176 {
   height: 44px;
   left: 596px;
-  letter-spacing: -1.50px;
+  letter-spacing: -1.5px;
   line-height: 104px;
   position: absolute;
   text-align: center;
   top: 81px;
-  transform: rotate(-180.00deg);
+  transform: rotate(-180deg);
   white-space: nowrap;
   width: 44px;
 }
@@ -456,7 +456,7 @@
 .launchpad .text-177 {
   height: 44px;
   left: 596px;
-  letter-spacing: -1.50px;
+  letter-spacing: -1.5px;
   line-height: 104px;
   position: absolute;
   text-align: center;
@@ -490,7 +490,7 @@
 .launchpad .properties {
   height: 44px;
   left: 54px;
-  letter-spacing: -1.10px;
+  letter-spacing: -1.1px;
   line-height: 104px;
   position: absolute;
   top: 12px;
@@ -503,14 +503,14 @@
   display: flex;
   gap: 21px;
   height: 100px;
-  margin-right: 9.0px;
+  margin-right: 9px;
   margin-top: 15px;
   min-width: 610px;
 }
 
 .launchpad .overlap-group-2 {
   height: 100px;
-  margin-left: 56.0px;
+  margin-left: 56px;
   margin-top: 27px;
   position: relative;
   width: 545px;
@@ -576,9 +576,9 @@
 }
 
 .launchpad .beast-1927 {
-  letter-spacing: 0.60px;
+  letter-spacing: 0.6px;
   line-height: 37px;
-  margin-left: 3.0px;
+  margin-left: 3px;
   margin-top: 10px;
   white-space: nowrap;
   width: 271px;
@@ -859,7 +859,7 @@
   font-weight: 400;
   height: 44px;
   left: 0;
-  letter-spacing: -0.90px;
+  letter-spacing: -0.9px;
   line-height: 104px;
   position: absolute;
   text-align: center;
@@ -903,7 +903,7 @@
   height: 42px;
   left: 1359px;
   min-width: 42px;
-  padding: 8.0px;
+  padding: 8px;
   position: absolute;
   top: 39px;
 }
@@ -914,7 +914,7 @@
   line-height: normal;
   min-width: 24px;
   text-align: center;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
 }
 
 .launchpad .overlap-group1-4 {
@@ -1009,7 +1009,7 @@
   line-height: 37px;
   opacity: 0.6;
   position: absolute;
-  text-decoration: underline;
+
   top: 160px;
   width: 271px;
 }
@@ -1028,7 +1028,7 @@
   line-height: 37px;
   opacity: 0.6;
   position: absolute;
-  text-decoration: underline;
+
   top: 160px;
   width: 271px;
 }
@@ -1075,19 +1075,19 @@
 
 .launchpad .privacy-policy {
   left: 996px;
-  letter-spacing: -0.20px;
+  letter-spacing: -0.2px;
   line-height: 20px;
   opacity: 0.9;
   position: absolute;
   text-align: right;
-  text-decoration: underline;
+
   top: 593px;
   width: 294px;
 }
 
 .launchpad .terms-of-service {
   left: 1116px;
-  letter-spacing: -0.20px;
+  letter-spacing: -0.2px;
   line-height: 20px;
   opacity: 0.9;
   position: absolute;
@@ -1140,7 +1140,7 @@
 
 .launchpad .sell {
   left: 764px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 0;
@@ -1159,7 +1159,7 @@
 .launchpad .text-192 {
   height: 66px;
   left: 22px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 5px;
@@ -1170,7 +1170,7 @@
 .launchpad .text-193 {
   height: 66px;
   left: 336px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 13px;
@@ -1181,7 +1181,7 @@
 .launchpad .text-194 {
   height: 66px;
   left: 1253px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 13px;
@@ -1205,13 +1205,13 @@
   line-height: 37px;
   opacity: 0.6;
   position: absolute;
-  text-decoration: underline;
+
   top: 160px;
   width: 271px;
 }
 
 .launchpad .collect-2 {
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 0;
@@ -1220,7 +1220,7 @@
 }
 
 .launchpad .explore-2 {
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 0;
