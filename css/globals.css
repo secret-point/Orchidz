@@ -49,11 +49,13 @@ body {
 }
 
 .container-center-horizontal {
+  position: relative;
   display: flex;
   flex-direction: row;
   justify-content: center;
   pointer-events: none;
   width: 100%;
+  overflow: hidden;
 }
 
 .container-center-horizontal > * {
@@ -1069,4 +1071,15 @@ body {
 .x7h-6 {
   margin-left: 54px;
   min-width: 61px;
+}
+.footer {
+  width: 100%;
+  height: 709px;
+  background-color: black;
+  transform: translateY(-709px);
+  position: absolute;
+  z-index: -9;
+  /* position: absolute;
+  bottom: 0;
+  z-index: -9; */
 }
