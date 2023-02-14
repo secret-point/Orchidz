@@ -23,6 +23,33 @@
   width: 1440px;
 }
 
+.rectangle-4450 {
+  background-color: transparent;
+  border-bottom: 1px solid white;
+  border-top: 1px solid white;
+  height: 50px;
+  /* left: 0; */
+  /* position: absolute; */
+  /* top: 583px; */
+  width: 100%;
+  transform: translateY(-100px);
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.bottom-overlap-group2 {
+  height: 89px;
+  /* left: 0; */
+  position: absolute;
+  /* top: 620px; */
+  width: 100%;
+  display: flex;
+  align-items: center;
+  transform: translateY(-85px);
+  gap: 1rem;
+  grid-template-columns: repeat(20, 50px 1fr) 100%;
+}
 .your-portfolio .rectangle-4531 {
   height: 80px;
   left: 261px;
@@ -71,7 +98,7 @@
   position: absolute;
   text-align: center;
   top: 879px;
-  transform: rotate(-90.00deg);
+  transform: rotate(-90deg);
 }
 
 .your-portfolio .rectangle-4425 {
@@ -189,7 +216,7 @@
 .your-portfolio .flex-row {
   gap: 115px;
   height: 491px;
-  margin-left: 6.0px;
+  margin-left: 6px;
   margin-top: 39px;
   min-width: 1374px;
 }
@@ -327,7 +354,7 @@
   height: 42px;
   margin-right: 9px;
   min-width: 42px;
-  padding: 8.0px;
+  padding: 8px;
 }
 
 .your-portfolio .text-98 {
@@ -336,7 +363,7 @@
   line-height: normal;
   min-width: 24px;
   text-align: center;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
 }
 
 .your-portfolio .company {
@@ -401,7 +428,7 @@
 
 .your-portfolio .address {
   left: 38px;
-  letter-spacing: -0.20px;
+  letter-spacing: -0.2px;
   line-height: 20px;
   opacity: 0.9;
   position: absolute;
@@ -411,7 +438,7 @@
 
 .your-portfolio .privacy-policy {
   left: 996px;
-  letter-spacing: -0.20px;
+  letter-spacing: -0.2px;
   line-height: 20px;
   opacity: 0.9;
   position: absolute;
@@ -423,7 +450,7 @@
 
 .your-portfolio .terms-of-service {
   left: 1116px;
-  letter-spacing: -0.20px;
+  letter-spacing: -0.2px;
   line-height: 20px;
   opacity: 0.9;
   position: absolute;
@@ -452,7 +479,7 @@
 
 .your-portfolio .explore {
   left: 68px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 27px;
@@ -462,7 +489,7 @@
 
 .your-portfolio .explore-1 {
   left: 989px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 27px;
@@ -472,7 +499,7 @@
 
 .your-portfolio .sell {
   left: 764px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 27px;
@@ -482,7 +509,7 @@
 
 .your-portfolio .collect {
   left: 393px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 27px;
@@ -493,7 +520,7 @@
 .your-portfolio .text-101 {
   height: 66px;
   left: 22px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 32px;
@@ -504,7 +531,7 @@
 .your-portfolio .text-102 {
   height: 66px;
   left: 336px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 40px;
@@ -515,7 +542,7 @@
 .your-portfolio .text-103 {
   height: 66px;
   left: 1253px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 40px;
@@ -551,7 +578,7 @@
   position: absolute;
   text-align: center;
   top: 86px;
-  transform: rotate(-180.00deg);
+  transform: rotate(-180deg);
 }
 
 .your-portfolio .rectangle-4509 {
@@ -771,7 +798,7 @@
   font-weight: 400;
   height: 32px;
   left: 1384px;
-  letter-spacing: -0.80px;
+  letter-spacing: -0.8px;
   line-height: 104px;
   position: absolute;
   text-align: center;
@@ -1114,7 +1141,7 @@
   position: absolute;
   text-align: center;
   top: 693px;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   width: 35px;
 }
 
@@ -1126,7 +1153,7 @@
   position: absolute;
   text-align: center;
   top: 693px;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   width: 35px;
 }
 
@@ -1138,7 +1165,7 @@
   position: absolute;
   text-align: center;
   top: 773px;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   width: 35px;
 }
 
@@ -1150,7 +1177,7 @@
   position: absolute;
   text-align: center;
   top: 773px;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   width: 35px;
 }
 
@@ -1162,7 +1189,7 @@
   position: absolute;
   text-align: center;
   top: 773px;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   width: 35px;
 }
 
@@ -1174,7 +1201,7 @@
   position: absolute;
   text-align: center;
   top: 852px;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   width: 35px;
 }
 
@@ -1186,7 +1213,7 @@
   position: absolute;
   text-align: center;
   top: 852px;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   width: 35px;
 }
 
@@ -1198,7 +1225,7 @@
   position: absolute;
   text-align: center;
   top: 852px;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   width: 35px;
 }
 
@@ -1589,7 +1616,7 @@
   font-weight: 400;
   height: 44px;
   left: 278px;
-  letter-spacing: -1.00px;
+  letter-spacing: -1px;
   line-height: 104px;
   position: absolute;
   top: 1000px;
@@ -1626,7 +1653,7 @@
   font-weight: 400;
   height: 28px;
   left: 975px;
-  letter-spacing: -0.80px;
+  letter-spacing: -0.8px;
   line-height: 104px;
   position: absolute;
   text-align: center;
@@ -1638,7 +1665,7 @@
 .your-portfolio .most-valuable {
   height: 44px;
   left: 313px;
-  letter-spacing: -1.10px;
+  letter-spacing: -1.1px;
   line-height: 20px;
   position: absolute;
   top: 617px;
@@ -1648,7 +1675,7 @@
 .your-portfolio .collections {
   height: 44px;
   left: 313px;
-  letter-spacing: -1.10px;
+  letter-spacing: -1.1px;
   line-height: 20px;
   position: absolute;
   top: 999px;
@@ -1658,7 +1685,7 @@
 .your-portfolio .your-portfolio-1 {
   height: 44px;
   left: 316px;
-  letter-spacing: -1.10px;
+  letter-spacing: -1.1px;
   line-height: 20px;
   position: absolute;
   top: 75px;
@@ -1668,7 +1695,7 @@
 .your-portfolio .least-valuable {
   height: 44px;
   left: 709px;
-  letter-spacing: -1.10px;
+  letter-spacing: -1.1px;
   line-height: 20px;
   position: absolute;
   top: 617px;
@@ -1678,7 +1705,7 @@
 .your-portfolio .recycle {
   height: 44px;
   left: 1101px;
-  letter-spacing: -1.10px;
+  letter-spacing: -1.1px;
   line-height: 20px;
   position: absolute;
   top: 617px;

@@ -1108,7 +1108,7 @@
   height: 709px;
   left: 255px;
   position: absolute;
-  top: 2159px;
+  top: 2209px;
   width: 2039px;
 }
 
@@ -1204,22 +1204,28 @@
   width: 50px;
 }
 
-.landing-page .rectangle-4450 {
-  background-color: var(--ffffff);
-  height: 1px;
-  left: 0;
-  position: absolute;
-  top: 583px;
-  width: 1440px;
+.rectangle-4450 {
+  background-color: transparent;
+  border-bottom: 1px solid white;
+  border-top: 1px solid white;
+  height: 50px;
+  /* left: 0; */
+  /* position: absolute; */
+  /* top: 583px; */
+  width: 100%;
+  transform: translateY(-100px);
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
 }
 
-.landing-page .rectangle-4451 {
+.rectangle-4451 {
   background-color: var(--ffffff);
   height: 1px;
-  left: 0;
-  position: absolute;
-  top: 623px;
-  width: 1440px;
+  /* left: 0; */
+  /* position: absolute; */
+  width: 100%;
+  transform: translateY(-85px);
 }
 
 .landing-page .marketplace {
@@ -1343,12 +1349,17 @@
   width: 30px;
 }
 
-.landing-page .overlap-group2 {
+.overlap-group2 {
   height: 89px;
-  left: 0;
+  /* left: 0; */
   position: absolute;
-  top: 620px;
-  width: 2039px;
+  /* top: 620px; */
+  width: 100%;
+  display: flex;
+  align-items: center;
+  transform: translateY(-85px);
+  gap: 1rem;
+  grid-template-columns: repeat(20, 50px 1fr) 100%;
 }
 
 .landing-page .rectangle-4448 {

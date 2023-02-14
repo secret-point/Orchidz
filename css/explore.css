@@ -25,6 +25,34 @@
   width: 1px;
 }
 
+.bottom-overlap-group2 {
+  height: 89px;
+  /* left: 0; */
+  position: absolute;
+  /* top: 620px; */
+  width: 100%;
+  display: flex;
+  align-items: center;
+  transform: translateY(-85px);
+  gap: 1rem;
+  grid-template-columns: repeat(20, 50px 1fr) 100%;
+}
+
+.rectangle-4450 {
+  background-color: transparent;
+  border-bottom: 1px solid white;
+  border-top: 1px solid white;
+  height: 50px;
+  /* left: 0; */
+  /* position: absolute; */
+  /* top: 583px; */
+  width: 100%;
+  transform: translateY(-100px);
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
 .explore .group-3632 {
   min-height: 2051px;
   padding: 0 49px;
@@ -150,7 +178,7 @@
   left: 1338px;
   position: absolute;
   top: 0;
-  transform: rotate(-180.00deg);
+  transform: rotate(-180deg);
   width: 99px;
 }
 
@@ -203,12 +231,12 @@
   font-weight: 400;
   height: 30px;
   left: 1048px;
-  letter-spacing: -0.60px;
+  letter-spacing: -0.6px;
   line-height: 104px;
   position: absolute;
   text-align: center;
   top: 377px;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   white-space: nowrap;
   width: 30px;
 }
@@ -220,12 +248,12 @@
   font-weight: 400;
   height: 30px;
   left: 1324px;
-  letter-spacing: -0.60px;
+  letter-spacing: -0.6px;
   line-height: 104px;
   position: absolute;
   text-align: center;
   top: 377px;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
   white-space: nowrap;
   width: 30px;
 }
@@ -305,7 +333,7 @@
   font-size: 80px;
   font-weight: 400;
   left: 43px;
-  letter-spacing: -4.00px;
+  letter-spacing: -4px;
   top: 46px;
   width: 862px;
 }
@@ -507,7 +535,7 @@
 
 .explore .name {
   left: 19px;
-  letter-spacing: 0.60px;
+  letter-spacing: 0.6px;
   line-height: 37px;
   position: absolute;
   top: 362px;
@@ -517,7 +545,7 @@
 
 .explore .text-1 {
   left: 107px;
-  letter-spacing: 0.30px;
+  letter-spacing: 0.3px;
   line-height: 37px;
   position: absolute;
   top: 7px;
@@ -615,7 +643,7 @@
 .explore .text-16 {
   height: 50px;
   left: 264px;
-  letter-spacing: -1.10px;
+  letter-spacing: -1.1px;
   line-height: 104px;
   position: absolute;
   text-align: center;
@@ -640,7 +668,7 @@
 
 .explore .super-sports {
   left: 21px;
-  letter-spacing: 0.60px;
+  letter-spacing: 0.6px;
   line-height: 37px;
   position: absolute;
   top: 362px;
@@ -655,7 +683,7 @@
 .explore .text-16-1 {
   height: 50px;
   left: 266px;
-  letter-spacing: -1.10px;
+  letter-spacing: -1.1px;
   line-height: 104px;
   position: absolute;
   text-align: center;
@@ -667,7 +695,7 @@
 .explore .text-13 {
   height: 50px;
   left: 265px;
-  letter-spacing: -1.10px;
+  letter-spacing: -1.1px;
   line-height: 104px;
   position: absolute;
   text-align: center;
@@ -678,7 +706,7 @@
 
 .explore .chain-monsters {
   left: 21px;
-  letter-spacing: 0.60px;
+  letter-spacing: 0.6px;
   line-height: 37px;
   position: absolute;
   top: 362px;
@@ -765,7 +793,7 @@
 
 .explore .beast-1927 {
   left: 22px;
-  letter-spacing: 0.60px;
+  letter-spacing: 0.6px;
   line-height: 37px;
   position: absolute;
   top: 362px;
@@ -792,7 +820,7 @@
 
 .explore .choose-love {
   left: 19px;
-  letter-spacing: 0.60px;
+  letter-spacing: 0.6px;
   line-height: 37px;
   position: absolute;
   top: 362px;
@@ -802,7 +830,7 @@
 
 .explore .manic {
   left: 21px;
-  letter-spacing: 0.60px;
+  letter-spacing: 0.6px;
   line-height: 37px;
   position: absolute;
   top: 362px;
@@ -812,7 +840,7 @@
 
 .explore .vadar {
   left: 21px;
-  letter-spacing: 0.60px;
+  letter-spacing: 0.6px;
   line-height: 37px;
   position: absolute;
   top: 362px;
@@ -822,7 +850,7 @@
 
 .explore .art-doughnut {
   left: 22px;
-  letter-spacing: 0.60px;
+  letter-spacing: 0.6px;
   line-height: 37px;
   position: absolute;
   top: 362px;
@@ -855,7 +883,7 @@
   display: flex;
   gap: 115px;
   height: 491px;
-  margin-left: 6.0px;
+  margin-left: 6px;
   margin-top: 39px;
   min-width: 1374px;
 }
@@ -993,7 +1021,7 @@
   height: 42px;
   margin-right: 9px;
   min-width: 42px;
-  padding: 8.0px;
+  padding: 8px;
 }
 
 .explore .text-129 {
@@ -1002,7 +1030,7 @@
   line-height: normal;
   min-width: 24px;
   text-align: center;
-  transform: rotate(90.00deg);
+  transform: rotate(90deg);
 }
 
 .explore .company {
@@ -1067,7 +1095,7 @@
 
 .explore .address {
   left: 38px;
-  letter-spacing: -0.20px;
+  letter-spacing: -0.2px;
   line-height: 20px;
   opacity: 0.9;
   position: absolute;
@@ -1077,7 +1105,7 @@
 
 .explore .privacy-policy {
   left: 996px;
-  letter-spacing: -0.20px;
+  letter-spacing: -0.2px;
   line-height: 20px;
   opacity: 0.9;
   position: absolute;
@@ -1089,7 +1117,7 @@
 
 .explore .terms-of-service {
   left: 1116px;
-  letter-spacing: -0.20px;
+  letter-spacing: -0.2px;
   line-height: 20px;
   opacity: 0.9;
   position: absolute;
@@ -1118,21 +1146,21 @@
 
 .explore .explore-2 {
   left: 68px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   top: 27px;
   width: 731px;
 }
 
 .explore .explore-3 {
   left: 989px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   top: 27px;
   width: 264px;
 }
 
 .explore .sell {
   left: 764px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 27px;
@@ -1142,7 +1170,7 @@
 
 .explore .collect {
   left: 393px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 27px;
@@ -1153,7 +1181,7 @@
 .explore .text-132 {
   height: 66px;
   left: 22px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 32px;
@@ -1164,7 +1192,7 @@
 .explore .text-133 {
   height: 66px;
   left: 336px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 40px;
@@ -1175,7 +1203,7 @@
 .explore .text-134 {
   height: 66px;
   left: 1253px;
-  letter-spacing: -3.00px;
+  letter-spacing: -3px;
   line-height: 84px;
   position: absolute;
   top: 40px;

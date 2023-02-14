@@ -39,10 +39,9 @@
 .navigation-web-top-b .nav-overlap {
   align-items: center;
   background-color: var(--shadowsondark4px);
-  box-shadow: 0px 3px 4px #00000040;
   display: flex;
   height: 86px;
-  margin-top: -1px;
+  margin-top: -2px;
   width: 100%;
   padding: 2rem;
   justify-content: space-between;

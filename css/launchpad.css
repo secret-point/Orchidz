@@ -2,7 +2,7 @@
 
 .launchpad {
   align-items: flex-start;
-  background-color: var(--ffffff);
+  /* background-color: var(--ffffff); */
   border: 1px none;
   display: flex;
   gap: 9197px;
@@ -975,13 +975,19 @@
   width: 50px;
 }
 
-.launchpad .rectangle-4450 {
-  background-color: var(--ffffff);
-  height: 1px;
-  left: 0;
-  position: absolute;
-  top: 583px;
-  width: 1440px;
+.rectangle-4450 {
+  background-color: transparent;
+  border-bottom: 1px solid white;
+  border-top: 1px solid white;
+  height: 50px;
+  /* left: 0; */
+  /* position: absolute; */
+  /* top: 583px; */
+  width: 100%;
+  transform: translateY(-100px);
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
 }
 
 .launchpad .rectangle-4451 {
