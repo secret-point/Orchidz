@@ -69,6 +69,8 @@
   --font-family-sf_pro_display-thin: "SF Pro Display-Thin", Helvetica;
   --font-family-sf_pro_display-ultralight: "SF Pro Display-Ultralight",
     Helvetica;
+  --font-family-pp_eiko-medium: "PP Eiko-Medium", Helvetica;
+  --font-family-pp_eiko_italic-light: "PP Eiko Italic-Light", Helvetica;
 }
 .inter-bold-white-14px {
   color: var(--ffffff);
