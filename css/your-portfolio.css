@@ -2,17 +2,18 @@
 
 .your-portfolio {
   align-items: flex-start;
-  background-color: var(--ffffff);
+  background-color: black;
   border: 1px none;
   display: flex;
   width: 1440px;
-  transform: scale(1.3, 1.06);
+  transform: scale(1.3, 1.12);
 }
 
 .your-portfolio .overlap-group5 {
   height: 2264px;
   position: relative;
   width: 1440px;
+  top: 3rem;
 }
 
 .your-portfolio .rectangle-1 {
