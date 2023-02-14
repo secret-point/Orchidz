@@ -1,17 +1,3 @@
-<svg width="131" height="56" viewBox="0 0 131 56" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_d_30_16125)">
-<path d="M13.5 17C13.5 8.99187 19.9919 2.5 28 2.5H103C111.008 2.5 117.5 8.99187 117.5 17C117.5 25.0081 111.008 31.5 103 31.5H28C19.9919 31.5 13.5 25.0081 13.5 17Z" stroke="#F8DCFF" shape-rendering="crispEdges"/>
-</g>
-<defs>
-<filter id="filter0_d_30_16125" x="0" y="0" width="131" height="56" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="11"/>
-<feGaussianBlur stdDeviation="6.5"/>
-<feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_30_16125"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_30_16125" result="shape"/>
-</filter>
-</defs>
+<svg width="164" height="35" viewBox="0 0 164 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.5 17.5C0.5 8.11116 8.11116 0.5 17.5 0.5H146.5C155.889 0.5 163.5 8.11116 163.5 17.5C163.5 26.8888 155.889 34.5 146.5 34.5H17.5C8.11116 34.5 0.5 26.8888 0.5 17.5Z" fill="#1A1A20" stroke="#393939"/>
 </svg>

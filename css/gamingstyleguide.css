@@ -1,0 +1,98 @@
+:root { 
+  --ffffff: #ffffff;
+  --pink-lace: #f8dcff;
+  --shadowsondark4px: #000000;
+  --shadowsonlight4px: #ffffff;
+  --x000000primary: #000000;
+  --x000000soft: #000000;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 17px;
+  --font-size-s: 15px;
+  --font-size-xl: 60px;
+  --font-size-xs: 14px;
+  --font-size-xxs: 13px;
+  --font-size-xxxs: 9px;
+ 
+  --font-family-pp_eiko-medium: "PP Eiko-Medium", Helvetica;
+  --font-family-pp_eiko_italic-light: "PP Eiko Italic-Light", Helvetica;
+  --font-family-pp_supply_mono-regular: "PP Supply Mono-Regular", Helvetica;
+  --font-family-pp_supply_sans-light: "PP Supply Sans-Light", Helvetica;
+  --font-family-pp_supply_sans-regular: "PP Supply Sans-Regular", Helvetica;
+  --font-family-pp_supply_sans-ultralight: "PP Supply Sans-Ultralight", Helvetica;
+  --font-family-sf_pro-light: "SF Pro-Light", Helvetica;
+  --font-family-sf_pro_display-regular: "SF Pro Display-Regular", Helvetica;
+  --font-family-sf_pro_display-thin: "SF Pro Display-Thin", Helvetica;
+  --font-family-sf_pro_display-ultralight: "SF Pro Display-Ultralight", Helvetica;
+}
+.ppsupplysans-regular-normal-black-17px {
+  color: var(--shadowsondark4px);
+  font-family: var(--font-family-pp_supply_sans-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ppsupplysans-light-white-17px {
+  color: var(--ffffff);
+  font-family: var(--font-family-pp_supply_sans-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.ppsupplysans-regular-normal-white-9px {
+  color: var(--ffffff);
+  font-family: var(--font-family-pp_supply_sans-regular);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ppsupplysans-light-white-13px {
+  color: var(--ffffff);
+  font-family: var(--font-family-pp_supply_sans-light);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.ppsupplysans-regular-normal-white-18px {
+  color: var(--ffffff);
+  font-family: var(--font-family-pp_supply_sans-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ppsupplymono-regular-normal-black-60px {
+  color: var(--shadowsondark4px);
+  font-family: var(--font-family-pp_supply_mono-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ppsupplysans-light-white-15px {
+  color: var(--ffffff);
+  font-family: var(--font-family-pp_supply_sans-light);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.sfprodisplay-thin-white-30px {
+  color: var(--ffffff);
+  font-family: var(--font-family-sf_pro_display-thin);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 100;
+}
+
+.ppsupplymono-regular-normal-black-10px {
+  color: var(--shadowsondark4px);
+  font-family: var(--font-family-pp_supply_mono-regular);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+}
