@@ -34,24 +34,13 @@
   /* position: absolute; */
   /* top: 583px; */
   width: 100%;
-  transform: translateY(-100px);
+  transform: translateY(80px);
   display: flex;
   justify-content: space-between;
   padding: 1rem;
+  align-items: center;
 }
 
-.bottom-overlap-group2 {
-  height: 89px;
-  /* left: 0; */
-  position: absolute;
-  /* top: 620px; */
-  width: 100%;
-  display: flex;
-  align-items: center;
-  transform: translateY(-85px);
-  gap: 1rem;
-  grid-template-columns: repeat(20, 50px 1fr) 100%;
-}
 .your-portfolio .rectangle-4531 {
   height: 80px;
   left: 261px;
